@@ -1,40 +1,40 @@
-Date,Day,Game,Away Team,Home Team,Start Time,End Time,Location
-2021-04-03,Sat,3,Rough Riders,Ken's Market,14:00:00,16:00:00,Lower Woodland Park Field 4
-2021-04-03,Sat,4,Goodman Racing,Reuben's Brewers,14:00:00,16:00:00,Lower Woodland Park Field 5
-2021-04-06,Tues,21,Reuben's Brewers,Rough Riders,18:30:00,20:30:00,Lower Woodland Park Field 6
-2021-04-08,Thu,9,Rough Riders,Hornets,20:00:00,18:00:00,Maple Leaf 2
-2021-04-08,Thu,12,Ken's Market,Reuben's Brewers,18:30:00,20:30:00,Lower Woodland Park Field 6
-2021-04-20,Tue,29,Ken's Market,Rough Riders,18:30:00,20:30:00,Lower Woodland Park Field 5
-2021-04-20,Tue,33,Reuben's Brewers,Shore2,19:00:00,21:00:00,Shorewood H.S. 
-2021-04-22,Thu,37,Hornets,Reuben's Brewers,18:30:00,20:30:00,Lower Woodland Park Field 5
-2021-04-22,Thu,38,Ken's Market,NW1,18:00:00,20:00:00,Soundview Field 3
-2021-04-24,Sat,43,Ballard Plumbing,Rough Riders,14:00:00,16:00:00,Lower Woodland Park Field 4
-2021-04-24,Sat,44,Reuben's Brewers,Ken's Market,14:00:00,16:00:00,Lower Woodland Park Field 5
-2021-04-27,Tue,52,Ken's Market,Colliers,17:30:00,19:30:00,Bayview Playground (Raye Field)
-2021-04-27,Tue,53,Rough Riders,Reuben's Brewers,18:30:00,20:30:00,Lower Woodland Park Field 6
-2021-05-01,Sat,64,Rough Riders,Limback Lumber,09:00:00,11:00:00,Gilman 1
-2021-05-01,Sat,65,Ken's Market,Ballard Plumbing,11:30:00,13:30:00,Gilman 1
-2021-05-01,Sat,69,Reuben's Brewers,Fischer Plumbing,13:00:00,15:30:00,QA3
-2021-05-04,Tue,74,Limback Lumber,Reuben's Brewers,18:30:00,20:30:00,Lower Woodland Park Field 3
-2021-05-04,Tue,75,Rough Riders,Ken's Market,18:30:00,20:30:00,Lower Woodland Park Field 6
-2021-05-06,Thu,84,Ken's Market,Reuben's Brewers,18:30:00,20:30:00,Lower Woodland Park Field 5
-2021-05-08,Sat,86,Ken's Market,Goodman Racing,13:00:00,15:00:00,Bayview Playground (Raye Field)
-2021-05-08,Sat,88,Shore3,Rough Riders,14:00:00,16:00:00,Lower Woodland Park Field 5
-2021-05-08,Sat,90,Reuben's Brewers,NW2,12:30:00,15:00:00,Soundview Field 4
-2021-05-11,Tue,98,NW2,Rough Riders,18:30:00,20:30:00,Lower Woodland Park Field 6
-2021-05-13,Thu,103,Reuben's Brewers,Rough Riders,18:30:00,20:30:00,Lower Woodland Park Field 4
-2021-05-13,Thu,104,Hornets,Ken's Market,18:30:00,20:30:00,Lower Woodland Park Field 5
-2021-05-15,Sat,113,Colliers,Rough Riders,14:00:00,16:00:00,Lower Woodland Park Field 5
-2021-05-15,Sat,114,Ken's Market,Best Plumbing,13:00:00,15:30:00,QA3
-2021-05-18,Tue,122,Ken's Market,Rough Riders,18:30:00,20:30:00,Lower Woodland Park Field 3
-2021-05-18,Tue,123,Best Plumbing,Reuben's Brewers,18:30:00,20:30:00,Lower Woodland Park Field 6
-2021-05-20,Thu,126,Reuben's Brewers,Ken's Market,18:30:00,20:30:00,Lower Woodland Park Field 5
-2021-05-20,Thu,128,Rough Riders,Fischer Plumbing,17:30:00,20:00:00,QA3
-2021-05-22,Sat,133,Reuben's Brewers,Ballard Nordics,13:00:00,15:00:00,Gilman 1
-2021-05-22,Sat,136,Reuben's Brewers,Ballard Plumbing,15:30:00,17:30:00,Gilman 2
-2021-05-22,Sat,137,Albert Lee,Ken's Market,13:30:00,15:30:00,Lower Woodland Park Field 4
-2021-05-22,Sat,138,Shore1,Ken's Market,16:00:00,18:00:00,Lower Woodland Park Field 4
-2021-05-22,Sat,139,Albert Lee,Rough Riders,13:30:00,15:30:00,Lower Woodland Park Field 5
-2021-05-22,Sat,140,Shore1,Rough Riders,16:00:00,18:00:00,Lower Woodland Park Field 5
-2021-05-27,Thu,153,Ken's Market,Ken's Market,18:30:00,20:30:00,Lower Woodland Park Field 3
-2021-05-27,Thu,154,Rough Riders,Reuben's Brewers,18:15:00,20:00:00,Lower Woodland Park Field 5
+Date,Day,Location,Start Time,End Time,Game,Away Team,Home Team
+04/03/2021,Sat,LW4,14:00,16:00,3,Rough Riders,Ken's Market
+04/03/2021,Sat,LW5,14:00,16:00,4,Goodman Racing,Reuben's Brewers
+04/06/2021,Tue,LW6,18:30,20:30,21,Reuben's Brewers,Rough Riders
+04/08/2021,Thu,Maple Leaf 2,20:00,18:00,9,Rough Riders,Hornets
+04/08/2021,Thu,LW6,18:30,20:30,12,Ken's Market,Reuben's Brewers
+04/20/2021,Tue,LW5,18:30,20:30,29,Ken's Market,Rough Riders
+04/20/2021,Tue,Shorewood H.S. ,19:00,21:00,33,Reuben's Brewers,Shore2
+04/22/2021,Thu,LW5,18:30,20:30,37,Hornets,Reuben's Brewers
+04/22/2021,Thu,Soundview Field 3,18:00,20:00,38,Ken's Market,NW1
+04/24/2021,Sat,LW4,14:00,16:00,43,Ballard Plumbing,Rough Riders
+04/24/2021,Sat,LW5,14:00,16:00,44,Reuben's Brewers,Ken's Market
+04/27/2021,Tue,Bayview Playground (Raye Field),17:30,19:30,52,Ken's Market,Colliers
+04/27/2021,Tue,LW6,18:30,20:30,53,Rough Riders,Reuben's Brewers
+05/01/2021,Sat,Gilman 1,09:00,11:00,64,Rough Riders,Limback Lumber
+05/01/2021,Sat,Gilman 1,11:30,13:30,65,Ken's Market,Ballard Plumbing
+05/01/2021,Sat,QA3,13:00,15:30,69,Reuben's Brewers,Fischer Plumbing
+05/04/2021,Tue,LW3,18:30,20:30,74,Limback Lumber,Reuben's Brewers
+05/04/2021,Tue,LW6,18:30,20:30,75,Rough Riders,Ken's Market
+05/06/2021,Thu,LW5,18:30,20:30,84,Ken's Market,Reuben's Brewers
+05/08/2021,Sat,Bayview Playground (Raye Field),13:00,15:00,86,Ken's Market,Goodman Racing
+05/08/2021,Sat,LW5,14:00,16:00,88,Shore3,Rough Riders
+05/08/2021,Sat,Soundview Field 4,12:30,15:00,90,Reuben's Brewers,NW2
+05/11/2021,Tue,LW6,18:30,20:30,98,NW2,Rough Riders
+05/13/2021,Thu,LW4,18:30,20:30,103,Reuben's Brewers,Rough Riders
+05/13/2021,Thu,LW5,18:30,20:30,104,Hornets,Ken's Market
+05/15/2021,Sat,LW5,14:00,16:00,113,Colliers,Rough Riders
+05/15/2021,Sat,QA3,13:00,15:30,114,Ken's Market,Best Plumbing
+05/18/2021,Tue,LW3,18:30,20:30,122,Ken's Market,Rough Riders
+05/18/2021,Tue,LW6,18:30,20:30,123,Best Plumbing,Reuben's Brewers
+05/20/2021,Thu,LW5,18:30,20:30,126,Reuben's Brewers,Ken's Market
+05/20/2021,Thu,QA3,17:30,20:00,128,Rough Riders,Fischer Plumbing
+05/22/2021,Sat,Gilman 1,13:00,15:00,133,Reuben's Brewers,Ballard Nordics
+05/22/2021,Sat,Gilman 2,15:30,17:30,136,Reuben's Brewers,Ballard Plumbing
+05/22/2021,Sat,LW4,13:30,15:30,137,Albert Lee,Ken's Market
+05/22/2021,Sat,LW4,16:00,18:00,138,Shore1,Ken's Market
+05/22/2021,Sat,LW5,13:30,15:30,139,Albert Lee,Rough Riders
+05/22/2021,Sat,LW5,16:00,18:00,140,Shore1,Rough Riders
+05/27/2021,Thu,LW3,18:30,20:30,153,Ken's Market,Ken's Market
+05/27/2021,Thu,LW5,18:15,20:00,154,Rough Riders,Reuben's Brewers

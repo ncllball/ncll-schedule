@@ -1,37 +1,37 @@
-Date,Day,Game,Away Team,Home Team,Start Time,End Time,Location
-4/3/2021,Saturday,3,NCLL Dynamite,NCLL SantoriniDave.com,11:30 AM,1:30 PM,Lower Woodland Playfield #5
-4/3/2021,Saturday,5,NCLL Harjo Construction,QALL Phoenix,2:00 PM,4:00 PM,West Queen Anne Playfield #2
-4/6/2021,Tuesday,7,NCLL SantoriniDave.com,MLL Phoenix,5:00 PM,7:15 PM,Lawton Park
-4/6/2021,Tuesday,12,NCLL Dynamite,NCLL Harjo Construction,6:30 PM,8:30 PM,Lower Woodland Playfield #3
-4/13/2021,Tuesday,15,MLL Panthers,NCLL SantoriniDave.com,6:30 PM,8:30 PM,Lower Woodland Playfield #6
-4/15/2021,Thursday,16,NCLL Harjo Construction,MLL Phoenix,5:30 PM,7:45 PM,Magnoliia Playfield #2
-4/15/2021,Thursday,18,BLL Devils,NCLL Dynamite,6:30 PM,8:30 PM,Lower Woodland Playfield #6
-4/20/2021,Tuesday,20,NCLL SantoriniDave.com,BLL Blazing Tigers,5:45 PM,8:00 PM,Gilman Playfield #2
-4/20/2021,Tuesday,23,QALL Phoenix,NCLL Dynamite,6:30 PM,8:30 PM,Lower Woodland Playfield #6
-4/22/2021,Thursday,24,MLL Panthers,NCLL Harjo Construction,6:30 PM,8:30 PM,Lower Woodland Playfield #6
-4/24/2021,Saturday,28,NCLL SantoriniDave.com,NCLL Harjo Construction,11:30 AM,1:30 PM,Lower Woodland Playfield #5
-4/24/2021,Saturday,29,BLL Blazing Tigers,NCLL Dynamite,11:30 AM,1:30 PM,Lower Woodland Playfield #6
-4/27/2021,Tuesday,35,MLL Phoenix,NCLL Dynamite,6:30 PM,8:30 PM,Lower Woodland Playfield #3
-4/29/2021,Thursday,31,NCLL Harjo Construction,BLL Blazing Tigers,6:15 PM,8:30 PM,Loyal Heights Playfield #2
-4/29/2021,Thursday,36,BLL Devils,NCLL SantoriniDave.com,6:30 PM,8:30 PM,Lower Woodland Playfield #6
-5/1/2021,Saturday,37,NCLL Harjo Construction,BLL Devils,11:00 AM,1:15 PM,Gilman Playfield #2
-5/1/2021,Saturday,38,MLL Panthers,NCLL Dynamite,11:30 AM,1:30 PM,Lower Woodland Playfield #6
-5/1/2021,Saturday,41,NCLL SantoriniDave.com,QALL Phoenix,2:30 PM,4:30 PM,West Queen Anne Playfield #2
-5/4/2021,Tuesday,48,QALL Phoenix,NCLL Harjo Construction,6:15 PM,8:00 PM,Lower Woodland Playfield #5
-5/6/2021,Thursday,49,NCLL SantoriniDave.com,NCLL Dynamite,6:30 PM,8:30 PM,Lower Woodland Playfield #3
-5/8/2021,Saturday,52,NCLL Harjo Construction,NCLL Dynamite,11:30 AM,1:30 PM,Lower Woodland Playfield #5
-5/8/2021,Saturday,53,MLL Phoenix,NCLL SantoriniDave.com,11:30 AM,1:30 PM,Lower Woodland Playfield #6
-5/11/2021,Tuesday,56,NCLL SantoriniDave.com,MLL Panthers,5:30 PM,7:45 PM,Magnolia Playfield #2
-5/11/2021,Tuesday,59,MLL Phoenix,NCLL Harjo Construction,6:30 PM,8:30 PM,Lower Woodland Playfield #3
-5/13/2021,Thursday,60,NCLL Dynamite,BLL Devils,6:15 PM,8:30 PM,Loyal Heights Playfield #2
-5/15/2021,Saturday,63,NCLL Harjo Construction,MLL Panthers,9:00 AM,11:15 AM,Magnolia Playfield #2
-5/15/2021,Saturday,65,BLL Blazing Tigers,NCLL SantoriniDave.com,11:30 AM,1:30 PM,Lower Woodland Playfield #5
-5/15/2021,Saturday,67,NCLL Dynamite,QALL Phoenix,2:15 PM,4:15 PM,West Queen Anne Playfield #2
-5/18/2021,Tuesday,70,NCLL Dynamite,BLL Blazing Tigers,5:45 PM,8:00 PM,Gilman Playfield #1
-5/18/2021,Tuesday,75,NCLL Harjo Construction,NCLL SantoriniDave.com,6:15 PM,8:15 PM,Lower Woodland Playfield #5
-5/22/2021,Saturday,79,NCLL SantoriniDave.com,BLL Devils,9:00 AM,11:15 AM,Loyal Heights Playfield #2
-5/22/2021,Saturday,80,NCLL Dynamite,MLL Phoenix,9:00 AM,11:15 AM,Magnolia Playfield #2
-5/22/2021,Saturday,81,BLL Blazing Tigers,NCLL Harjo Construction,11:30 AM,1:30 PM,Lower Woodland Playfield #5
-5/25/2021,Tuesday,89,BLL Devils,NCLL Harjo Construction,6:30 PM,8:30 PM,Lower Woodland Playfield #3
-5/27/2021,Thursday,90,NCLL Dynamite,MLL Panthers,5:30 PM,7:45 PM,Magnolia Playfield #2
-5/27/2021,Thursday,94,QALL Phoenix,NCLL SantoriniDave.com,6:15 PM,8:00 PM,Lower Woodland Playfield #4
+Date,Day,Location,Start Time,End Time,Game,Away Team,Home Team
+04/03/2021,Sat,LW5,11:30,13:30,3,NCLL Dynamite,NCLL SantoriniDave.com
+04/03/2021,Sat,West Queen Anne Playfield #2,14:00,16:00,5,NCLL Harjo Construction,QALL Phoenix
+04/06/2021,Tue,Lawton Park,17:00,19:15,7,NCLL SantoriniDave.com,MLL Phoenix
+04/06/2021,Tue,LW3,18:30,20:30,12,NCLL Dynamite,NCLL Harjo Construction
+04/13/2021,Tue,LW6,18:30,20:30,15,MLL Panthers,NCLL SantoriniDave.com
+04/15/2021,Thu,Magnoliia Playfield #2,17:30,19:45,16,NCLL Harjo Construction,MLL Phoenix
+04/15/2021,Thu,LW6,18:30,20:30,18,BLL Devils,NCLL Dynamite
+04/20/2021,Tue,Gilman Playfield #2,17:45,20:00,20,NCLL SantoriniDave.com,BLL Blazing Tigers
+04/20/2021,Tue,LW6,18:30,20:30,23,QALL Phoenix,NCLL Dynamite
+04/22/2021,Thu,LW6,18:30,20:30,24,MLL Panthers,NCLL Harjo Construction
+04/24/2021,Sat,LW5,11:30,13:30,28,NCLL SantoriniDave.com,NCLL Harjo Construction
+04/24/2021,Sat,LW6,11:30,13:30,29,BLL Blazing Tigers,NCLL Dynamite
+04/27/2021,Tue,LW3,18:30,20:30,35,MLL Phoenix,NCLL Dynamite
+04/29/2021,Thu,Loyal Heights Playfield #2,18:15,20:30,31,NCLL Harjo Construction,BLL Blazing Tigers
+04/29/2021,Thu,LW6,18:30,20:30,36,BLL Devils,NCLL SantoriniDave.com
+05/01/2021,Sat,Gilman Playfield #2,11:00,13:15,37,NCLL Harjo Construction,BLL Devils
+05/01/2021,Sat,LW6,11:30,13:30,38,MLL Panthers,NCLL Dynamite
+05/01/2021,Sat,West Queen Anne Playfield #2,14:30,16:30,41,NCLL SantoriniDave.com,QALL Phoenix
+05/04/2021,Tue,LW5,18:15,20:00,48,QALL Phoenix,NCLL Harjo Construction
+05/06/2021,Thu,LW3,18:30,20:30,49,NCLL SantoriniDave.com,NCLL Dynamite
+05/08/2021,Sat,LW5,11:30,13:30,52,NCLL Harjo Construction,NCLL Dynamite
+05/08/2021,Sat,LW6,11:30,13:30,53,MLL Phoenix,NCLL SantoriniDave.com
+05/11/2021,Tue,Magnolia Playfield #2,17:30,19:45,56,NCLL SantoriniDave.com,MLL Panthers
+05/11/2021,Tue,LW3,18:30,20:30,59,MLL Phoenix,NCLL Harjo Construction
+05/13/2021,Thu,Loyal Heights Playfield #2,18:15,20:30,60,NCLL Dynamite,BLL Devils
+05/15/2021,Sat,Magnolia Playfield #2,09:00,11:15,63,NCLL Harjo Construction,MLL Panthers
+05/15/2021,Sat,LW5,11:30,13:30,65,BLL Blazing Tigers,NCLL SantoriniDave.com
+05/15/2021,Sat,West Queen Anne Playfield #2,14:15,16:15,67,NCLL Dynamite,QALL Phoenix
+05/18/2021,Tue,Gilman Playfield #1,17:45,20:00,70,NCLL Dynamite,BLL Blazing Tigers
+05/18/2021,Tue,LW5,18:15,20:15,75,NCLL Harjo Construction,NCLL SantoriniDave.com
+05/22/2021,Sat,Loyal Heights Playfield #2,09:00,11:15,79,NCLL SantoriniDave.com,BLL Devils
+05/22/2021,Sat,Magnolia Playfield #2,09:00,11:15,80,NCLL Dynamite,MLL Phoenix
+05/22/2021,Sat,LW5,11:30,13:30,81,BLL Blazing Tigers,NCLL Harjo Construction
+05/25/2021,Tue,LW3,18:30,20:30,89,BLL Devils,NCLL Harjo Construction
+05/27/2021,Thu,Magnolia Playfield #2,17:30,19:45,90,NCLL Dynamite,MLL Panthers
+05/27/2021,Thu,LW4,18:15,20:00,94,QALL Phoenix,NCLL SantoriniDave.com
