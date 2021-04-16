@@ -1,31 +1,31 @@
-Date,Day,Location,Start Time,End Time,Game,Away Team,Home Team
-04/24/2021,Sat,LW3,11:30,13:30,4,NCLL Cube Smart Cats,NCLL Cheeto Sloths
-04/24/2021,Sat,LW4,11:30,13:30,5,NWLL Ballard Pediatric Denistry,NCLL Lightning Dogs
-05/01/2021,Sat,LW3,11:30,13:30,10,NCLL Lightning Dogs,NCLL Cube Smart Cats
-05/01/2021,Sat,LW4,11:30,13:30,11,NESLL Wolfpack,NCLL Cheeto Sloths
-05/08/2021,Sat,Dahl Playfield #3,11:00,13:15,20,NCLL Cube Smart Cats,NESLL Wolfpack
-05/08/2021,Sat,LW3,11:30,13:30,21,RUGLL Alley Cats,NCLL Lightning Dogs
-05/08/2021,Sat,Dahl Playfield #3,14:00,16:15,23,NCLL Cheeto Sloths,Northeast #3
-05/12/2021,Wed,Lower Ross,17:30,19:45,27,NESLL Golden Girls,NCLL Lightning Dogs
-05/12/2021,Wed,Northacres Park #2,18:00,20:15,30,NCLL Cheeto Sloths,NWLL Ballard Pediatric Denistry
-05/12/2021,Wed,LW3,18:15,20:00,31,RUGLL Alley Cats,NCLL Cube Smart Cats
-05/15/2021,Sat,Dahl Playfield #3,11:00,13:15,33,NCLL Cube Smart Cats,Northeast #3
-05/15/2021,Sat,LW3,11:30,13:30,34,NCLL Lightning Dogs,NCLL Cheeto Sloths
-05/18/2021,Tue,Mickey Merriam Playfield #11,18:00,20:15,40,NCLL Lightning Dogs,NESLL Wolfpack
-05/18/2021,Tue,Ravenna Park #1,18:00,20:15,41,NCLL Cheeto Sloths,RUGLL Alley Cats
-05/19/2021,Wed,Lower Ross,17:30,19:45,43,NESLL Golden Girls,NCLL Cube Smart Cats
-05/22/2021,Sat,LW3,11:30,13:30,48,NESLL Golden Girls,NCLL Cheeto Sloths
-05/22/2021,Sat,LW4,11:30,13:30,49,Northeast #3,NCLL Lightning Dogs
-05/22/2021,Sat,Northacres Park #2,12:30,14:45,51,NCLL Cube Smart Cats,NWLL Ballard Pediatric Denistry
-05/26/2021,Wed,Lower Ross,17:30,19:45,54,NCLL Cheeto Sloths,NCLL Cube Smart Cats
-05/26/2021,Wed,Northacres Park #2,18:00,20:15,58,NCLL Lightning Dogs,NWLL Ballard Pediatric Denistry
-06/02/2021,Wed,Lower Ross,17:30,19:45,60,NCLL Cube Smart Cats,NCLL Lightning Dogs
-06/02/2021,Wed,Mickey Merriam Playfield #10,18:00,20:15,64,NCLL Cheeto Sloths,NESLL Wolfpack
-06/05/2021,Sat,Maple Leaf #2,09:00,11:00,68,NCLL Lightning Dogs,RUGLL Alley Cats
-06/05/2021,Sat,LW3,11:30,13:30,70,NESLL Wolfpack,NCLL Cube Smart Cats
-06/05/2021,Sat,LW4,11:30,13:30,71,Northeast #3,NCLL Cheeto Sloths
-06/09/2021,Wed,Lower Ross,17:30,19:30,75,NWLL Ballard Pediatric Denistry,NCLL Cheeto Sloths
-06/09/2021,Wed,Laurelhurst Playfield #2,18:00,20:15,77,NCLL Lightning Dogs,NESLL Golden Girls
-06/09/2021,Wed,Maple Leaf #2,18:00,20:15,79,NCLL Cube Smart Cats,RUGLL Alley Cats
-06/12/2021,Sat,LW3,11:30,13:30,85,Northeast #3,NCLL Cube Smart Cats
-06/12/2021,Sat,LW4,11:30,13:30,86,NCLL Cheeto Sloths,NCLL Lightning Dogs
+Date,Day,Location,Start Time,End Time,Game,Away Team,Home Team,Permit
+04/24/2021,Sat,LW3,11:30,13:30,4,NCLL Cube Smart Cats,NCLL Cheeto Sloths,
+04/24/2021,Sat,LW4,11:30,13:30,5,NWLL Ballard Pediatric Denistry,NCLL Lightning Dogs,
+05/01/2021,Sat,LW3,11:30,13:30,10,NCLL Lightning Dogs,NCLL Cube Smart Cats,
+05/01/2021,Sat,LW4,11:30,13:30,11,NESLL Wolfpack,NCLL Cheeto Sloths,
+05/08/2021,Sat,Dahl Playfield #3,11:00,13:15,20,NCLL Cube Smart Cats,NESLL Wolfpack,
+05/08/2021,Sat,LW3,11:30,13:30,21,RUGLL Alley Cats,NCLL Lightning Dogs,
+05/08/2021,Sat,Dahl Playfield #3,14:00,16:15,23,NCLL Cheeto Sloths,Northeast #3,
+05/12/2021,Wed,Lower Ross,17:30,19:45,27,NESLL Golden Girls,NCLL Lightning Dogs,
+05/12/2021,Wed,Northacres Park #2,18:00,20:15,30,NCLL Cheeto Sloths,NWLL Ballard Pediatric Denistry,
+05/12/2021,Wed,LW3,18:15,20:00,31,RUGLL Alley Cats,NCLL Cube Smart Cats,
+05/15/2021,Sat,Dahl Playfield #3,11:00,13:15,33,NCLL Cube Smart Cats,Northeast #3,
+05/15/2021,Sat,LW3,11:30,13:30,34,NCLL Lightning Dogs,NCLL Cheeto Sloths,
+05/18/2021,Tue,Mickey Merriam Playfield #11,18:00,20:15,40,NCLL Lightning Dogs,NESLL Wolfpack,
+05/18/2021,Tue,Ravenna Park #1,18:00,20:15,41,NCLL Cheeto Sloths,RUGLL Alley Cats,
+05/19/2021,Wed,Lower Ross,17:30,19:45,43,NESLL Golden Girls,NCLL Cube Smart Cats,
+05/22/2021,Sat,LW3,11:30,13:30,48,NESLL Golden Girls,NCLL Cheeto Sloths,
+05/22/2021,Sat,LW4,11:30,13:30,49,Northeast #3,NCLL Lightning Dogs,
+05/22/2021,Sat,Northacres Park #2,12:30,14:45,51,NCLL Cube Smart Cats,NWLL Ballard Pediatric Denistry,
+05/26/2021,Wed,Lower Ross,17:30,19:45,54,NCLL Cheeto Sloths,NCLL Cube Smart Cats,
+05/26/2021,Wed,Northacres Park #2,18:00,20:15,58,NCLL Lightning Dogs,NWLL Ballard Pediatric Denistry,
+06/02/2021,Wed,Lower Ross,17:30,19:45,60,NCLL Cube Smart Cats,NCLL Lightning Dogs,
+06/02/2021,Wed,Mickey Merriam Playfield #10,18:00,20:15,64,NCLL Cheeto Sloths,NESLL Wolfpack,
+06/05/2021,Sat,Maple Leaf #2,09:00,11:00,68,NCLL Lightning Dogs,RUGLL Alley Cats,
+06/05/2021,Sat,LW3,11:30,13:30,70,NESLL Wolfpack,NCLL Cube Smart Cats,
+06/05/2021,Sat,LW4,11:30,13:30,71,Northeast #3,NCLL Cheeto Sloths,
+06/09/2021,Wed,Lower Ross,17:30,19:30,75,NWLL Ballard Pediatric Denistry,NCLL Cheeto Sloths,
+06/09/2021,Wed,Laurelhurst Playfield #2,18:00,20:15,77,NCLL Lightning Dogs,NESLL Golden Girls,
+06/09/2021,Wed,Maple Leaf #2,18:00,20:15,79,NCLL Cube Smart Cats,RUGLL Alley Cats,
+06/12/2021,Sat,LW3,11:30,13:30,85,Northeast #3,NCLL Cube Smart Cats,
+06/12/2021,Sat,LW4,11:30,13:30,86,NCLL Cheeto Sloths,NCLL Lightning Dogs,
