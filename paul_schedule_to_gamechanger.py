@@ -2,6 +2,37 @@
 import csv
 import sys
 
+new_csv_headers = [
+    "Start_Date",
+    "Start_Time",
+    "End_Date",
+    "End_Time",
+    "Title",
+    "Description",
+    "Location",
+    "Location_URL",
+    "Location_Details",
+    "All_Day_Event",
+    "Event_Type",
+    "Tags",
+    "Team1_ID",
+    "Team1_Division_ID",
+    "Team1_Is_Home",
+    "Team2_ID",
+    "Team2_Division_ID",
+    "Team2_Name",
+    "Custom_Opponent",
+    "Event_ID",
+    "Game_ID",
+    "Affects_Standings",
+    "Points_Win",
+    "Points_Loss",
+    "Points_Tie",
+    "Points_OT_Win",
+    "Points_OT_Loss",
+    "Division_Override",
+]
+
 
 def get_location(old_row):
     old_location = old_row[9]
@@ -28,7 +59,7 @@ def is_row_ncll(old_row):
 
 def convert_row(old_row):
     """convert old row list into new spreadsheet row"""
-    l = [""] * 19
+    l = [""] * len(new_csv_headers)
 
     l[0] = old_row[3]  # Start_Date
     l[1] = old_row[6]  # Start_Time
@@ -68,38 +99,7 @@ with open(sys.argv[1], newline="") as f:
 
 with open("sportsengine_schedule.csv", "w", newline="") as f:
     writer = csv.writer(f)
-    writer.writerow(
-        [
-            "Start_Date",
-            "Start_Time",
-            "End_Date",
-            "End_Time",
-            "Title",
-            "Description",
-            "Location",
-            "Location_URL",
-            "Location_Details",
-            "All_Day_Event",
-            "Event_Type",
-            "Tags",
-            "Team1_ID",
-            "Team1_Division_ID",
-            "Team1_Is_Home",
-            "Team2_ID",
-            "Team2_Division_ID",
-            "Team2_Name",
-            "Custom_Opponent",
-            "Event_ID",
-            "Game_ID",
-            "Affects_Standings",
-            "Points_Win",
-            "Points_Loss",
-            "Points_Tie",
-            "Points_OT_Win",
-            "Points_OT_Loss",
-            "Division_Override",
-        ]
-    )
+    writer.writerow(new_csv_headers)
 
     for new_row in new_rows:
         writer.writerow(new_row)
