@@ -42,35 +42,38 @@ def is_90ft_field(field_name):
     return fields[field_name] in (eagle_staff_90, lw1, whitman, loyal_heights_1)
 
 
-def create_fields_csvfile(rows, filename):
+def get_rows(permits_filename):
+    with open(permits_filename, "r", newline="") as f:
+        reader = csv.reader(f, delimiter="\t")
+        return list(reader)
+
+
+def create_60ft_fields_csvfile(csv_rows, filename):
     with open(filename, "w", newline="") as f:
         writer = csv.writer(f, delimiter=",")
         writer.writerow(["Date", "Day", "Permit", "Field"])
-        for row in rows:
-            writer.writerow(
-                [date_without_year(row[0]), days[row[1]], row[3], fields[row[4]]]
-            )
+        for row in csv_rows[1:]:
+            field_name = row[4]
+            if not is_90ft_field(field_name):
+                writer.writerow(
+                    [date_without_year(row[0]), days[row[1]], row[3], fields[row[4]]]
+                )
 
 
-def get_rows_for_both_fields(permits_filename):
-    ninety_foot_rows = []
-    sixty_foot_rows = []
-    with open(permits_filename, "r", newline="") as f:
-        reader = csv.reader(f, delimiter="\t")
-        next(reader)  # Ignore the first row
-        for row in reader:
+def create_90ft_fields_csvfile(csv_rows, filename):
+    with open(filename, "w", newline="") as f:
+        writer = csv.writer(f, delimiter="\t")
+        writer.writerow(csv_rows[0])
+        for row in csv_rows[1:]:
             field_name = row[4]
             if is_90ft_field(field_name):
-                ninety_foot_rows.append(row)
-            else:
-                sixty_foot_rows.append(row)
-    return sixty_foot_rows, ninety_foot_rows
+                writer.writerow(row)
 
 
 if __name__ == "__main__":
     assert len(sys.argv) == 2
     permits_filename = sys.argv[1]
 
-    sixty_foot_rows, ninety_foot_rows = get_rows_for_both_fields(permits_filename)
-    create_fields_csvfile(sixty_foot_rows, "fields/fields_60ft.csv")
-    create_fields_csvfile(ninety_foot_rows, "fields/fields_90ft.csv")
+    csv_rows = get_rows(permits_filename)
+    create_60ft_fields_csvfile(csv_rows, "fields/fields_60ft.csv")
+    create_90ft_fields_csvfile(csv_rows, "fields/fields_90ft.csv")
