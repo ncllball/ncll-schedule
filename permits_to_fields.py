@@ -16,7 +16,7 @@ fields = {
     "Lower Woodland Playfield Ballfield 03": "lw3",
     "Lower Woodland Playfield Ballfield 04": "lw4",
     "Lower Woodland Playfield Ballfield 05": "lw5",
-    "Lower Woodland Playfield Ballfield 06": "lw5",
+    "Lower Woodland Playfield Ballfield 06": "lw6",
     "Loyal Heights Playfield Ballfield 01": loyal_heights_1,
     "Ross Playfield Lower Ballfield": "ross",
     "B F Day Playfield Ballfield": "bfday",
