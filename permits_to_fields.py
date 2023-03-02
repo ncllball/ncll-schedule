@@ -53,11 +53,12 @@ def get_rows(permits_filename):
     with open(permits_filename, "r", newline="") as f:
         reader = csv.reader(f)
         rows = list(reader)
-    rows.sort(
+    return rows[0:1] + sorted(
+        rows[1:],
         key=lambda x: (
             datetime.datetime.strptime(x[0], "%b %d, %Y").strftime("%m/%d"),
             x[4],
-        )
+        ),
     )
     return rows
 
@@ -66,7 +67,7 @@ def create_60ft_fields_csvfile(csv_rows, filename):
     with open(filename, "w", newline="") as f:
         writer = csv.writer(f, delimiter=",")
         writer.writerow(["Date", "Day", "Permit", "Field"])
-        for row in csv_rows:
+        for row in csv_rows[1:]:
             field_name = row[4]
             if not is_90ft_field(field_name):
                 writer.writerow(
@@ -78,7 +79,7 @@ def create_90ft_fields_csvfile(csv_rows, filename):
     with open(filename, "w", newline="") as f:
         writer = csv.writer(f, delimiter="\t")
         writer.writerow(csv_rows[0])
-        for row in csv_rows:
+        for row in csv_rows[1:]:
             field_name = row[4]
             if is_90ft_field(field_name):
                 writer.writerow(row)
