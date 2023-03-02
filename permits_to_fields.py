@@ -41,8 +41,23 @@ days = {
 }
 
 
-def formatted_date(date_string):
-    return date_string.split(",")[0]
+def sortable_date_format(date_string):
+    """Suitable for sorting.
+
+    >>> sortable_date_format("April 6, 2023")
+    "04/06"
+    """
+    return datetime.datetime.strptime(date_string, "%b %d, %Y").strftime("%m/%d")
+
+
+def csv_date_format(date_string):
+    """Date that excel won't reformat.
+
+    >>> csv_date_format("Apr 6, 2023")
+    "6-Apr"
+    """
+    dt = datetime.datetime.strptime(date_string, "%b %d, %Y")
+    return f"{dt.day}-{dt.strftime('%b')}"
 
 
 def is_90ft_field(field_name):
@@ -54,13 +69,8 @@ def get_rows(permits_filename):
         reader = csv.reader(f)
         rows = list(reader)
     return rows[0:1] + sorted(
-        rows[1:],
-        key=lambda x: (
-            datetime.datetime.strptime(x[0], "%b %d, %Y").strftime("%m/%d"),
-            x[4],
-        ),
+        rows[1:], key=lambda x: (sortable_date_format(x[0]), x[4])
     )
-    return rows
 
 
 def create_60ft_fields_csvfile(csv_rows, filename):
@@ -71,7 +81,7 @@ def create_60ft_fields_csvfile(csv_rows, filename):
             field_name = row[4]
             if not is_90ft_field(field_name):
                 writer.writerow(
-                    [formatted_date(row[0]), days[row[1]], row[3], fields[row[4]]]
+                    [csv_date_format(row[0]), days[row[1]], row[3], fields[row[4]]]
                 )
 
 
