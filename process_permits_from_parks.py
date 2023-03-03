@@ -76,12 +76,23 @@ def get_rows(permits_filename):
 def create_60ft_fields_csvfile(csv_rows, filename):
     with open(filename, "w", newline="") as f:
         writer = csv.writer(f, delimiter=",")
-        writer.writerow(["Date", "Day", "Permit", "Field"])
+        writer.writerow(
+            ["Date", "Day", "Permit", "Field", "Start time", "End time", "Home", "Away"]
+        )
         for row in csv_rows[1:]:
             field_name = row[4]
             if not is_90ft_field(field_name):
                 writer.writerow(
-                    [csv_date_format(row[0]), days[row[1]], row[3], fields[row[4]]]
+                    [
+                        csv_date_format(row[0]),
+                        days[row[1]],
+                        row[3],
+                        fields[row[4]],
+                        "",
+                        "",
+                        "",
+                        "",
+                    ]
                 )
 
 
@@ -96,9 +107,6 @@ def create_90ft_fields_csvfile(csv_rows, filename):
 
 
 if __name__ == "__main__":
-    assert len(sys.argv) == 2
-    permits_filename = sys.argv[1]
-
-    csv_rows = get_rows(permits_filename)
+    csv_rows = get_rows("permits_from_parks.csv")
     create_60ft_fields_csvfile(csv_rows, "permits_60ft.csv")
     create_90ft_fields_csvfile(csv_rows, "permits_90ft.csv")
