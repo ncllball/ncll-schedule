@@ -100,5 +100,5 @@ if __name__ == "__main__":
     permits_filename = sys.argv[1]
 
     csv_rows = get_rows(permits_filename)
-    create_60ft_fields_csvfile(csv_rows, "fields_60ft.csv")
-    create_90ft_fields_csvfile(csv_rows, "fields_90ft.csv")
+    create_60ft_fields_csvfile(csv_rows, "permits_60ft.csv")
+    create_90ft_fields_csvfile(csv_rows, "permits_90ft.csv")
