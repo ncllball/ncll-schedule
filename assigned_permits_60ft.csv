@@ -295,8 +295,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 28-Apr,Fri,05:45 PM - 08:00 PM,lw5,,,AA baseball,
 28-Apr,Fri,05:00 PM - 07:30 PM,lw6,,,AA baseball,
 28-Apr,Fri,05:00 PM - 07:00 PM,ross,,,,
-29-Apr,Sat,09:00 AM - 05:00 PM,lw3,9:00 AM,11:30 AM,BB Majors Rough Riders,Bal 1
-29-Apr,Sat,09:00 AM - 05:00 PM,lw3,,,,
+29-Apr,Sat,09:00 AM - 06:00 PM,lw3,9:00 AM,11:30 AM,BB Majors Rough Riders,Bal 1
+29-Apr,Sat,09:00 AM - 06:00 PM,lw3,,,,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw3,,,,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw4,,,,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw4,,,,
@@ -406,7 +406,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 13-May,Sat,09:00 AM - 07:00 PM,lw6,,,,
 13-May,Sat,09:00 AM - 05:00 PM,ross,,,,
 13-May,Sat,09:00 AM - 05:00 PM,university,,,,
-14-May,Sun,01:30 PM - 05:00 PM,lw4,,,,
+14-May,Sun,02:00 PM - 05:00 PM,lw4,,,,
+14-May,Sun,06:00 PM - 08:30 PM,lw6,,,,
 15-May,Mon,05:45 PM - 08:30 PM,bitter lake 1,,,,
 15-May,Mon,05:45 PM - 08:30 PM,lw4,,,,
 15-May,Mon,05:45 PM - 08:30 PM,lw5,,,,
@@ -435,7 +436,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 19-May,Fri,05:45 PM - 08:00 PM,lw3,,,AA baseball,
 19-May,Fri,06:00 PM - 09:00 PM,lw4,,,SB Juniors The Westy,
 19-May,Fri,05:45 PM - 08:00 PM,lw5,,,AA baseball,
-19-May,Fri,05:45 PM - 08:00 PM,lw6,,,AA baseball,
+19-May,Fri,05:00 PM - 07:30 PM,lw6,,,AA baseball,
 19-May,Fri,05:00 PM - 07:00 PM,ross,,,,
 20-May,Sat,09:00 AM - 06:00 PM,lw3,9:00 AM,11:30 AM,Baseball Majors TnT Taqueria,RUG 2
 20-May,Sat,09:00 AM - 06:00 PM,lw3,,,,
