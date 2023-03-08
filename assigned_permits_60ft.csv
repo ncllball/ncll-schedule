@@ -121,7 +121,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 27-Mar,Mon,05:00 PM - 07:00 PM,university,,,,
 28-Mar,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Rough Riders,BB Majors Project 9
 28-Mar,Tue,05:45 PM - 08:00 PM,lw4,,,,
-28-Mar,Tue,05:45 PM - 08:15 PM,lw5,,,,
+28-Mar,Tue,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 3 CubeSmart,SB AAA 4 Tutta
 28-Mar,Tue,05:45 PM - 08:30 PM,lw6,,,,
 28-Mar,Tue,05:00 PM - 07:00 PM,ross,,,,
 28-Mar,Tue,05:00 PM - 07:00 PM,university,,,,
@@ -133,7 +133,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 29-Mar,Wed,05:00 PM - 07:30 PM,university,,,,
 30-Mar,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,
 30-Mar,Thu,05:45 PM - 08:00 PM,lw4,,,,
-30-Mar,Thu,05:45 PM - 08:15 PM,lw5,,,,
+30-Mar,Thu,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
 30-Mar,Thu,05:45 PM - 08:30 PM,lw6,,,,
 30-Mar,Thu,05:00 PM - 07:00 PM,ross,,,,
 30-Mar,Thu,05:00 PM - 07:00 PM,university,,,,
@@ -168,7 +168,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 3-Apr,Mon,05:00 PM - 07:00 PM,university,,,,
 4-Apr,Tue,05:45 PM - 08:15 PM,lw3,5:45 PM,8:15 PM,BB Majors Rough Riders,QA 2
 4-Apr,Tue,05:45 PM - 08:15 PM,lw4,,,,
-4-Apr,Tue,05:45 PM - 08:15 PM,lw5,,,,
+4-Apr,Tue,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 1 Harjo
 4-Apr,Tue,05:45 PM - 08:15 PM,lw6,,,,
 4-Apr,Tue,05:00 PM - 07:00 PM,ross,,,A softball,
 4-Apr,Tue,05:00 PM - 07:00 PM,university,,,,
@@ -180,7 +180,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 5-Apr,Wed,05:00 PM - 07:00 PM,university,,,,
 6-Apr,Thu,05:45 PM - 08:15 PM,lw3,,,,
 6-Apr,Thu,05:45 PM - 08:00 PM,lw4,,,,
-6-Apr,Thu,05:45 PM - 08:15 PM,lw5,,,,
+6-Apr,Thu,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 3 CubeSmart,SB AAA 2 Windemere
 6-Apr,Thu,05:45 PM - 08:15 PM,lw6,,,,
 6-Apr,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 6-Apr,Thu,05:00 PM - 07:00 PM,university,,,A baseball,
@@ -233,7 +233,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 15-Apr,Sat,09:00 AM - 06:00 PM,lw5,2:00 PM,4:00 PM,A baseball,
 15-Apr,Sat,09:00 AM - 06:00 PM,lw6,10:00 AM,12:00 PM,AAA softball,
 15-Apr,Sat,09:00 AM - 06:00 PM,lw6,12:00 PM,2:00 PM,AA softball,
-15-Apr,Sat,09:00 AM - 06:00 PM,lw6,2:00 PM,4:00 PM,A softball,
+15-Apr,Sat,09:00 AM - 06:00 PM,lw6,2:30 PM,4:45 PM,SB AAA 4 Tutta,RUG 2
+15-Apr,Sat,09:00 AM - 06:00 PM,ross,2:00 PM,4:00 PM,A softball,
 17-Apr,Mon,05:45 PM - 08:00 PM,green lake 1,,,,
 17-Apr,Mon,05:45 PM - 08:30 PM,lw3,,,,
 17-Apr,Mon,05:45 PM - 08:30 PM,lw4,,,,
@@ -242,7 +243,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 17-Apr,Mon,05:00 PM - 07:00 PM,university,,,A baseball,
 18-Apr,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Project 9,Baseball Majors TnT Taqueria
 18-Apr,Tue,05:45 PM - 08:30 PM,lw4,,,,
-18-Apr,Tue,05:45 PM - 08:30 PM,lw5,,,,
+18-Apr,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 3 CubeSmart,SB AAA 1 Harjo
 18-Apr,Tue,05:45 PM - 08:30 PM,lw6,,,,
 18-Apr,Tue,05:00 PM - 07:00 PM,ross,,,,
 18-Apr,Tue,05:00 PM - 07:00 PM,university,,,,
@@ -254,7 +255,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 19-Apr,Wed,05:00 PM - 07:30 PM,ross,,,,
 19-Apr,Wed,05:00 PM - 07:30 PM,university,,,,
 20-Apr,Thu,05:45 PM - 08:30 PM,bitter lake 2,,,,
-20-Apr,Thu,05:45 PM - 08:00 PM,lw3,,,,
+20-Apr,Thu,05:45 PM - 08:00 PM,lw3,5:45 PM,8:00 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
 20-Apr,Thu,05:45 PM - 08:30 PM,lw5,,,,
 20-Apr,Thu,05:45 PM - 08:30 PM,lw6,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,BB Majors Rough Riders
 20-Apr,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
@@ -266,7 +267,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 21-Apr,Fri,05:00 PM - 07:00 PM,ross,,,,
 22-Apr,Sat,09:00 AM - 06:00 PM,lw3,9:00 AM,11:30 AM,Baseball Majors TnT Taqueria,Mag 2
 22-Apr,Sat,09:00 AM - 06:00 PM,lw3,12:00 PM,2:30 PM,Softball Majors TnT Taqueria,Bal 1
-22-Apr,Sat,09:00 AM - 06:00 PM,lw3,2:45 PM,5:00 PM,,
+22-Apr,Sat,09:00 AM - 06:00 PM,lw3,2:45 PM,5:00 PM,SB AAA 4 Tutta,NE 1
 22-Apr,Sat,09:00 AM - 06:00 PM,lw4,9:00 AM,11:30 AM,BB Majors Rough Riders,QA 3
 22-Apr,Sat,09:00 AM - 06:00 PM,lw4,12:00 PM,2:30 PM,SB Majors Anytime Fitness,RUG 1
 22-Apr,Sat,09:00 AM - 06:00 PM,lw4,2:45 PM,5:00 PM,BB AAA 2 Seattle,RUG 1
@@ -289,7 +290,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 24-Apr,Mon,05:00 PM - 07:00 PM,university,,,,
 25-Apr,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Project 9,BB Majors Rough Riders
 25-Apr,Tue,05:45 PM - 08:30 PM,lw4,,,,
-25-Apr,Tue,05:45 PM - 08:30 PM,lw5,,,,
+25-Apr,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 1 Harjo,SB AAA 3 CubeSmart
 25-Apr,Tue,05:45 PM - 08:30 PM,lw6,,,,
 25-Apr,Tue,05:00 PM - 07:00 PM,ross,,,,
 25-Apr,Tue,05:00 PM - 07:00 PM,university,,,,
@@ -301,7 +302,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 26-Apr,Wed,05:00 PM - 07:30 PM,university,,,,
 27-Apr,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Rough Riders,Baseball Majors TnT Taqueria
 27-Apr,Thu,05:45 PM - 08:30 PM,lw4,,,,
-27-Apr,Thu,05:45 PM - 08:30 PM,lw5,,,,
+27-Apr,Thu,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 2 Windemere
 27-Apr,Thu,05:45 PM - 08:30 PM,lw6,,,,
 27-Apr,Thu,05:00 PM - 07:00 PM,ross,,,,
 27-Apr,Thu,05:00 PM - 07:00 PM,university,,,,
@@ -317,11 +318,11 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 29-Apr,Sat,09:00 AM - 06:00 PM,lw4,9:15 AM,11:30 AM,BB AAA 6 Fuller,NW 2
 29-Apr,Sat,09:00 AM - 06:00 PM,lw4,12:00 PM,2:30 PM,SB Majors Anytime Fitness,NE 2
 29-Apr,Sat,09:00 AM - 06:00 PM,lw4,2:45 PM,5:00 PM,BB AAA 5 Morgans,QA 2
-29-Apr,Sat,09:00 AM - 06:00 PM,lw5,9:00 AM,11:15 AM,,
+29-Apr,Sat,09:00 AM - 06:00 PM,lw5,9:00 AM,11:15 AM,AAA softball,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw5,11:30 AM,1:30 PM,AA softball,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw5,1:45 PM,3:45 PM,AA baseball,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw5,4:00 PM,6:00 PM,AA baseball,
-29-Apr,Sat,09:00 AM - 06:00 PM,lw6,9:00 AM,11:15 AM,,
+29-Apr,Sat,09:00 AM - 06:00 PM,lw6,9:00 AM,11:15 AM,AAA softball,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw6,11:30 AM,1:30 PM,AA softball,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw6,1:45 PM,3:45 PM,AA baseball,
 29-Apr,Sat,09:00 AM - 06:00 PM,lw6,4:00 PM,6:00 PM,AA baseball,
@@ -335,7 +336,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 1-May,Mon,05:00 PM - 07:00 PM,university,,,,
 2-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Project 9,RUG 3
 2-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:30 PM,BB Majors Rough Riders,RUG 2
-2-May,Tue,05:45 PM - 08:15 PM,lw5,,,,
+2-May,Tue,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 3 CubeSmart
 2-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
 2-May,Tue,05:00 PM - 07:00 PM,ross,,,,
 2-May,Tue,05:00 PM - 07:00 PM,university,,,,
@@ -359,10 +360,10 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 5-May,Fri,05:00 PM - 07:00 PM,ross,,,,
 6-May,Sat,09:00 AM - 06:00 PM,lw3,9:00 AM,11:30 AM,Baseball Majors TnT Taqueria,BB Majors Rough Riders
 6-May,Sat,09:00 AM - 06:00 PM,lw3,12:00 PM,2:15 PM,MAG 3,BB AAA 6 Fuller
-6-May,Sat,09:00 AM - 06:00 PM,lw3,,,,
+6-May,Sat,09:00 AM - 06:00 PM,lw3,2:45 PM,5:00 PM,SB AAA 1 Harjo,SB AAA 4 Tutta
 6-May,Sat,09:00 AM - 06:00 PM,lw4,9:00 AM,11:30 AM,BB Majors Project 9,QA 2
 6-May,Sat,09:00 AM - 06:00 PM,lw4,12:00 PM,2:15 PM,BB AAA 1 Triwest,QA 3
-6-May,Sat,09:00 AM - 06:00 PM,lw4,,,,
+6-May,Sat,09:00 AM - 06:00 PM,lw4,2:45 PM,5:00 PM,SB AAA 3 CubeSmart,NE 4
 6-May,Sat,09:00 AM - 06:00 PM,lw5,9:00 AM,11:15 AM,BB AAA 3 El Camion,BB AAA 4 Greenwood
 6-May,Sat,09:00 AM - 06:00 PM,lw5,11:30 AM,1:30 PM,AA softball,
 6-May,Sat,09:00 AM - 06:00 PM,lw5,1:45 PM,3:45 PM,AA baseball,
@@ -393,8 +394,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 10-May,Wed,05:00 PM - 07:30 PM,ross,,,,
 10-May,Wed,05:00 PM - 07:30 PM,university,,,,
 11-May,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,BB Majors Project 9
-11-May,Thu,05:45 PM - 08:30 PM,lw4,,,,
-11-May,Thu,05:45 PM - 08:30 PM,lw5,,,,
+11-May,Thu,05:45 PM - 08:30 PM,lw4,,,AAA softball,
+11-May,Thu,05:45 PM - 08:30 PM,lw5,,,AAA softball,
 11-May,Thu,05:45 PM - 08:30 PM,lw6,,,,
 11-May,Thu,05:00 PM - 07:00 PM,ross,,,,
 11-May,Thu,05:00 PM - 07:00 PM,university,,,,
@@ -412,11 +413,11 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 13-May,Sat,09:00 AM - 07:00 PM,lw4,11:30 AM,1:30 PM,BB AAA 2 Seattle,BB AAA 3 El Camion
 13-May,Sat,09:00 AM - 07:00 PM,lw4,2:00 PM,4:30 PM,Mag 2,BB Majors Rough Riders
 13-May,Sat,09:00 AM - 07:00 PM,lw4,4:30 PM,7:00 PM,BB Majors Rough Riders,Mag 2
-13-May,Sat,09:00 AM - 07:00 PM,lw5,9:00 AM,11:15 AM,,
+13-May,Sat,09:00 AM - 07:00 PM,lw5,9:00 AM,11:15 AM,AAA softball,
 13-May,Sat,09:00 AM - 07:00 PM,lw5,11:30 AM,1:30 PM,AA softball,
 13-May,Sat,09:00 AM - 07:00 PM,lw5,1:45 PM,3:45 PM,AA baseball,
 13-May,Sat,09:00 AM - 07:00 PM,lw5,4:00 PM,6:00 PM,AA baseball,
-13-May,Sat,09:00 AM - 07:00 PM,lw6,9:00 AM,11:15 AM,,
+13-May,Sat,09:00 AM - 07:00 PM,lw6,9:00 AM,11:15 AM,AAA softball,
 13-May,Sat,09:00 AM - 07:00 PM,lw6,11:30 AM,1:30 PM,AA softball,
 13-May,Sat,09:00 AM - 07:00 PM,lw6,1:45 PM,3:45 PM,AA baseball,
 13-May,Sat,09:00 AM - 07:00 PM,lw6,4:00 PM,6:00 PM,AA baseball,
@@ -431,8 +432,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 15-May,Mon,05:00 PM - 07:00 PM,ross,,,,
 15-May,Mon,05:00 PM - 07:00 PM,university,,,,
 16-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Rough Riders,BB Majors Project 9
-16-May,Tue,05:45 PM - 08:30 PM,lw4,,,,
-16-May,Tue,05:45 PM - 08:30 PM,lw5,,,,
+16-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
+16-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
 16-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
 16-May,Tue,05:00 PM - 07:00 PM,ross,,,,
 16-May,Tue,05:30 PM - 07:30 PM,university,,,,
