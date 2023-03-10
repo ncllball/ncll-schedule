@@ -115,8 +115,10 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 25-Mar,Sat,09:00 AM - 06:00 PM,lw6,10:00 AM,12:30 PM,SB Majors Anytime Fitness,SB Majors Bal 1
 25-Mar,Sat,09:00 AM - 06:00 PM,lw6,1:00 PM,2:30 PM,AA Baseball Academy,
 25-Mar,Sat,09:00 AM - 06:00 PM,lw6,2:30 PM,4:00 PM,AA Baseball Academy,
-25-Mar,Sat,09:00 AM - 05:00 PM,ross,,,A baseball & A softball,
-25-Mar,Sat,09:00 AM - 05:00 PM,university,,,A baseball & A softball,
+25-Mar,Sat,09:00 AM - 05:00 PM,ross,9:00 AM,3:00 PM,A baseball,
+25-Mar,Sat,09:00 AM - 05:00 PM,ross,3:00 PM,5:00 PM,A softball,
+25-Mar,Sat,09:00 AM - 05:00 PM,university,9:00 AM,3:00 PM,A baseball,
+25-Mar,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,A softball,
 27-Mar,Mon,05:45 PM - 08:30 PM,lw3,,,,
 27-Mar,Mon,05:45 PM - 08:00 PM,lw4,,,,
 27-Mar,Mon,05:45 PM - 08:15 PM,lw5,,,,
