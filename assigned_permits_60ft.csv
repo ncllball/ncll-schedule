@@ -165,7 +165,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 1-Apr,Sat,09:00 AM - 06:00 PM,lw6,4:00 PM,6:00 PM,AA baseball,
 1-Apr,Sat,09:00 AM - 05:00 PM,ross,,,A baseball & A softball,
 1-Apr,Sat,09:00 AM - 05:00 PM,university,,,A baseball & A softball,
-2-Apr,Sun,05:00 PM - 08:00 PM,lw3,,,SB Juniors The Westy,
+2-Apr,Sun,05:00 PM - 08:00 PM,lw3,5:30 PM,8:00 PM,SB Juniors The Westy,
 3-Apr,Mon,05:45 PM - 08:15 PM,lw3,,,,
 3-Apr,Mon,05:45 PM - 08:15 PM,lw4,,,,
 3-Apr,Mon,05:45 PM - 08:15 PM,lw5,,,,
@@ -287,7 +287,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 22-Apr,Sat,09:00 AM - 06:00 PM,lw6,4:00 PM,6:00 PM,AA baseball,
 22-Apr,Sat,09:00 AM - 05:00 PM,ross,,,A baseball & A softball,
 22-Apr,Sat,09:00 AM - 05:00 PM,university,,,A baseball & A softball,
-23-Apr,Sun,02:30 PM - 08:00 PM,eagle staff 60,,,SB Juniors The Westy,
+23-Apr,Sun,02:30 PM - 08:00 PM,eagle staff 60,2:30 PM,5:00 PM,,
+23-Apr,Sun,02:30 PM - 08:00 PM,eagle staff 60,5:30 PM,8:00 PM,SB Juniors The Westy,
 24-Apr,Mon,06:00 PM - 08:30 PM,bitter lake 1,,,,
 24-Apr,Mon,05:45 PM - 08:00 PM,lw3,,,,
 24-Apr,Mon,05:45 PM - 08:30 PM,lw4,6:00 PM,8:30 PM,SB Majors Anytime Fitness,Mag 1
@@ -352,10 +353,10 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 3-May,Wed,05:30 PM - 07:15 PM,lw6,5:30 PM,7:15 PM,BB AAA 1 Triwest,BB AAA 4 Greenwood
 3-May,Wed,05:00 PM - 07:30 PM,ross,,,,
 3-May,Wed,05:00 PM - 07:30 PM,university,,,,
-4-May,Thu,05:45 PM - 08:15 PM,bitter lake 1,,,,
+4-May,Thu,05:45 PM - 08:15 PM,bitter lake 1,6:00 PM,8:15 PM,SB AAA 1 Harjo,RUG 2
 4-May,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,Mag 2
 4-May,Thu,05:45 PM - 08:30 PM,lw4,,,,
-4-May,Thu,05:45 PM - 08:30 PM,lw5,,,,
+4-May,Thu,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
 4-May,Thu,05:00 PM - 07:00 PM,ross,,,,
 4-May,Thu,05:00 PM - 07:00 PM,university,,,,
 5-May,Fri,05:00 PM - 07:30 PM,bitter lake 1,,,AA baseball,
@@ -380,7 +381,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 6-May,Sat,09:00 AM - 06:00 PM,lw6,4:00 PM,6:00 PM,AA baseball,
 6-May,Sat,09:00 AM - 05:00 PM,ross,,,A baseball & A softball,
 6-May,Sat,09:00 AM - 05:00 PM,university,,,A baseball & A softball,
-7-May,Sun,03:00 PM - 08:00 PM,lw6,,,,
+7-May,Sun,03:00 PM - 08:00 PM,lw6,3:00 PM,8:00 PM,SB Juniors The Westy,
 8-May,Mon,06:15 PM - 08:00 PM,eagle staff 60,,,,
 8-May,Mon,05:45 PM - 08:30 PM,lw4,,,,
 8-May,Mon,05:45 PM - 08:30 PM,lw5,,,,
@@ -419,18 +420,18 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 13-May,Sat,09:00 AM - 07:00 PM,lw4,11:30 AM,1:30 PM,BB AAA 2 Seattle,BB AAA 3 El Camion
 13-May,Sat,09:00 AM - 07:00 PM,lw4,2:00 PM,4:30 PM,Mag 2,BB Majors Rough Riders
 13-May,Sat,09:00 AM - 07:00 PM,lw4,4:30 PM,7:00 PM,BB Majors Rough Riders,Mag 2
-13-May,Sat,09:00 AM - 07:00 PM,lw5,9:00 AM,11:15 AM,AAA softball,
+13-May,Sat,09:00 AM - 07:00 PM,lw5,9:00 AM,11:15 AM,SB AAA 1 Harjo,NE 4
 13-May,Sat,09:00 AM - 07:00 PM,lw5,11:30 AM,1:30 PM,AA softball,
 13-May,Sat,09:00 AM - 07:00 PM,lw5,1:45 PM,3:45 PM,AA baseball,
 13-May,Sat,09:00 AM - 07:00 PM,lw5,4:00 PM,6:00 PM,AA baseball,
-13-May,Sat,09:00 AM - 07:00 PM,lw6,9:00 AM,11:15 AM,AAA softball,
+13-May,Sat,09:00 AM - 07:00 PM,lw6,9:00 AM,11:15 AM,SB AAA 4 Tutta,RUG 3
 13-May,Sat,09:00 AM - 07:00 PM,lw6,11:30 AM,1:30 PM,AA softball,
 13-May,Sat,09:00 AM - 07:00 PM,lw6,1:45 PM,3:45 PM,AA baseball,
 13-May,Sat,09:00 AM - 07:00 PM,lw6,4:00 PM,6:00 PM,AA baseball,
 13-May,Sat,09:00 AM - 05:00 PM,ross,,,A baseball & A softball,
 13-May,Sat,09:00 AM - 05:00 PM,university,,,A baseball & A softball,
-14-May,Sun,02:00 PM - 05:00 PM,lw4,,,,
-14-May,Sun,06:00 PM - 08:30 PM,lw6,,,,
+14-May,Sun,02:00 PM - 05:00 PM,lw4,,,SB Juniors The Westy,
+14-May,Sun,06:00 PM - 08:30 PM,lw6,,,SB Juniors The Westy,
 15-May,Mon,05:45 PM - 08:30 PM,bitter lake 1,,,,
 15-May,Mon,05:45 PM - 08:30 PM,lw4,,,,
 15-May,Mon,05:45 PM - 08:30 PM,lw5,,,,
@@ -462,7 +463,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 19-May,Fri,05:00 PM - 07:30 PM,lw6,,,AA baseball,
 19-May,Fri,05:00 PM - 07:00 PM,ross,,,A baseball,
 20-May,Sat,09:00 AM - 06:00 PM,lw3,9:00 AM,11:30 AM,Baseball Majors TnT Taqueria,RUG 2
-20-May,Sat,09:00 AM - 06:00 PM,lw3,12:00 PM,2:30 PM,Softball Majors TnT Taqueria,NE 2
+20-May,Sat,09:00 AM - 06:00 PM,lw3,,,,
 20-May,Sat,09:00 AM - 06:00 PM,lw3,2:45 PM,5:00 PM,BB AAA 1 Triwest,NW 1
 20-May,Sat,09:00 AM - 06:00 PM,lw4,9:15 AM,11:30 AM,BB AAA 4 Greenwood,BB AAA 3 El Camion
 20-May,Sat,09:00 AM - 06:00 PM,lw4,12:00 PM,2:30 PM,SB Majors Anytime Fitness,NE 1
