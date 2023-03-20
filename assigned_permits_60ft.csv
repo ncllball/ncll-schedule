@@ -141,7 +141,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 29-Mar,Wed,05:00 PM - 07:30 PM,university,,,AA softball,
 30-Mar,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,
 30-Mar,Thu,05:45 PM - 08:00 PM,lw4,,,BB Majors Rough Riders,
-30-Mar,Thu,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
+30-Mar,Thu,05:45 PM - 08:15 PM,lw5,,,SB AAA 2 Windemere,
 30-Mar,Thu,05:45 PM - 08:30 PM,lw6,,,AAA softball,
 30-Mar,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 30-Mar,Thu,05:00 PM - 07:00 PM,university,,,A baseball,
@@ -401,7 +401,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 9-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,,,SB A 3 Zuger,BLRD SB A2
 9-May,Tue,05:45 PM - 08:30 PM,lw3,,,,
 9-May,Tue,05:45 PM - 08:30 PM,lw4,,,,
-9-May,Tue,05:45 PM - 08:30 PM,lw5,,,,
+9-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
 9-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
 9-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 1 Basement,SB A 2 Ridge
 10-May,Wed,05:00 PM - 07:30 PM,bitter lake 1,,,SB AA 2 Greenlake,BLRD SB AA2
@@ -452,7 +452,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 15-May,Mon,05:00 PM - 07:00 PM,ross,,,A baseball,
 16-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,,,SB A 1 Basement,RUG SB A1
 16-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Rough Riders,BB Majors Project 9
-16-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
+16-May,Tue,05:45 PM - 08:30 PM,lw4,,,,
 16-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
 16-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
 16-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,RUG SB A3
@@ -465,7 +465,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 18-May,Thu,05:00 PM - 07:00 PM,bitter lake 1,,,A baseball,
 18-May,Thu,05:45 PM - 08:00 PM,lw3,,,,
 18-May,Thu,05:45 PM - 08:30 PM,lw4,6:00 PM,8:30 PM,BB Majors Project 9,Baseball Majors TnT Taqueria
-18-May,Thu,05:45 PM - 08:15 PM,lw5,,,,
+18-May,Thu,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
 18-May,Thu,05:45 PM - 08:30 PM,lw6,,,,
 18-May,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 19-May,Fri,05:45 PM - 08:00 PM,green lake 1,,,AA baseball,
