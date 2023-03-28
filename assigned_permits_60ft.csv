@@ -139,7 +139,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 29-Mar,Wed,05:45 PM - 08:30 PM,lw6,6:00 PM,8:15 PM,BB AAA 6 Fuller,BB AAA 1 Triwest
 29-Mar,Wed,05:00 PM - 07:30 PM,ross,,,AA softball,
 29-Mar,Wed,05:00 PM - 07:30 PM,university,,,AA softball,
-30-Mar,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,
+30-Mar,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,NW Fischer Plumbing
 30-Mar,Thu,05:45 PM - 08:00 PM,lw4,,,BB Majors Rough Riders,
 30-Mar,Thu,05:45 PM - 08:15 PM,lw5,,,SB AAA 2 Windemere,
 30-Mar,Thu,05:45 PM - 08:30 PM,lw6,,,AAA softball,
@@ -426,11 +426,11 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 12-May,Fri,05:00 PM - 07:00 PM,ross,,,A baseball,
 13-May,Sat,09:00 AM - 07:00 PM,lw3,9:00 AM,11:30 AM,SB Majors Anytime Fitness,NE 2
 13-May,Sat,09:00 AM - 07:00 PM,lw3,11:45 AM,1:45 PM,BB AAA 1 Triwest,BB AAA 6 Fuller
-13-May,Sat,09:00 AM - 07:00 PM,lw3,2:15 PM,4:30 PM,RUG 2,SL 3
-13-May,Sat,09:00 AM - 07:00 PM,lw3,4:30 PM,7:00 PM,SL 3,RUG 2
+13-May,Sat,09:00 AM - 07:00 PM,lw3,2:15 PM,4:30 PM,SL 3,BB Majors Rough Riders
+13-May,Sat,09:00 AM - 07:00 PM,lw3,4:30 PM,7:00 PM,RUG 2,SL 3
 13-May,Sat,09:00 AM - 07:00 PM,lw4,9:00 AM,11:15 AM,BB AAA 5 Morgans,BB AAA 4 Greenwood
 13-May,Sat,09:00 AM - 07:00 PM,lw4,11:30 AM,1:30 PM,BB AAA 2 Seattle,BB AAA 3 El Camion
-13-May,Sat,09:00 AM - 07:00 PM,lw4,2:00 PM,4:30 PM,Mag 2,BB Majors Rough Riders
+13-May,Sat,09:00 AM - 07:00 PM,lw4,2:00 PM,4:30 PM,Mag 2,RUG 2
 13-May,Sat,09:00 AM - 07:00 PM,lw4,4:30 PM,7:00 PM,BB Majors Rough Riders,Mag 2
 13-May,Sat,09:00 AM - 07:00 PM,lw5,9:00 AM,11:15 AM,SB AAA 1 Harjo,NE 4
 13-May,Sat,09:00 AM - 07:00 PM,lw5,11:30 AM,1:30 PM,SB AA 3 CubeSmart,NELL SB AA2
@@ -500,7 +500,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 22-May,Mon,05:45 PM - 08:30 PM,lw5,,,,
 22-May,Mon,05:45 PM - 08:30 PM,lw6,,,,
 22-May,Mon,05:30 PM - 07:30 PM,ross,,,A baseball,
-23-May,Tue,05:45 PM - 08:30 PM,lw3,,,,
+23-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Project 9,BB Majors Rough Riders
 23-May,Tue,05:45 PM - 08:30 PM,lw4,,,,
 23-May,Tue,05:45 PM - 08:30 PM,lw5,,,,
 23-May,Tue,05:45 PM - 08:00 PM,lw6,,,,
