@@ -344,7 +344,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 29-Apr,Sat,09:00 AM - 05:00 PM,ross,9:00 AM,3:00 PM,A baseball,
 29-Apr,Sat,09:00 AM - 05:00 PM,ross,3:00 PM,5:00 PM,SB A 1 Basement,SHRLN SB A1
 29-Apr,Sat,09:00 AM - 05:00 PM,university,9:00 AM,3:00 PM,A baseball,
-29-Apr,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,SB A 3 Zuger,NELL SB A3
+29-Apr,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,SB A 3 Zuger,NELL SB A1
 1-May,Mon,05:45 PM - 08:00 PM,lw3,,,,
 1-May,Mon,05:45 PM - 08:30 PM,lw4,,,,
 1-May,Mon,05:45 PM - 08:30 PM,lw5,,,,
@@ -400,7 +400,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 8-May,Mon,05:45 PM - 08:30 PM,lw5,,,,
 8-May,Mon,05:45 PM - 08:00 PM,lw6,,,,
 8-May,Mon,05:00 PM - 07:00 PM,ross,,,A baseball,
-9-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,,,SB A 3 Zuger,BLRD SB A2
+9-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,5:15 PM,7:00 PM,SB A 3 Zuger,BLRD SB A2
 9-May,Tue,05:45 PM - 08:30 PM,lw3,,,,
 9-May,Tue,05:45 PM - 08:30 PM,lw4,,,,
 9-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
@@ -414,8 +414,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 10-May,Wed,05:00 PM - 07:30 PM,ross,,,SB AA 4 Phinney,SB AA 3 CubeSmart
 11-May,Thu,05:00 PM - 07:00 PM,bitter lake 1,,,A baseball,
 11-May,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,BB Majors Project 9
-11-May,Thu,05:45 PM - 08:30 PM,lw4,,,AAA softball,
-11-May,Thu,05:45 PM - 08:30 PM,lw5,,,AAA softball,
+11-May,Thu,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 1 Harjo,RUG 2
+11-May,Thu,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
 11-May,Thu,05:45 PM - 08:30 PM,lw6,,,,
 11-May,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 12-May,Fri,05:45 PM - 08:00 PM,green lake 1,,,AA baseball,
@@ -505,7 +505,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 23-May,Tue,05:45 PM - 08:30 PM,lw5,,,,
 23-May,Tue,05:45 PM - 08:00 PM,lw6,,,,
 23-May,Tue,05:30 PM - 07:30 PM,northacres 2,,,SB A 1 Basement,SHRLN SB A2
-23-May,Tue,05:30 PM - 07:30 PM,ross,,,SB A 3 Zuger,SB A 2 Ridge
+23-May,Tue,05:30 PM - 07:30 PM,ross,,,SB A 3 Zuger,BLRD SB A1
 24-May,Wed,05:45 PM - 08:30 PM,lw3,,,,
 24-May,Wed,05:45 PM - 08:15 PM,lw4,,,,
 24-May,Wed,05:45 PM - 08:30 PM,lw5,,,,
