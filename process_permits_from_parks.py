@@ -7,9 +7,11 @@ import csv
 
 lw1 = "lw1"
 whitman = "whitman"
+ingraham = "ingraham"
 loyal_heights_1 = "loyal heights 1"
 eagle_staff_90 = "eagle staff 90"
 green_lake_1 = "green lake 1"
+view_ridge_1 = "view ridge 1"
 
 fields = {
     "Bitter Lake Playfield Ballfield 01": "bitter lake 1",
@@ -18,6 +20,7 @@ fields = {
     "Eagle Staff Middle School Baseball Field": eagle_staff_90,
     "Eagle Staff Middle School Softball Field": "eagle staff 60",
     "Green Lake Playfield Ballfield 01": green_lake_1,
+    "Ingraham HS Ballfield 01 (BB)": ingraham,
     "Lower Woodland Playfield Ballfield 01": lw1,
     "Lower Woodland Playfield Ballfield 03": "lw3",
     "Lower Woodland Playfield Ballfield 04": "lw4",
@@ -27,6 +30,7 @@ fields = {
     "Loyal Heights Playfield Ballfield 01": loyal_heights_1,
     "Ross Playfield Lower Ballfield": "ross",
     "University Playfield Ballfield 01": "university",
+    "View Ridge Playfield Ballfield 01": view_ridge_1,
     "Whitman Middle School Baseball": whitman,
 }
 
@@ -61,7 +65,14 @@ def csv_date_format(date_string):
 
 
 def is_90ft_field(field_name):
-    return fields[field_name] in (eagle_staff_90, lw1, whitman, loyal_heights_1)
+    return fields[field_name] in (
+        eagle_staff_90,
+        ingraham,
+        lw1,
+        whitman,
+        loyal_heights_1,
+        view_ridge_1,
+    )
 
 
 def get_rows(permits_filename):
@@ -107,6 +118,6 @@ def create_90ft_fields_csvfile(csv_rows, filename):
 
 
 if __name__ == "__main__":
-    csv_rows = get_rows("permits_from_parks.csv")
-    create_60ft_fields_csvfile(csv_rows, "permits_60ft.csv")
-    create_90ft_fields_csvfile(csv_rows, "permits_90ft.csv")
+    csv_rows = get_rows("permits_from_parks_summer.csv")
+    create_60ft_fields_csvfile(csv_rows, "permits_60ft_summer.csv")
+    create_90ft_fields_csvfile(csv_rows, "permits_90ft_summer.csv")
