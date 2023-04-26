@@ -356,7 +356,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 2-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Project 9,RUG 3
 2-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:30 PM,BB Majors Rough Riders,RUG 2
 2-May,Tue,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 3 CubeSmart
-2-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
+2-May,Tue,05:45 PM - 08:30 PM,lw6,,,BB Majors TnT Taqueria,
 2-May,Tue,05:00 PM - 07:00 PM,ross,,,A softball,
 3-May,Wed,05:00 PM - 07:30 PM,bitter lake 1,,,AA softball,
 3-May,Wed,05:45 PM - 08:00 PM,lw3,5:45 PM,8:00 PM,BB AAA 3 El Camion,BB AAA 6 Fuller
@@ -364,11 +364,11 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 3-May,Wed,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,BB AAA 5 Morgans,BB AAA 2 Seattle
 3-May,Wed,05:30 PM - 07:15 PM,lw6,5:30 PM,7:15 PM,BB AAA 1 Triwest,BB AAA 4 Greenwood
 3-May,Wed,05:00 PM - 07:30 PM,ross,,,AA softball,
-4-May,Thu,05:45 PM - 08:15 PM,bitter lake 1,6:00 PM,8:15 PM,SB AAA 1 Harjo,RUG 2
+4-May,Thu,05:45 PM - 08:15 PM,bitter lake 1,,,,
 4-May,Thu,05:00 PM - 07:00 PM,bitter lake 2,,,A baseball,
 4-May,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,Mag 2
-4-May,Thu,05:45 PM - 08:30 PM,lw4,,,,
-4-May,Thu,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
+4-May,Thu,05:45 PM - 08:30 PM,lw4,,,SB AAA Windemere,
+4-May,Thu,05:45 PM - 08:30 PM,lw5,,,BB Majors Project 9 & Roughriders,
 4-May,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 5-May,Fri,05:00 PM - 07:30 PM,bitter lake 1,,,AA baseball,
 5-May,Fri,05:45 PM - 08:00 PM,lw3,,,AA baseball,
@@ -402,10 +402,10 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 8-May,Mon,05:45 PM - 08:00 PM,lw6,,,AAA baseball,
 8-May,Mon,05:00 PM - 07:00 PM,ross,,,A baseball,
 9-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,5:15 PM,7:00 PM,SB A 3 Zuger,BLRD SB A2
-9-May,Tue,05:45 PM - 08:30 PM,lw3,,,,
-9-May,Tue,05:45 PM - 08:30 PM,lw4,,,,
+9-May,Tue,05:45 PM - 08:30 PM,lw3,,,BB TnT Taqueria,
+9-May,Tue,05:45 PM - 08:30 PM,lw4,,,SB AAA CubeSmart + Tutta,
 9-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
-9-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
+9-May,Tue,05:45 PM - 08:30 PM,lw6,,,BB Project 9 & ,
 9-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 1 Basement,SB A 2 Ridge
 10-May,Wed,05:00 PM - 07:30 PM,bitter lake 1,,,SB AA 2 Greenlake,BLRD SB AA2
 10-May,Wed,05:45 PM - 08:00 PM,lw3,5:45 PM,8:00 PM,BB AAA 1 Triwest,BB AAA 3 El Camion
@@ -417,7 +417,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 11-May,Thu,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,Baseball Majors TnT Taqueria,BB Majors Project 9
 11-May,Thu,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 1 Harjo,RUG 2
 11-May,Thu,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
-11-May,Thu,05:45 PM - 08:30 PM,lw6,,,,
+11-May,Thu,05:45 PM - 08:30 PM,lw6,,,BB Major Roughriders,
 11-May,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 12-May,Fri,05:45 PM - 08:00 PM,green lake 1,,,AA baseball,
 12-May,Fri,05:45 PM - 08:00 PM,lw3,,,AA baseball,
@@ -457,7 +457,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 16-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Rough Riders,BB Majors Project 9
 16-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 1 Harjo,SB AAA 2 Windemere
 16-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
-16-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
+16-May,Tue,05:45 PM - 08:30 PM,lw6,,,SB TnT Taqueria,
 16-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,RUG SB A3
 17-May,Wed,05:45 PM - 08:30 PM,bitter lake 1,,,AAA baseball,
 17-May,Wed,05:00 PM - 07:30 PM,bitter lake 2,,,SB AA 2 Greenlake,NELL SB AA3
@@ -466,10 +466,10 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 17-May,Wed,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,BB AAA 6 Fuller,BB AAA 2 Seattle
 17-May,Wed,05:00 PM - 07:30 PM,ross,,,SB AA 4 Phinney,BLRD SB AA2
 18-May,Thu,05:00 PM - 07:00 PM,bitter lake 1,,,A baseball,
-18-May,Thu,05:45 PM - 08:00 PM,lw3,,,,
+18-May,Thu,05:45 PM - 08:00 PM,lw3,,,SB AAA Tutta & CubeSmart,
 18-May,Thu,05:45 PM - 08:30 PM,lw4,6:00 PM,8:30 PM,BB Majors Project 9,Baseball Majors TnT Taqueria
 18-May,Thu,05:45 PM - 08:15 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
-18-May,Thu,05:45 PM - 08:30 PM,lw6,,,,
+18-May,Thu,05:45 PM - 08:30 PM,lw6,,,BB Majors Rough Riders,
 18-May,Thu,05:00 PM - 07:00 PM,ross,,,A baseball,
 19-May,Fri,05:45 PM - 08:00 PM,green lake 1,,,AA baseball,
 19-May,Fri,05:45 PM - 08:00 PM,lw3,,,AA baseball,
@@ -498,34 +498,34 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 22-May,Mon,05:45 PM - 08:30 PM,bitter lake 1,,,AAA baseball playoffs group phase,
 22-May,Mon,05:00 PM - 07:00 PM,bitter lake 2,,,A baseball,
 22-May,Mon,06:30 PM - 08:30 PM,loyal heights,,,AAA baseball practice,
-22-May,Mon,05:45 PM - 08:30 PM,lw4,,,SB Majors playoffs,
+22-May,Mon,05:45 PM - 08:30 PM,lw4,,,SB Majors playoffs?,
 22-May,Mon,05:45 PM - 08:30 PM,lw5,,,AAA baseball playoffs group phase,
-22-May,Mon,05:45 PM - 08:30 PM,lw6,,,,
+22-May,Mon,05:45 PM - 08:30 PM,lw6,,,Juniors softball playoffs?,
 22-May,Mon,05:00 PM - 07:30 PM,ross,,,A baseball,
 23-May,Tue,05:45 PM - 08:30 PM,lw3,,,BB Majors playoffs,
-23-May,Tue,05:45 PM - 08:30 PM,lw4,,,SB Majors playoffs,
-23-May,Tue,05:45 PM - 08:30 PM,lw5,,,AAA softball playoffs,
-23-May,Tue,05:45 PM - 08:00 PM,lw6,,,AAA softball playoffs,
+23-May,Tue,05:45 PM - 08:30 PM,lw4,,,SB Majors playoffs?,
+23-May,Tue,05:45 PM - 08:30 PM,lw5,5:45 PM,8:00 PM,SB AAA 1 Harjo,SB AAA 3 CubeSmart
+23-May,Tue,05:45 PM - 08:00 PM,lw6,5:45 PM,8:00 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
 23-May,Tue,05:30 PM - 07:30 PM,northacres 2,,,SB A 1 Basement,SHRLN SB A2
 23-May,Tue,05:30 PM - 07:30 PM,ross,,,SB A 3 Zuger,BLRD SB A1
-24-May,Wed,05:45 PM - 08:30 PM,lw3,,,SB Majors playoffs,
+24-May,Wed,05:45 PM - 08:30 PM,lw3,,,SB Majors playoffs?,
 24-May,Wed,05:45 PM - 08:15 PM,lw4,,,AAA baseball,
 24-May,Wed,05:45 PM - 08:30 PM,lw5,,,BB Majors playoffs,
 24-May,Wed,07:00 PM - 09:00 PM,lw6,,,AAA baseball,
 24-May,Wed,05:00 PM - 07:30 PM,ross,,,SB AA 2 Greenlake,BLRD SB AA1
 24-May,Wed,05:00 PM - 07:30 PM,university,,,SB AA 3 CubeSmart,SB AA 1 Orca
-25-May,Thu,05:45 PM - 08:30 PM,lw3,,,SB Juniors playoffs?,
-25-May,Thu,05:45 PM - 08:00 PM,lw4,,,,
-25-May,Thu,05:45 PM - 08:00 PM,lw5,,,NCLL picnic,
-25-May,Thu,05:45 PM - 08:00 PM,lw6,,,NCLL picnic,
+25-May,Thu,05:45 PM - 08:30 PM,lw3,,,BB majors playoffs,
+25-May,Thu,05:45 PM - 08:00 PM,lw4,5:45 PM,8:00 PM,SB AAA 1 Harjo,SB AAA 4 Tutta
+25-May,Thu,05:45 PM - 08:00 PM,lw5,,,SB Juniors playoffs?,
+25-May,Thu,05:45 PM - 08:00 PM,lw6,5:45 PM,8:00 PM,SB AAA 3 CubeSmart,SB AAA 2 Windemere
 25-May,Thu,05:00 PM - 07:30 PM,ross,,,A baseball,
 25-May,Thu,05:00 PM - 07:30 PM,university,,,A baseball,
 26-May,Fri,05:30 PM - 07:30 PM,ross,,,AA baseball,
 29-May,Mon,05:00 PM - 07:00 PM,ross,,,,
 30-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,,,A/AA baseball?,
 30-May,Tue,05:45 PM - 08:30 PM,lw3,,,BB Majors playoffs championship,
-30-May,Tue,05:45 PM - 08:30 PM,lw4,,,AAA softball playoff,
-30-May,Tue,05:45 PM - 08:30 PM,lw5,,,AAA softball playoff,
+30-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
+30-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
 30-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
 30-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,SB A 1 Basement
 31-May,Wed,05:00 PM - 07:30 PM,bitter lake 2,,,A/AA baseball?,
@@ -551,7 +551,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 3-Jun,Sat,09:00 AM - 03:00 PM,lw3,9:00 AM,noon,SB Majors,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw3,noon,3:00 PM,,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw4,9:00 AM,noon,BB AAA playoff championshp,
-3-Jun,Sat,09:00 AM - 03:00 PM,lw4,noon,3:00 PM,SB AAA playoff championship,
+3-Jun,Sat,09:00 AM - 03:00 PM,lw4,12:30 PM,3:00 PM,SB AAA playoff championship,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw6,9:00 AM,11:15 AM,,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw6,11:15,1:15 PM,AA baseball,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw6,1:15 PM,3:00 PM,SB AA,
