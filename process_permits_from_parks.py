@@ -109,7 +109,7 @@ def create_60ft_fields_csvfile(csv_rows, filename):
 
 def create_90ft_fields_csvfile(csv_rows, filename):
     with open(filename, "w", newline="") as f:
-        writer = csv.writer(f, delimiter="\t")
+        writer = csv.writer(f)
         writer.writerow(csv_rows[0])
         for row in csv_rows[1:]:
             field_name = row[4]
