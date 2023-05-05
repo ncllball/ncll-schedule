@@ -402,7 +402,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 8-May,Mon,05:45 PM - 08:00 PM,lw6,,,AAA baseball,
 8-May,Mon,05:00 PM - 07:00 PM,ross,,,A baseball,
 9-May,Tue,05:00 PM - 07:00 PM,bitter lake 1,5:15 PM,7:00 PM,SB A 3 Zuger,BLRD SB A2
-9-May,Tue,05:45 PM - 08:30 PM,lw3,,,BB TnT Taqueria,
+9-May,Tue,05:45 PM - 08:30 PM,lw3,,,SB Juniors The Westy & BB Majors TnT Taqueria,
 9-May,Tue,05:45 PM - 08:30 PM,lw4,,,SB AAA CubeSmart + Tutta,
 9-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
 9-May,Tue,05:45 PM - 08:30 PM,lw6,,,BB Project 9 & ,
@@ -457,7 +457,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 16-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:30 PM,BB Majors Rough Riders,BB Majors Project 9
 16-May,Tue,05:45 PM - 08:30 PM,lw4,6:00 PM,8:15 PM,SB AAA 1 Harjo,SB AAA 2 Windemere
 16-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
-16-May,Tue,05:45 PM - 08:30 PM,lw6,,,SB TnT Taqueria,
+16-May,Tue,05:45 PM - 08:30 PM,lw6,,,SB Juniors The Westy & BB Majors TnT Taqueria,
 16-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,RUG SB A3
 17-May,Wed,05:45 PM - 08:30 PM,bitter lake 1,,,AAA baseball,
 17-May,Wed,05:00 PM - 07:30 PM,bitter lake 2,,,SB AA 2 Greenlake,NELL SB AA3
@@ -475,7 +475,8 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 19-May,Fri,05:45 PM - 08:00 PM,lw3,,,AA baseball,
 19-May,Fri,06:00 PM - 09:00 PM,lw4,,,SB Juniors The Westy,
 19-May,Fri,05:45 PM - 08:00 PM,lw5,,,AA baseball,
-19-May,Fri,05:00 PM - 07:30 PM,lw6,,,AA baseball,
+19-May,Fri,05:00 PM - 09:00 PM,lw6,,,Baseball all stars tryouts,
+19-May,Fri,05:45 PM - 08:00 PM,northacres 2,,,AA baseball,
 19-May,Fri,05:00 PM - 07:00 PM,ross,,,A baseball,
 20-May,Sat,09:00 AM - 06:00 PM,lw3,9:00 AM,11:30 AM,Baseball Majors TnT Taqueria,RUG 2
 20-May,Sat,09:00 AM - 06:00 PM,lw3,12:00 PM,2:30 PM,SB Majors TnT Taqueria,
