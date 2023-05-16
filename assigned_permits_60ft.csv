@@ -496,12 +496,12 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 20-May,Sat,09:00 AM - 05:00 PM,ross,3:00 PM,5:00 PM,SB A 2 Ridge,SHRLN SB A1
 20-May,Sat,09:00 AM - 05:00 PM,university,9:00 AM,3:00 PM,A baseball,
 20-May,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,,
-22-May,Mon,05:45 PM - 08:30 PM,bitter lake 1,,,AAA baseball playoffs group phase,
+22-May,Mon,05:45 PM - 08:30 PM,bitter lake 1,,,,
 22-May,Mon,05:00 PM - 07:00 PM,bitter lake 2,,,A baseball,
 22-May,Mon,06:30 PM - 08:30 PM,loyal heights,,,AAA baseball practice,
 22-May,Mon,05:45 PM - 08:30 PM,lw4,,,SB Majors playoffs?,
 22-May,Mon,05:45 PM - 08:30 PM,lw5,,,AAA baseball playoffs group phase,
-22-May,Mon,05:45 PM - 08:30 PM,lw6,,,Juniors softball playoffs?,
+22-May,Mon,05:45 PM - 08:30 PM,lw6,,,AAA baseball playoffs group phase,
 22-May,Mon,05:00 PM - 07:30 PM,ross,,,A baseball,
 23-May,Tue,05:45 PM - 08:30 PM,lw3,,,,
 23-May,Tue,05:45 PM - 08:30 PM,lw4,,,BB Majors playoffs,
@@ -509,7 +509,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 23-May,Tue,05:45 PM - 08:00 PM,lw6,5:45 PM,8:00 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
 23-May,Tue,05:30 PM - 07:30 PM,northacres 2,,,SB A 1 Basement,SHRLN SB A2
 23-May,Tue,05:30 PM - 07:30 PM,ross,,,SB A 3 Zuger,BLRD SB A1
-24-May,Wed,05:45 PM - 08:30 PM,lw3,,,SB Majors playoffs?,
+24-May,Wed,05:45 PM - 08:30 PM,lw3,,,SB Majors playoffs,
 24-May,Wed,05:45 PM - 08:15 PM,lw4,,,BB Majors playoffs,
 24-May,Wed,05:45 PM - 08:30 PM,lw5,,,AAA baseball,
 24-May,Wed,07:00 PM - 09:00 PM,lw6,,,AAA baseball,
@@ -527,7 +527,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 30-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
 30-May,Tue,05:45 PM - 08:30 PM,lw4,,,BB Majors playoffs championship,
 30-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
-30-May,Tue,05:45 PM - 08:30 PM,lw6,,,,
+30-May,Tue,05:45 PM - 08:30 PM,lw6,,,Juniors softball playoffs?,
 30-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,SB A 1 Basement
 31-May,Wed,05:00 PM - 07:30 PM,bitter lake 2,,,A/AA baseball?,
 31-May,Wed,05:45 PM - 08:00 PM,lw3,,,BB AAA playoff (group phase),
@@ -549,7 +549,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 3-Jun,Sat,09:00 AM - 06:00 PM,dahl 3,,,AA baseball,
 3-Jun,Sat,09:00 AM - 05:00 PM,university,9:00 AM,3:00 PM,BB A,
 3-Jun,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,SB A 2 Ridge,Ballard Pioneer Masonry
-3-Jun,Sat,09:00 AM - 03:00 PM,lw3,9:00 AM,noon,SB Majors,
+3-Jun,Sat,09:00 AM - 03:00 PM,lw3,9:00 AM,noon,SB Juniors,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw3,noon,3:00 PM,,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw4,9:00 AM,noon,BB AAA playoff championshp,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw4,12:30 PM,3:00 PM,SB AAA playoff championship,
@@ -563,7 +563,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 5-Jun,Mon,04:30 PM - 06:30 PM,dahl 3,,,,
 5-Jun,Mon,05:45 PM - 07:15 PM,lw3,,,,
 5-Jun,Mon,05:45 PM - 08:45 PM,lw4,,,,
-5-Jun,Mon,05:45 PM - 08:30 PM,lw5,,,,
+5-Jun,Mon,05:45 PM - 08:30 PM,lw5,,,SB Majors Playoffs,
 5-Jun,Mon,05:30 PM - 08:00 PM,lw6,,,,
 5-Jun,Mon,05:30 PM - 07:30 PM,ross,,,A baseball,
 6-Jun,Tue,04:30 PM - 06:30 PM,bitter lake 2,,,SB A 1 Basement,NELL SB A2
