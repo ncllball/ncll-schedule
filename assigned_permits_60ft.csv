@@ -496,14 +496,13 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 20-May,Sat,09:00 AM - 05:00 PM,ross,3:00 PM,5:00 PM,SB A 2 Ridge,SHRLN SB A1
 20-May,Sat,09:00 AM - 05:00 PM,university,9:00 AM,3:00 PM,A baseball,
 20-May,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,,
-22-May,Mon,05:45 PM - 08:30 PM,bitter lake 1,,,,
-22-May,Mon,05:00 PM - 07:00 PM,bitter lake 2,,,A baseball,
+22-May,Mon,05:00 PM - 08:30 PM,bitter lake 1,,,A baseball,
 22-May,Mon,06:30 PM - 08:30 PM,loyal heights,,,AAA baseball practice,
 22-May,Mon,05:45 PM - 08:30 PM,lw4,,,SB Majors playoffs?,
 22-May,Mon,05:45 PM - 08:30 PM,lw5,,,AAA baseball playoffs group phase,
 22-May,Mon,05:45 PM - 08:30 PM,lw6,,,AAA baseball playoffs group phase,
 22-May,Mon,05:00 PM - 07:30 PM,ross,,,A baseball,
-23-May,Tue,05:45 PM - 08:30 PM,lw3,,,,
+23-May,Tue,05:45 PM - 08:30 PM,lw3,,,Juniors softball & AAA baseball practices,
 23-May,Tue,05:45 PM - 08:30 PM,lw4,,,BB Majors playoffs,
 23-May,Tue,05:45 PM - 08:30 PM,lw5,5:45 PM,8:00 PM,SB AAA 1 Harjo,SB AAA 3 CubeSmart
 23-May,Tue,05:45 PM - 08:00 PM,lw6,5:45 PM,8:00 PM,SB AAA 2 Windemere,SB AAA 4 Tutta
@@ -529,15 +528,15 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 30-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
 30-May,Tue,05:45 PM - 08:30 PM,lw6,,,Juniors softball playoffs?,
 30-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,SB A 1 Basement
-31-May,Wed,05:00 PM - 07:30 PM,bitter lake 2,,,A/AA baseball?,
+31-May,Wed,05:00 PM - 07:30 PM,university,,,A baseball,
 31-May,Wed,05:45 PM - 08:00 PM,lw3,,,BB AAA playoff (group phase),
 31-May,Wed,05:45 PM - 08:15 PM,lw4,,,BB AAA playoff (group phase),
 31-May,Wed,05:45 PM - 08:15 PM,lw5,,,SB Majors playoff?,
 31-May,Wed,06:00 PM - 08:00 PM,ross,,,SB AA 2 Greenlake,BLRD BALLARD ELKS
-1-Jun,Thu,05:00 PM - 07:00 PM,bitter lake 2,,,,
+1-Jun,Thu,05:00 PM - 07:00 PM,university,,,,
 1-Jun,Thu,05:45 PM - 08:15 PM,lw4,,,NCLL Picnic,
 1-Jun,Thu,06:00 PM - 08:30 PM,lw5,,,Home run derby,
-1-Jun,Thu,05:00 PM - 07:30 PM,ross,,,,
+1-Jun,Thu,05:00 PM - 07:30 PM,ross,,,A baseball,
 2-Jun,Fri,05:00 PM - 07:30 PM,bitter lake 1,,,A baseball,
 2-Jun,Fri,05:45 PM - 07:00 PM,lw3,,,,
 2-Jun,Fri,05:45 PM - 08:15 PM,lw4,,,AA baseball,
@@ -566,16 +565,16 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 5-Jun,Mon,05:45 PM - 08:30 PM,lw5,,,SB Majors Playoffs,
 5-Jun,Mon,05:30 PM - 08:00 PM,lw6,,,,
 5-Jun,Mon,05:30 PM - 07:30 PM,ross,,,A baseball,
-6-Jun,Tue,04:30 PM - 06:30 PM,bitter lake 2,,,SB A 1 Basement,NELL SB A2
+6-Jun,Tue,04:30 PM - 06:30 PM,university,,,SB A 1 Basement,NELL SB A2
 6-Jun,Tue,05:45 PM - 08:45 PM,lw4,,,,
 6-Jun,Tue,05:45 PM - 08:30 PM,lw5,,,,
 6-Jun,Tue,05:30 PM - 07:30 PM,ross,,,SB A 3 Zuger,RUG SB A2
-7-Jun,Wed,05:00 PM - 07:30 PM,bitter lake 2,,,A baseball,
+7-Jun,Wed,05:00 PM - 07:30 PM,university,,,A baseball,
 7-Jun,Wed,05:45 PM - 08:30 PM,lw4,,,,
 7-Jun,Wed,05:45 PM - 07:15 PM,lw6,,,,
 7-Jun,Wed,05:45 PM - 07:15 PM,thornton creek,,,,
 7-Jun,Wed,05:30 PM - 07:30 PM,ross,,,SB AA 2 Greenlake,NELL SB AA2
-8-Jun,Thu,05:00 PM - 07:00 PM,bitter lake 2,,,A baseball,
+8-Jun,Thu,05:00 PM - 07:00 PM,university,,,A baseball,
 8-Jun,Thu,05:45 PM - 08:00 PM,lw5,,,,
 8-Jun,Thu,05:30 PM - 07:30 PM,ross,,,A baseball,
 9-Jun,Fri,05:00 PM - 07:00 PM,dahl 3,,,AA baseball,
