@@ -516,7 +516,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 24-May,Wed,05:00 PM - 07:30 PM,university,,,SB AA 3 CubeSmart,SB AA 1 Orca
 25-May,Thu,05:45 PM - 08:30 PM,lw3,,,BB majors playoffs,
 25-May,Thu,05:45 PM - 08:00 PM,lw4,5:45 PM,8:00 PM,SB AAA 1 Harjo,SB AAA 4 Tutta
-25-May,Thu,05:45 PM - 08:00 PM,lw5,,,SB Juniors playoffs?,
+25-May,Thu,05:45 PM - 08:00 PM,lw5,,,SB Juniors playoffs,
 25-May,Thu,05:45 PM - 08:00 PM,lw6,5:45 PM,8:00 PM,SB AAA 3 CubeSmart,SB AAA 2 Windemere
 25-May,Thu,05:00 PM - 07:30 PM,ross,,,A baseball,
 25-May,Thu,05:00 PM - 07:30 PM,university,,,A baseball,
@@ -526,12 +526,12 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 30-May,Tue,05:45 PM - 08:30 PM,lw3,6:00 PM,8:15 PM,SB AAA 2 Windemere,SB AAA 1 Harjo
 30-May,Tue,05:45 PM - 08:30 PM,lw4,,,BB Majors playoffs championship,
 30-May,Tue,05:45 PM - 08:30 PM,lw5,6:00 PM,8:15 PM,SB AAA 4 Tutta,SB AAA 3 CubeSmart
-30-May,Tue,05:45 PM - 08:30 PM,lw6,,,Juniors softball playoffs?,
+30-May,Tue,05:45 PM - 08:30 PM,lw6,,,SB 12s all stars?,
 30-May,Tue,05:00 PM - 07:00 PM,ross,,,SB A 3 Zuger,SB A 1 Basement
 31-May,Wed,05:00 PM - 07:30 PM,university,,,A baseball,
 31-May,Wed,05:45 PM - 08:00 PM,lw3,,,BB AAA playoff (group phase),
 31-May,Wed,05:45 PM - 08:15 PM,lw4,,,BB AAA playoff (group phase),
-31-May,Wed,05:45 PM - 08:15 PM,lw5,,,SB Majors playoff?,
+31-May,Wed,05:45 PM - 08:15 PM,lw5,,,SB Majors playoff,
 31-May,Wed,06:00 PM - 08:00 PM,ross,,,SB AA 2 Greenlake,BLRD BALLARD ELKS
 1-Jun,Thu,05:00 PM - 07:00 PM,university,,,,
 1-Jun,Thu,05:45 PM - 08:15 PM,lw4,,,NCLL Picnic,
@@ -548,7 +548,7 @@ Date,Day,Permit,Field,Start time,End time,Home,Away
 3-Jun,Sat,09:00 AM - 06:00 PM,dahl 3,,,AA baseball,
 3-Jun,Sat,09:00 AM - 05:00 PM,university,9:00 AM,3:00 PM,BB A,
 3-Jun,Sat,09:00 AM - 05:00 PM,university,3:00 PM,5:00 PM,SB A 2 Ridge,Ballard Pioneer Masonry
-3-Jun,Sat,09:00 AM - 03:00 PM,lw3,9:00 AM,noon,SB Juniors,
+3-Jun,Sat,09:00 AM - 03:00 PM,lw3,9:00 AM,noon,,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw3,noon,3:00 PM,,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw4,9:00 AM,noon,BB AAA playoff championshp,
 3-Jun,Sat,09:00 AM - 03:00 PM,lw4,12:30 PM,3:00 PM,SB AAA playoff championship,
