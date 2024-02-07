@@ -1,510 +1,599 @@
 ﻿Date,Day,Setup - Ready Time,Start - End Time,Facility/Equipment/Instructor,Permit#,Attend/Qty
-"Mar 1, 2023",Wednesday,,05:45 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 1, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 1, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 1, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 1, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 2, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 2, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 2, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 2, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 2, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 3, 2023",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 3, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 4, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 4, 2023",Saturday,,09:00 AM - 04:00 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 4, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 4, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 4, 2023",Saturday,,10:00 AM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 6, 2023",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 6, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 6, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 6, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 6, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 7, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 7, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 7, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 7, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 7, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 8, 2023",Wednesday,,05:45 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 8, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 8, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 8, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 8, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 9, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 9, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 9, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 9, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 9, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 10, 2023",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 10, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 11, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 11, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 11, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 11, 2023",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 11, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 11, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 11, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 12, 2023",Sunday,,02:00 PM - 04:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 13, 2023",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 13, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 13, 2023",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 13, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 13, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 13, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 13, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 14, 2023",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 14, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 14, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 14, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 14, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 14, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 14, 2023",Tuesday,,06:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 15, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 15, 2023",Wednesday,,05:45 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 15, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 15, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 15, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 15, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 16, 2023",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 16, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 16, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 16, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 16, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 16, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 16, 2023",Thursday,,06:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 17, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 17, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 17, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 17, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 17, 2023",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 17, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 18, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 18, 2023",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Mar 18, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 18, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108416,1
-"Mar 18, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108416,1
-"Mar 18, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108416,1
-"Mar 18, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108416,1
-"Mar 20, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 20, 2023",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 20, 2023",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 20, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 20, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 20, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 20, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 21, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 21, 2023",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 21, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 21, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 21, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 21, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 21, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 22, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 22, 2023",Wednesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 22, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 22, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 22, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 22, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 22, 2023",Wednesday,,06:00 PM - 09:30 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 23, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 23, 2023",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108416,1
-"Mar 23, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 23, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 23, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 23, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 23, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 24, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 24, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 24, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 24, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 24, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 24, 2023",Friday,,06:00 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 25, 2023",Saturday,,09:00 AM - 03:15 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Mar 25, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 25, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 25, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108417,1
-"Mar 25, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 25, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 25, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 27, 2023",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Mar 27, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 27, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 27, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 27, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 27, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 27, 2023",Monday,,06:00 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 28, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 28, 2023",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Mar 28, 2023",Tuesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108416,1
-"Mar 28, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 28, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 28, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 28, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 29, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 29, 2023",Wednesday,,05:00 PM - 07:30 PM,University Playfield Ballfield 01,R108417,1
-"Mar 29, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 29, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 29, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 29, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 29, 2023",Wednesday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 30, 2023",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Mar 30, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 30, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Mar 30, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 30, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 30, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 30, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 31, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Mar 31, 2023",Friday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Mar 31, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Mar 31, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Mar 31, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Mar 31, 2023",Friday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Mar 31, 2023",Friday,,06:00 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 1, 2023",Saturday,,09:00 AM - 03:30 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 1, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 1, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 1, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 1, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 1, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 1, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 2, 2023",Sunday,,05:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108414,1
-"Apr 3, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 3, 2023",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 3, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 3, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 3, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 3, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 3, 2023",Monday,,06:00 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 4, 2023",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 4, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 4, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 4, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 4, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 4, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 4, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 5, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 5, 2023",Wednesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 5, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 5, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 5, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 5, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 5, 2023",Wednesday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 6, 2023",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 6, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 6, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 6, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 6, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 6, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 6, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 7, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 7, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 7, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108414,1
-"Apr 7, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 7, 2023",Friday,,06:00 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 8, 2023",Saturday,,09:00 AM - 03:30 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 8, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 8, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 8, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 8, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 8, 2023",Saturday,,06:00 PM - 08:00 PM,Loyal Heights Playfield Ballfield 01,R108421,1
-"Apr 10, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 10, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 10, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 10, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 10, 2023",Monday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 11, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 11, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 11, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 11, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 11, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 11, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 12, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 12, 2023",Wednesday,,05:30 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 12, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 12, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 12, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 12, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 13, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 13, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 13, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 13, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 13, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 14, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 14, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 14, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 14, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 14, 2023",Friday,,07:30 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 15, 2023",Saturday,,09:00 AM - 03:30 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 15, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 15, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 15, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 15, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 15, 2023",Saturday,,12:00 PM - 04:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 17, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 17, 2023",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 17, 2023",Monday,,05:45 PM - 08:00 PM,Green Lake Playfield Ballfield 01,R108417,1
-"Apr 17, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 17, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 17, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 17, 2023",Monday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 18, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 18, 2023",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Apr 18, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 18, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 18, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 18, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 18, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 19, 2023",Wednesday,,05:00 PM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 19, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 19, 2023",Wednesday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 02,R108417,1
-"Apr 19, 2023",Wednesday,,05:00 PM - 07:45 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Apr 19, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 19, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 19, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 19, 2023",Wednesday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 20, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 20, 2023",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 20, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 20, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 20, 2023",Thursday,,05:45 PM - 08:30 PM,Bitter Lake Playfield Ballfield 02,R108417,1
-"Apr 20, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 20, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 21, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 21, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 21, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 21, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 21, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108417,1
-"Apr 22, 2023",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 23, 2023",Sunday,,11:00 AM - 04:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 23, 2023",Sunday,,02:30 PM - 08:00 PM,Eagle Staff Middle School Softball Field,R108419,1
-"Apr 24, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 24, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 24, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 24, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 24, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 24, 2023",Monday,,06:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 02,R108417,1
-"Apr 24, 2023",Monday,,06:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Apr 25, 2023",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Apr 25, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 25, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 25, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 25, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 25, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 25, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 26, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 26, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 26, 2023",Wednesday,,05:45 PM - 08:15 PM,Green Lake Playfield Ballfield 01,R108417,1
-"Apr 26, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 26, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 26, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 26, 2023",Wednesday,,06:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Apr 27, 2023",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108417,1
-"Apr 27, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108417,1
-"Apr 27, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 27, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108417,1
-"Apr 27, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108417,1
-"Apr 27, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108417,1
-"Apr 27, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108417,1
-"Apr 28, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"Apr 28, 2023",Friday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"Apr 28, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"Apr 28, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"Apr 28, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"Apr 28, 2023",Friday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"Apr 28, 2023",Friday,,06:00 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"Apr 29, 2023",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"Apr 29, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"Apr 29, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108419,1
-"Apr 29, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"Apr 29, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"Apr 29, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"Apr 29, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"Apr 30, 2023",Sunday,,06:00 PM - 08:30 PM,Whitman Middle School Baseball,R108422,1
-"May 1, 2023",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108419,1
-"May 1, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 1, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 1, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 1, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 1, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 1, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 2, 2023",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 2, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 2, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 2, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 2, 2023",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 2, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 2, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 3, 2023",Wednesday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 3, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 3, 2023",Wednesday,,05:30 PM - 07:15 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 3, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 3, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 3, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 3, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 4, 2023",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 02,R108419,1
-"May 4, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 4, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 4, 2023",Thursday,,05:45 PM - 08:15 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 4, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 4, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 4, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 5, 2023",Friday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 5, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 5, 2023",Friday,,05:45 PM - 07:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 5, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 5, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 5, 2023",Friday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 5, 2023",Friday,,06:00 PM - 08:00 PM,Northacres Park Ballfield 02,R108419,1
-"May 5, 2023",Friday,,06:45 PM - 08:30 PM,Whitman Middle School Baseball,R108421,1
-"May 6, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 6, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 6, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108419,1
-"May 6, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 6, 2023",Saturday,,09:00 AM - 04:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 6, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 6, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 6, 2023",Saturday,,06:00 PM - 08:30 PM,Whitman Middle School Baseball,R108422,1
-"May 7, 2023",Sunday,,02:00 PM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 7, 2023",Sunday,,03:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108414,1
-"May 8, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 8, 2023",Monday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 8, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 8, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 8, 2023",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 8, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 8, 2023",Monday,,06:15 PM - 08:00 PM,Eagle Staff Middle School Softball Field,R108419,1
-"May 9, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 9, 2023",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 9, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 9, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 9, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 9, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 9, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 10, 2023",Wednesday,,05:00 PM - 07:15 PM,Lower Woodland Playfield Ballfield 06,R108414,1
-"May 10, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 10, 2023",Wednesday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 10, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 10, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 10, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 10, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 11, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 11, 2023",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 11, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 11, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 11, 2023",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 11, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 11, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 12, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 12, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 12, 2023",Friday,,05:45 PM - 08:00 PM,Green Lake Playfield Ballfield 01,R108419,1
-"May 12, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 12, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 12, 2023",Friday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 12, 2023",Friday,,06:00 PM - 09:45 PM,Loyal Heights Playfield Ballfield 01,R108422,1
-"May 12, 2023",Friday,,06:45 PM - 08:45 PM,Whitman Middle School Baseball,R108422,1
-"May 13, 2023",Saturday,,09:00 AM - 07:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 13, 2023",Saturday,,09:00 AM - 07:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 13, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108419,1
-"May 13, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 13, 2023",Saturday,,09:00 AM - 11:30 AM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 13, 2023",Saturday,,09:00 AM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 13, 2023",Saturday,,09:00 AM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 13, 2023",Saturday,,11:30 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 14, 2023",Sunday,,01:30 PM - 04:30 PM,Loyal Heights Playfield Ballfield 01,R108422,1
-"May 14, 2023",Sunday,,02:00 PM - 05:00 PM,Lower Woodland Playfield Ballfield 04,R108414,1
-"May 14, 2023",Sunday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108414,1
-"May 15, 2023",Monday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 02,R108419,1
-"May 15, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 15, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 15, 2023",Monday,,05:45 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 15, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 15, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 15, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 16, 2023",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 16, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 16, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 16, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 16, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 16, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 16, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 17, 2023",Wednesday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 02,R108419,1
-"May 17, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 17, 2023",Wednesday,,05:45 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 17, 2023",Wednesday,,05:45 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 17, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 17, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 17, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 18, 2023",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 18, 2023",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 18, 2023",Thursday,,05:45 PM - 07:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 18, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 18, 2023",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 18, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 18, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 19, 2023",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 19, 2023",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 19, 2023",Friday,,05:45 PM - 08:00 PM,Green Lake Playfield Ballfield 01,R108419,1
-"May 19, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 19, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 19, 2023",Friday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 20, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 20, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 20, 2023",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 20, 2023",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R108419,1
-"May 20, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 20, 2023",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 21, 2023",Sunday,,11:30 AM - 05:30 PM,Eagle Staff Middle School Baseball Field,R108422,1
-"May 21, 2023",Sunday,,02:30 PM - 08:00 PM,Whitman Middle School Baseball,R108422,1
-"May 22, 2023",Monday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 02,R108419,1
-"May 22, 2023",Monday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 22, 2023",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 22, 2023",Monday,,05:45 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 22, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 22, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 22, 2023",Monday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 23, 2023",Tuesday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 23, 2023",Tuesday,,05:30 PM - 07:30 PM,Northacres Park Ballfield 02,R108419,1
-"May 23, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 23, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 23, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 23, 2023",Tuesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 23, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 24, 2023",Wednesday,,05:00 PM - 07:30 PM,University Playfield Ballfield 01,R108419,1
-"May 24, 2023",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 24, 2023",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 24, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 24, 2023",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 24, 2023",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 25, 2023",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R108419,1
-"May 25, 2023",Thursday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 25, 2023",Thursday,,05:45 PM - 08:45 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 25, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 25, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 25, 2023",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 25, 2023",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 26, 2023",Friday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 26, 2023",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 26, 2023",Friday,,08:00 PM - 09:00 PM,Whitman Middle School Baseball,R108421,1
-"May 27, 2023",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R108422,1
-"May 29, 2023",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 29, 2023",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"May 30, 2023",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R108419,1
-"May 30, 2023",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R108419,1
-"May 30, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R108419,1
-"May 30, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R108419,1
-"May 30, 2023",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R108421,1
-"May 30, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R108419,1
-"May 30, 2023",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R108419,1
-"May 31, 2023",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R118494,1
-"May 31, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R118492,1
-"May 31, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R118492,1
-"May 31, 2023",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R118492,1
-"May 31, 2023",Wednesday,,06:00 PM - 08:00 PM,Ross Playfield Lower Ballfield,R118494,1
+"Mar 1, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 1, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 2, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 2, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 2, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 2, 2024",Saturday,,09:00 AM - 04:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 3, 2024",Sunday,,04:00 PM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 4, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 4, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 4, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 4, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 4, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 5, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 5, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 5, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 5, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 5, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 6, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 6, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 6, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 6, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 6, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 7, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 7, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 7, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 7, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 7, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 8, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 8, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 9, 2024",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 9, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 9, 2024",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 9, 2024",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 9, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 9, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 9, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 10, 2024",Sunday,,02:00 PM - 04:30 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 11, 2024",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 11, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 11, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 11, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 11, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 11, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 11, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 11, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 12, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 12, 2024",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 12, 2024",Tuesday,,05:30 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 12, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 12, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 12, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 12, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 12, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 13, 2024",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 13, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 13, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 13, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 13, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 13, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 13, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 14, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 14, 2024",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 14, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 14, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 14, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 14, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 14, 2024",Thursday,,06:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 14, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 15, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 15, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 15, 2024",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 15, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 15, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 15, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 15, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 16, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 16, 2024",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R156289,1
+"Mar 16, 2024",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Mar 16, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156289,1
+"Mar 16, 2024",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 16, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 16, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156289,1
+"Mar 16, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156289,1
+"Mar 17, 2024",Sunday,,10:00 AM - 12:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 17, 2024",Sunday,,04:00 PM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R156289,1
+"Mar 18, 2024",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 18, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 18, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 18, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 18, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 18, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 18, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 18, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 19, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 19, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 19, 2024",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 19, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 19, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 19, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 19, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 19, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 20, 2024",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 20, 2024",Wednesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 20, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 20, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 20, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 20, 2024",Wednesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 20, 2024",Wednesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 20, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 21, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 21, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 21, 2024",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156289,1
+"Mar 21, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 21, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 21, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 21, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 21, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 22, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156289,1
+"Mar 22, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 22, 2024",Friday,,05:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 22, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 22, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 22, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 22, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 23, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 23, 2024",Saturday,,09:00 AM - 03:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Mar 23, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 23, 2024",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 23, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 23, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 23, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 23, 2024",Saturday,,10:00 AM - 03:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Mar 24, 2024",Sunday,,10:00 AM - 12:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 24, 2024",Sunday,,04:00 PM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 25, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 25, 2024",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156293,1
+"Mar 25, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 25, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 25, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 25, 2024",Monday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 25, 2024",Monday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 25, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 26, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 26, 2024",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156293,1
+"Mar 26, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 26, 2024",Tuesday,,05:45 PM - 08:15 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Mar 26, 2024",Tuesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 26, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 26, 2024",Tuesday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 26, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 26, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 27, 2024",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 27, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 27, 2024",Wednesday,,05:00 PM - 07:30 PM,University Playfield Ballfield 01,R156293,1
+"Mar 27, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 27, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 27, 2024",Wednesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 27, 2024",Wednesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 27, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 28, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 28, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 28, 2024",Thursday,,05:45 PM - 07:30 PM,Northacres Park Ballfield 02,R156293,1
+"Mar 28, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 28, 2024",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 28, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 28, 2024",Thursday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 28, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 29, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Mar 29, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 29, 2024",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 29, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 29, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 29, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 29, 2024",Friday,,06:00 PM - 09:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Mar 29, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 30, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R156293,1
+"Mar 30, 2024",Saturday,,09:00 AM - 03:30 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Mar 30, 2024",Saturday,,09:00 AM - 05:00 PM,University Playfield Ballfield 01,R156293,1
+"Mar 30, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Mar 30, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Mar 30, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Mar 30, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Mar 30, 2024",Saturday,,10:00 AM - 03:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Mar 31, 2024",Sunday,,05:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153177,1
+"Apr 1, 2024",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156293,1
+"Apr 1, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 1, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 1, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 1, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 1, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 1, 2024",Monday,,06:00 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 1, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 1, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 2, 2024",Tuesday,,05:00 PM - 07:45 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 2, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 2, 2024",Tuesday,,05:30 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 2, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 2, 2024",Tuesday,,05:45 PM - 07:45 PM,Northacres Park Ballfield 01,R156293,1
+"Apr 2, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 2, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 2, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 2, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 3, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 3, 2024",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 3, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 3, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 3, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 3, 2024",Wednesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 3, 2024",Wednesday,,06:00 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 3, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 4, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 4, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 4, 2024",Thursday,,05:30 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 4, 2024",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 4, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 4, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 4, 2024",Thursday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 4, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 5, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 5, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 5, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 5, 2024",Friday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 5, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 5, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 6, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 6, 2024",Saturday,,09:00 AM - 03:30 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 6, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 6, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 6, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 6, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 6, 2024",Saturday,,06:00 PM - 08:00 PM,Loyal Heights Playfield Ballfield 01,R153183,1
+"Apr 8, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 8, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 8, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 8, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 8, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 8, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 9, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 9, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 9, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 9, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 9, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 9, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 9, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 10, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 10, 2024",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 10, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 10, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 10, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 10, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 10, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 11, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 11, 2024",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 11, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 11, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 11, 2024",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 11, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 12, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 12, 2024",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 12, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 12, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 12, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 12, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 13, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 13, 2024",Saturday,,09:00 AM - 03:30 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 13, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 13, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 13, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 13, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 13, 2024",Saturday,,12:00 PM - 04:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 15, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 15, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 15, 2024",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156293,1
+"Apr 15, 2024",Monday,,05:45 PM - 08:15 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 15, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 15, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 15, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 15, 2024",Monday,,06:00 PM - 08:00 PM,Green Lake Playfield Ballfield 01,R156293,1
+"Apr 15, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 16, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 16, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 16, 2024",Tuesday,,05:00 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 16, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 16, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 16, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 16, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 16, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 17, 2024",Wednesday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 17, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 17, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 17, 2024",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 17, 2024",Wednesday,,06:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 17, 2024",Wednesday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 17, 2024",Wednesday,,06:00 PM - 09:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 17, 2024",Wednesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 18, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 18, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 18, 2024",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R156293,1
+"Apr 18, 2024",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 18, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 18, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 18, 2024",Thursday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 18, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 19, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 19, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 19, 2024",Friday,,05:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 19, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 19, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 19, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 20, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 20, 2024",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 20, 2024",Saturday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 20, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 20, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 20, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 20, 2024",Saturday,,09:00 AM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 20, 2024",Saturday,,10:00 AM - 03:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 21, 2024",Sunday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"Apr 21, 2024",Sunday,,11:00 AM - 04:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 21, 2024",Sunday,,02:30 PM - 08:00 PM,Eagle Staff Middle School Softball Field,R153182,1
+"Apr 22, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 22, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 22, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 22, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 22, 2024",Monday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 22, 2024",Monday,,06:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 22, 2024",Monday,,07:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 23, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 23, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 23, 2024",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 23, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 23, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 23, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 23, 2024",Tuesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 23, 2024",Tuesday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 24, 2024",Wednesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 24, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 24, 2024",Wednesday,,05:00 PM - 07:30 PM,University Playfield Ballfield 01,R156293,1
+"Apr 24, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 24, 2024",Wednesday,,05:45 PM - 08:15 PM,Green Lake Playfield Ballfield 01,R156293,1
+"Apr 24, 2024",Wednesday,,06:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 24, 2024",Wednesday,,06:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 24, 2024",Wednesday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 24, 2024",Wednesday,,07:00 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 25, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 25, 2024",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R156293,1
+"Apr 25, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R156293,1
+"Apr 25, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R156293,1
+"Apr 25, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R156293,1
+"Apr 25, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R156293,1
+"Apr 25, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R156293,1
+"Apr 25, 2024",Thursday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 26, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R156293,1
+"Apr 26, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"Apr 26, 2024",Friday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"Apr 26, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"Apr 26, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"Apr 26, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"Apr 26, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"Apr 26, 2024",Friday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"Apr 27, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R153182,1
+"Apr 27, 2024",Saturday,,08:30 AM - 05:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"Apr 27, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"Apr 27, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"Apr 27, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"Apr 27, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"Apr 27, 2024",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 27, 2024",Saturday,,10:00 AM - 03:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"Apr 28, 2024",Sunday,,04:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"Apr 28, 2024",Sunday,,06:00 PM - 07:45 PM,Whitman Middle School Baseball,R153184,1
+"Apr 29, 2024",Monday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"Apr 29, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"Apr 29, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"Apr 29, 2024",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"Apr 29, 2024",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"Apr 29, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"Apr 29, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"Apr 29, 2024",Monday,,06:30 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"Apr 29, 2024",Monday,,07:00 PM - 08:30 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"Apr 30, 2024",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"Apr 30, 2024",Tuesday,,05:00 PM - 07:30 PM,University Playfield Ballfield 01,R153182,1
+"Apr 30, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"Apr 30, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"Apr 30, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"Apr 30, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"Apr 30, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"Apr 30, 2024",Tuesday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"Apr 30, 2024",Tuesday,,06:30 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 1, 2024",Wednesday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 1, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 1, 2024",Wednesday,,05:00 PM - 07:30 PM,University Playfield Ballfield 01,R153182,1
+"May 1, 2024",Wednesday,,05:45 PM - 07:45 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 1, 2024",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 1, 2024",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 1, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 1, 2024",Wednesday,,06:00 PM - 07:30 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 1, 2024",Wednesday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 2, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 2, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 2, 2024",Thursday,,05:45 PM - 08:15 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 2, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 2, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 2, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 2, 2024",Thursday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 3, 2024",Friday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 3, 2024",Friday,,05:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 3, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 3, 2024",Friday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"May 3, 2024",Friday,,05:45 PM - 07:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 3, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 3, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 3, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 3, 2024",Friday,,06:45 PM - 08:30 PM,Whitman Middle School Baseball,R153183,1
+"May 4, 2024",Saturday,,08:30 AM - 05:30 PM,University Playfield Ballfield 01,R153182,1
+"May 4, 2024",Saturday,,08:30 AM - 05:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 4, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 4, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 4, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 4, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 4, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 4, 2024",Saturday,,09:00 AM - 04:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 4, 2024",Saturday,,06:00 PM - 08:30 PM,Whitman Middle School Baseball,R153184,1
+"May 5, 2024",Sunday,,03:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R153177,1
+"May 6, 2024",Monday,,05:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 6, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 6, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 6, 2024",Monday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 6, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 6, 2024",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 6, 2024",Monday,,06:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 7, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 7, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 7, 2024",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 7, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 7, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 7, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 7, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 7, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 8, 2024",Wednesday,,05:00 PM - 07:15 PM,Lower Woodland Playfield Ballfield 06,R153177,1
+"May 8, 2024",Wednesday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 8, 2024",Wednesday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 8, 2024",Wednesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 8, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 8, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 8, 2024",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 8, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 9, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 9, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 9, 2024",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 9, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 9, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 9, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 9, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 9, 2024",Thursday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 10, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 10, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 10, 2024",Friday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"May 10, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 10, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 10, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 10, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 10, 2024",Friday,,06:00 PM - 09:45 PM,Loyal Heights Playfield Ballfield 01,R153184,1
+"May 10, 2024",Friday,,06:45 PM - 08:45 PM,Whitman Middle School Baseball,R153184,1
+"May 11, 2024",Saturday,,08:30 AM - 05:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 11, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 11, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 11, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 11, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 11, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 11, 2024",Saturday,,09:00 AM - 11:30 AM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 11, 2024",Saturday,,11:00 AM - 02:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 11, 2024",Saturday,,11:30 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 12, 2024",Sunday,,09:00 AM - 12:00 PM,Eagle Staff Middle School Baseball Field,R153177,1
+"May 12, 2024",Sunday,,09:00 AM - 12:00 PM,Eagle Staff Middle School Softball Field,R153177,1
+"May 12, 2024",Sunday,,11:30 AM - 04:30 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 12, 2024",Sunday,,02:00 PM - 05:00 PM,Lower Woodland Playfield Ballfield 04,R153177,1
+"May 12, 2024",Sunday,,06:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 06,R153177,1
+"May 13, 2024",Monday,,05:00 PM - 08:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 13, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 13, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 13, 2024",Monday,,05:15 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 13, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 13, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 13, 2024",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 14, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 14, 2024",Tuesday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 14, 2024",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 14, 2024",Tuesday,,05:15 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 14, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 14, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 14, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 14, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 15, 2024",Wednesday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 15, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 15, 2024",Wednesday,,05:45 PM - 07:45 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 15, 2024",Wednesday,,05:45 PM - 09:15 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 15, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 15, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 15, 2024",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 16, 2024",Thursday,,05:00 PM - 06:15 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 16, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 16, 2024",Thursday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 16, 2024",Thursday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 16, 2024",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 16, 2024",Thursday,,05:45 PM - 07:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 16, 2024",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 16, 2024",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 17, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 17, 2024",Friday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 17, 2024",Friday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"May 17, 2024",Friday,,05:15 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 17, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 17, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 17, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 18, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 18, 2024",Saturday,,08:30 AM - 05:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 18, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 18, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 18, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 18, 2024",Saturday,,08:30 AM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 18, 2024",Saturday,,10:00 AM - 03:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 19, 2024",Sunday,,09:00 AM - 05:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 19, 2024",Sunday,,02:30 PM - 08:00 PM,Whitman Middle School Baseball,R153184,1
+"May 19, 2024",Sunday,,04:00 PM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 19, 2024",Sunday,,06:00 PM - 07:00 PM,Eagle Staff Middle School Baseball Field,R153184,1
+"May 20, 2024",Monday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 20, 2024",Monday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 20, 2024",Monday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 20, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 20, 2024",Monday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 20, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 20, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 21, 2024",Tuesday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 21, 2024",Tuesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"May 21, 2024",Tuesday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 21, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 21, 2024",Tuesday,,05:45 PM - 08:15 PM,Northacres Park Ballfield 02,R153182,1
+"May 21, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 21, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 21, 2024",Tuesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 21, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 22, 2024",Wednesday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 22, 2024",Wednesday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"May 22, 2024",Wednesday,,05:30 PM - 08:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 22, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 22, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 22, 2024",Wednesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 22, 2024",Wednesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 23, 2024",Thursday,,05:00 PM - 07:00 PM,University Playfield Ballfield 01,R153182,1
+"May 23, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 23, 2024",Thursday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 23, 2024",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 23, 2024",Thursday,,05:45 PM - 08:45 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 23, 2024",Thursday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 23, 2024",Thursday,,05:45 PM - 08:45 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 24, 2024",Friday,,03:45 PM - 06:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 24, 2024",Friday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 24, 2024",Friday,,05:00 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 24, 2024",Friday,,05:30 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 24, 2024",Friday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 24, 2024",Friday,,06:00 PM - 08:30 PM,Northacres Park Ballfield 02,R153182,1
+"May 25, 2024",Saturday,,08:30 AM - 05:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 25, 2024",Saturday,,08:30 AM - 05:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 25, 2024",Saturday,,08:30 AM - 05:30 PM,University Playfield Ballfield 01,R153182,1
+"May 25, 2024",Saturday,,09:00 AM - 05:00 PM,Lower Woodland Playfield Ballfield 01,R153184,1
+"May 26, 2024",Sunday,,07:00 PM - 08:00 PM,Eagle Staff Middle School Baseball Field,R153184,1
+"May 27, 2024",Monday,,04:30 PM - 06:30 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 27, 2024",Monday,,05:00 PM - 07:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 27, 2024",Monday,,05:00 PM - 06:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 27, 2024",Monday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"May 27, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 27, 2024",Monday,,07:00 PM - 08:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 27, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 27, 2024",Monday,,07:00 PM - 09:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 28, 2024",Tuesday,,05:00 PM - 08:00 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 28, 2024",Tuesday,,05:00 PM - 07:00 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 28, 2024",Tuesday,,05:00 PM - 06:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 28, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 01,R153183,1
+"May 28, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 28, 2024",Tuesday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 28, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 28, 2024",Tuesday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 29, 2024",Wednesday,,03:00 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 29, 2024",Wednesday,,05:00 PM - 07:30 PM,B F Day Playfield Ballfield,R153182,1
+"May 29, 2024",Wednesday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 29, 2024",Wednesday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 29, 2024",Wednesday,,05:45 PM - 08:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
+"May 30, 2024",Thursday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 30, 2024",Thursday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 30, 2024",Thursday,,05:45 PM - 08:15 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 30, 2024",Thursday,,05:45 PM - 08:30 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 31, 2024",Friday,,05:00 PM - 07:00 PM,Lower Woodland Playfield Ballfield 06,R153182,1
+"May 31, 2024",Friday,,05:00 PM - 07:00 PM,B F Day Playfield Ballfield,R153182,1
+"May 31, 2024",Friday,,05:00 PM - 07:30 PM,Ross Playfield Lower Ballfield,R153182,1
+"May 31, 2024",Friday,,05:30 PM - 07:30 PM,Bitter Lake Playfield Ballfield 01,R153182,1
+"May 31, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 04,R153182,1
+"May 31, 2024",Friday,,05:45 PM - 09:00 PM,Lower Woodland Playfield Ballfield 05,R153182,1
+"May 31, 2024",Friday,,05:45 PM - 07:00 PM,Lower Woodland Playfield Ballfield 03,R153182,1
