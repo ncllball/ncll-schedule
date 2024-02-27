@@ -1,31 +1,32 @@
 Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,Away,Team ID3,Field Error
 3/1/2024,Fri,17:45,20:00,lw3,,,,,,,No
 3/2/2024,Sat,9:00,18:00,lw3,Practice,9:00,10:30,Softball AAA 1,,,No
-3/2/2024,Sat,9:00,18:00,lw3,Practice,10:30,12:00,Baseball AAA 1,,,No
-3/2/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:30,Baseball AAA 5,,,No
+3/2/2024,Sat,9:00,18:00,lw3,Practice,10:30,12:00,BB AAA - Anderson,,,No
+3/2/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:30,BB AAA - Tufte,,,No
 3/2/2024,Sat,9:00,18:00,lw3,Practice,13:30,15:30,BB Majors - El Camion (Sam Glassburn),,,No
 3/2/2024,Sat,9:00,18:00,lw3,Practice,15:30,17:30,BB Majors - Zoka Coffee (Zach Korte),,,No
 3/2/2024,Sat,9:00,18:00,lw4,Practice,9:00,10:30,Softball AAA 2,,,No
-3/2/2024,Sat,9:00,18:00,lw4,Practice,10:30,12:00,Baseball AAA 2,,,No
-3/2/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,Baseball AAA 6,,,No
+3/2/2024,Sat,9:00,18:00,lw4,Practice,10:30,12:00,BB AAA - Christofferson,,,No
+3/2/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,BB AAA - Vasilopoulos,,,No
 3/2/2024,Sat,9:00,18:00,lw4,Practice,13:30,15:30,BB Majors - Branom Inst (Matt Berger),,,No
 3/2/2024,Sat,9:00,18:00,lw4,Practice,15:30,17:30,BB Majors - Project 9 (Mike Bylsma),,,No
 3/2/2024,Sat,9:00,18:00,lw5,Practice,9:00,10:30,Softball AAA 3,,,No
-3/2/2024,Sat,9:00,18:00,lw5,Practice,10:30,12:00,Baseball AAA 3,,,No
+3/2/2024,Sat,9:00,18:00,lw5,Practice,10:30,12:00,BB AAA - Donovan,,,No
 3/2/2024,Sat,9:00,18:00,lw5 ,Practice,12:00,14:00,Softball Majors 1,,,No
 3/2/2024,Sat,9:00,18:00,lw5,Practice,14:00,16:00,BB Majors - Lincoln (Michael Kilbourne),,,No
-3/2/2024,Sat,9:00,16:00,lw6,Practice,9:00,10:30,Baseball AAA 7,,,No
-3/2/2024,Sat,9:00,16:00,lw6,Practice,10:30,12:00,Baseball AAA 4,,,No
+3/2/2024,Sat,9:00,16:00,lw6,Practice,9:00,10:30,BB AAA - Zeller,,,No
+3/2/2024,Sat,9:00,16:00,lw6,Practice,10:30,12:00,BB AAA - Shikella,,,No
 3/2/2024,Sat,9:00,16:00,lw6,Practice,12:00,14:00,Softball Majors 2,,,No
 3/2/2024,Sat,9:00,16:00,lw6,Practice,14:00,16:00,Softball Majors 3,,,No
 3/3/2024,Sun,16:00,18:00,lw5,Practice,16:00,18:00,SB Juniors 56th Street Market,,,No
 3/4/2024,Mon,17:45,21:00,lw6,Practice,17:45,19:15,Softball Majors 1,,,No
 3/4/2024,Mon,17:45,21:00,lw6,Practice,19:15,20:45,Softball Majors 2,,,No
 3/4/2024,Mon,17:45,21:00,lw5,Practice,17:45,19:15,Softball Majors 3,,,No
-3/4/2024,Mon,17:45,21:00,lw4,Practice,17:45,19:15,Baseball AAA 1,Baseball AAA 2,,No
-3/4/2024,Mon,17:45,21:00,lw4,Practice,19:15,20:45,Baseball AAA 3,Baseball AAA 4,,No
-3/4/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:15,Baseball AAA 5,,,No
-3/4/2024,Mon,17:45,21:00,lw3,Practice,19:15,20:45,Baseball AAA 6,Baseball AAA 7,,No
+3/4/2024,Mon,17:45,21:00,lw5,Practice,19:15,20:45,BB AAA - Christofferson,,,
+3/4/2024,Mon,17:45,21:00,lw4,Practice,17:45,19:15,BB AAA - Anderson,,,No
+3/4/2024,Mon,17:45,21:00,lw4,Practice,19:15,20:45,BB AAA - Donovan,BB AAA - Shikella,,No
+3/4/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:15,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
+3/4/2024,Mon,17:45,21:00,lw3,Practice,19:15,20:45,BB AAA - Zeller,,,No
 3/5/2024,Tue,17:45,21:00,lw6,Practice,17:45,19:15,Softball AAA 1,Softball AAA 2,,No
 3/5/2024,Tue,17:45,21:00,lw6,Practice,19:15,20:45,Softball AAA 3,,,No
 3/5/2024,Tue,17:45,21:00,lw4,Practice,17:45,19:15,BB Majors - El Camion (Sam Glassburn),,,No
@@ -37,10 +38,11 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/6/2024,Wed,17:45,21:00,lw6,Practice,17:45,19:15,Softball Majors 1,,,No
 3/6/2024,Wed,17:45,21:00,lw6,Practice,19:15,20:45,Softball Majors 2,,,No
 3/6/2024,Wed,17:45,21:00,lw5,Practice,17:45,19:15,Softball Majors 3,,,No
-3/6/2024,Wed,17:45,21:00,lw4,Practice,17:45,19:15,Baseball AAA 1,Baseball AAA 2,,No
-3/6/2024,Wed,17:45,21:00,lw4,Practice,19:15,20:45,Baseball AAA 3,Baseball AAA 4,,No
-3/6/2024,Wed,17:45,21:00,lw3,Practice,17:45,19:15,Baseball AAA 5,,,No
-3/6/2024,Wed,17:45,21:00,lw3,Practice,19:15,20:45,Baseball AAA 6,Baseball AAA 7,,No
+3/6/2024,Wed,17:45,21:00,lw5,Practice,19:15,20:45,BB AAA - Vasilopoulos,,,
+3/6/2024,Wed,17:45,21:00,lw4,Practice,17:45,19:15,BB AAA - Donovan,,,No
+3/6/2024,Wed,17:45,21:00,lw4,Practice,19:15,20:45,BB AAA - Tufte,,,No
+3/6/2024,Wed,17:45,21:00,lw3,Practice,17:45,19:15,BB AAA - Zeller,BB AAA - Shikella,,No
+3/6/2024,Wed,17:45,21:00,lw3,Practice,19:15,20:45,BB AAA - Christofferson,BB AAA - Anderson,,No
 3/7/2024,Thu,17:45,21:00,lw6,Practice,17:45,19:15,Softball AAA 1,,,No
 3/7/2024,Thu,17:45,21:00,lw6,Practice,19:15,20:45,Softball AAA 2,,,No
 3/7/2024,Thu,17:45,21:00,lw4,Practice,17:45,19:15,BB Majors - El Camion (Sam Glassburn),,,No
@@ -51,20 +53,20 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/7/2024,Thu,17:45,21:00,lw3,Practice,19:15,20:45,BB Majors - Lincoln (Michael Kilbourne),,,No
 3/8/2024,Fri,17:45,20:00,lw3,Practice,15:45,20:00,SB Juniors 56th Street Market,,,No
 3/9/2024,Sat,9:00,18:00,lw3,Practice,9:00,10:30,Softball AAA 1,,,No
-3/9/2024,Sat,9:00,18:00,lw3,Practice,10:30,12:00,Baseball AAA 1,,,No
-3/9/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:30,Baseball AAA 5,,,No
+3/9/2024,Sat,9:00,18:00,lw3,Practice,10:30,12:00,BB AAA - Anderson,,,No
+3/9/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:30,BB AAA - Tufte,,,No
 3/9/2024,Sat,9:00,18:00,lw3,Practice,13:30,15:30,BB Majors - El Camion (Sam Glassburn),,,No
 3/9/2024,Sat,9:00,18:00,lw3,Practice,15:30,17:30,BB Majors - Zoka Coffee (Zach Korte),,,No
 3/9/2024,Sat,9:00,18:00,lw4,Practice,9:00,10:30,Softball AAA 2,,,No
-3/9/2024,Sat,9:00,18:00,lw4,Practice,10:30,12:00,Baseball AAA 2,,,No
-3/9/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,Baseball AAA 6,,,No
+3/9/2024,Sat,9:00,18:00,lw4,Practice,10:30,12:00,BB AAA - Christofferson,,,No
+3/9/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,BB AAA - Vasilopoulos,,,No
 3/9/2024,Sat,9:00,18:00,lw4,Practice,13:30,15:30,BB Majors - Branom Inst (Matt Berger),,,No
 3/9/2024,Sat,9:00,18:00,lw4,Practice,15:30,17:30,BB Majors - Project 9 (Mike Bylsma),,,No
-3/9/2024,Sat,9:00,18:00,lw5,Practice,10:30,12:00,Baseball AAA 3,,,No
+3/9/2024,Sat,9:00,18:00,lw5,Practice,10:30,12:00,BB AAA - Donovan,,,No
 3/9/2024,Sat,9:00,18:00,lw5 ,Practice,12:00,14:00,Softball Majors 1,,,No
 3/9/2024,Sat,9:00,18:00,lw5,Practice,14:00,16:00,BB Majors - Lincoln (Michael Kilbourne),,,No
-3/9/2024,Sat,9:00,18:00,lw6,Practice,9:00,10:30,Baseball AAA 7,,,No
-3/9/2024,Sat,9:00,18:00,lw6,Practice,10:30,12:00,Baseball AAA 4,,,No
+3/9/2024,Sat,9:00,18:00,lw6,Practice,9:00,10:30,BB AAA - Zeller,,,No
+3/9/2024,Sat,9:00,18:00,lw6,Practice,10:30,12:00,BB AAA - Shikella,,,No
 3/9/2024,Sat,9:00,18:00,lw6,Practice,12:00,14:00,Softball Majors 2,,,No
 3/9/2024,Sat,9:00,18:00,lw6,Practice,14:00,16:00,Softball Majors 3,,,No
 3/9/2024,Sat,9:00,18:00,lw6,Practice,16:00,17:30,Softball AAA 3,,,No
@@ -78,10 +80,11 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/11/2024,Mon,17:45,21:00,lw6,Practice,17:45,19:15,Softball Majors 1,,,No
 3/11/2024,Mon,17:45,21:00,lw6,Practice,19:15,20:45,Softball Majors 2,,,No
 3/11/2024,Mon,17:45,21:00,lw5,Practice,17:45,19:15,Softball Majors 3,,,No
-3/11/2024,Mon,17:45,21:00,lw4,Practice,17:45,19:15,Baseball AAA 1,Baseball AAA 2,,No
-3/11/2024,Mon,17:45,21:00,lw4,Practice,19:15,20:45,Baseball AAA 3,Baseball AAA 4,,No
-3/11/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:15,Baseball AAA 5,,,No
-3/11/2024,Mon,17:45,21:00,lw3,Practice,19:15,20:45,Baseball AAA 6,Baseball AAA 7,,No
+3/11/2024,Mon,17:45,21:00,lw5,Practice,19:15,20:45,BB AAA - Christofferson,,,
+3/11/2024,Mon,17:45,21:00,lw4,Practice,17:45,19:15,BB AAA - Anderson,,,No
+3/11/2024,Mon,17:45,21:00,lw4,Practice,19:15,20:45,BB AAA - Shikella,,,No
+3/11/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:15,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
+3/11/2024,Mon,17:45,21:00,lw3,Practice,19:15,20:45,BB AAA - Donovan,BB AAA - Zeller,,No
 3/11/2024,Mon,17:00,19:00,ross,,,,,,,No
 3/11/2024,Mon,17:00,19:00,university,,,,,,,No
 3/12/2024,Tue,17:00,19:00,bfday,Practice,17:00,18:00,Softball A 1,,,No
@@ -101,10 +104,11 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/13/2024,Wed,17:45,21:00,lw6,Practice,17:45,19:15,Softball Majors 1,,,No
 3/13/2024,Wed,17:45,21:00,lw6,Practice,19:15,20:45,Softball Majors 2,,,No
 3/13/2024,Wed,17:45,21:00,lw5,Practice,17:45,19:15,Softball Majors 3,,,No
-3/13/2024,Wed,17:45,21:00,lw4,Practice,17:45,19:15,Baseball AAA 1,Baseball AAA 2,,No
-3/13/2024,Wed,17:45,21:00,lw4,Practice,19:15,20:45,Baseball AAA 3,Baseball AAA 4,,No
-3/13/2024,Wed,17:45,21:00,lw3,Practice,17:45,19:15,Baseball AAA 5,,,No
-3/13/2024,Wed,17:45,21:00,lw3,Practice,19:15,20:45,Baseball AAA 6,Baseball AAA 7,,No
+3/13/2024,Wed,17:45,21:00,lw5,Practice,19:15,20:45,BB AAA - Tufte,,,
+3/13/2024,Wed,17:45,21:00,lw4,Practice,17:45,19:15,BB AAA - Zeller,,,No
+3/13/2024,Wed,17:45,21:00,lw4,Practice,19:15,20:45,BB AAA - Vasilopoulos,,,No
+3/13/2024,Wed,17:45,21:00,lw3,Practice,17:45,19:15,BB AAA - Donovan,BB AAA - Shikella,,No
+3/13/2024,Wed,17:45,21:00,lw3,Practice,19:15,20:45,BB AAA - Christofferson,BB AAA - Anderson,,No
 3/13/2024,Wed,17:00,19:30,ross,Practice,17:00,18:15,Softball AA 2,,,No
 3/13/2024,Wed,17:00,19:30,ross,Practice,18:15,19:30,Softball AA 3,,,No
 3/14/2024,Thu,17:00,19:00,bfday,,,,,,,No
@@ -134,8 +138,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/16/2024,Sat,9:00,18:00,lw3,Practice,9:00,10:30,Softball Majors 1,,,No
 3/16/2024,Sat,9:00,18:00,lw3,Practice,10:30,12:00,Softball AAA 2,,,
 3/16/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:30,Softball AAA 1,,,No
-3/16/2024,Sat,9:00,18:00,lw3,Practice,14:00,15:30,Baseball AAA 1,Baseball AAA 2,,No
-3/16/2024,Sat,9:00,18:00,lw3,Practice,15:30,17:00,Baseball AAA 3,Baseball AAA 4,,No
+3/16/2024,Sat,9:00,18:00,lw3,Practice,14:00,15:30,BB AAA - Anderson,BB AAA - Christofferson,,No
+3/16/2024,Sat,9:00,18:00,lw3,Practice,15:30,17:00,BB AAA - Donovan,BB AAA - Shikella,,No
 3/16/2024,Sat,9:00,18:00,lw4,Practice,9:00,10:30,Softball Majors 2,,,No
 3/16/2024,Sat,9:00,18:00,lw4,Practice,10:30,12:00,Softball Majors 3,,,
 3/16/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,Softball AAA 3,,,No
@@ -143,8 +147,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/16/2024,Sat,9:00,18:00,lw4,Practice,16:00,18:00,BB Majors - Zoka Coffee (Zach Korte),,,No
 3/16/2024,Sat,9:00,18:00,lw5,Practice,9:00,11:00,AA Baseball Academy (4 teams),,,No
 3/16/2024,Sat,9:00,18:00,lw5,Practice,11:00,13:00,AA Baseball Academy (3 teams),,,No
-3/16/2024,Sat,9:00,18:00,lw5 ,Practice,13:00,14:30,Baseball AAA 5,,,No
-3/16/2024,Sat,9:00,18:00,lw5 ,Practice,14:30,16:00,Baseball AAA 6,Baseball AAA 7,,No
+3/16/2024,Sat,9:00,18:00,lw5 ,Practice,13:00,14:30,BB AAA - Tufte,,,No
+3/16/2024,Sat,9:00,18:00,lw5 ,Practice,14:30,16:00,BB AAA - Vasilopoulos,BB AAA - Zeller,,No
 3/16/2024,Sat,9:00,18:00,lw5,Practice,16:00,18:00,BB Majors - Branom Inst (Matt Berger),,,No
 3/16/2024,Sat,9:00,18:00,lw6,Practice,9:00,11:00,AA Baseball Academy (4 teams),,,No
 3/16/2024,Sat,9:00,18:00,lw6,Practice,11:00,13:00,AA Baseball Academy (4 teams),,,No
@@ -155,13 +159,14 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/17/2024,Sun,10:00,12:00,lw3,Other,10:00,12:00,Ump Training,,,No
 3/17/2024,Sun,16:00,19:00,lw3,Game,16:00,19:00,Softball Juniors Game,,,No
 3/18/2024,Mon,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
-3/18/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:15,Baseball AAA 1,Baseball AAA 2,,No
-3/18/2024,Mon,17:45,21:00,lw3,Practice,19:15,20:45,Baseball AAA 3,Baseball AAA 4,,No
+3/18/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:15,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
+3/18/2024,Mon,17:45,21:00,lw3,Practice,19:15,20:45,BB AAA - Christofferson,BB AAA - Zeller,,No
 3/18/2024,Mon,18:00,21:00,lw5,Practice,18:00,19:30,Softball Majors 1,,,No
+3/18/2024,Mon,18:00,21:00,lw5,Practice,19:30,21:00,BB AAA - Shikella,,,
 3/18/2024,Mon,18:00,21:00,lw6,Practice,18:00,19:30,Softball Majors 2,,,No
 3/18/2024,Mon,18:00,21:00,lw6,Practice,19:30,21:00,Softball Majors 3,,,
-3/18/2024,Mon,17:45,21:00,lw4,Practice,17:45,19:15,Baseball AAA 5,,,No
-3/18/2024,Mon,17:45,21:00,lw4,Practice,19:15,20:45,Baseball AAA 6,Baseball AAA 7,,No
+3/18/2024,Mon,17:45,21:00,lw4,Practice,17:45,19:15,BB AAA - Anderson,,,No
+3/18/2024,Mon,17:45,21:00,lw4,Practice,19:15,20:45,BB AAA - Donovan,,,No
 3/18/2024,Mon,17:00,19:00,ross,Practice,17:00,19:00,Baseball A Practice,,,No
 3/18/2024,Mon,17:00,19:00,university,Practice,17:00,19:00,Baseball A Practice,,,No
 3/19/2024,Tue,17:00,19:00,bfday,Practice,17:00,18:00,Softball A 1,Softball A 2,,No
@@ -178,13 +183,14 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/19/2024,Tue,17:00,19:00,university,,,,,,,No
 3/20/2024,Wed,17:00,19:00,bfday,Practice,17:00,18:15,Softball AA 3,,,No
 3/20/2024,Wed,17:00,19:00,bfday,Practice,17:45,19:00,Softball AA 4,,,No
-3/20/2024,Wed,17:45,21:00,lw3,Practice,17:45,19:15,Baseball AAA 1,Baseball AAA 2,,No
-3/20/2024,Wed,17:45,21:00,lw3,Practice,19:15,20:45,Baseball AAA 3,Baseball AAA 4,,No
+3/20/2024,Wed,17:45,21:00,lw3,Practice,17:45,19:15,BB AAA - Donovan,BB AAA - Zeller,,No
+3/20/2024,Wed,17:45,21:00,lw3,Practice,19:15,20:45,BB AAA - Anderson,BB AAA - Tufte,,No
 3/20/2024,Wed,17:45,21:00,lw6,Practice,17:45,19:15,Softball Majors 1,,,No
 3/20/2024,Wed,17:45,21:00,lw6,Practice,19:15,20:45,Softball Majors 2,,,
 3/20/2024,Wed,18:00,21:00,lw5,Practice,18:00,19:30,Softball Majors 3,,,No
-3/20/2024,Wed,18:00,21:00,lw4,Practice,18:00,19:15,Baseball AAA 5,,,No
-3/20/2024,Wed,18:00,21:00,lw4,Practice,19:15,20:30,Baseball AAA 6,Baseball AAA 7,,No
+3/20/2024,Wed,18:00,21:00,lw5,Practice,19:30,21:00,BB AAA - Vasilopoulos,,,
+3/20/2024,Wed,18:00,21:00,lw4,Practice,18:00,19:30,BB AAA - Shikella,,,No
+3/20/2024,Wed,18:00,21:00,lw4,Practice,19:30,21:00,BB AAA - Christofferson,,,No
 3/20/2024,Wed,17:00,19:30,ross,Practice,17:00,18:15,Softball AA 1,,,No
 3/20/2024,Wed,17:00,19:30,ross,Practice,17:45,19:00,Softball AA 2,,,No
 3/20/2024,Wed,17:00,19:00,university,,,,,,,No
