@@ -297,7 +297,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/30/2024,Sat,9:00,18:00,lw6,Game,10:30,12:00,Baseball AA game,,,No
 3/30/2024,Sat,9:00,18:00,lw6,Game,12:00,14:30,BB Majors - Branom Inst (Matt Berger),BB Majors - El Camion (Sam Glassburn),,No
 3/30/2024,Sat,9:00,18:00,lw6,Game,14:30,17:00,BB Majors - Project 9 (Mike Bylsma),BB Majors - Lincoln (Michael Kilbourne),,No
-3/30/2024,Sat,10:00,15:00,bitter lake 1,Game,10:00,12:15,BB AAA - Tufte,RUG1,,No
+3/30/2024,Sat,10:00,15:00,,,,,,,,No
+3/30/2024,Sat,,,ravenna,Game,16:00,18:30,BB AAA - Tufte,RUG1,,
 3/30/2024,Sat,9:00,17:00,ross,Game,9:00,10:30,Baseball A Game,,,No
 3/30/2024,Sat,9:00,17:00,ross,Game,10:30,12:00,Baseball A Game,,,No
 3/30/2024,Sat,9:00,17:00,ross,Game,12:00,13:30,Baseball A Game,,,No
