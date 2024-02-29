@@ -346,7 +346,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/5/2024,Fri,17:00,19:00,bfday,Practice,17:00,19:00,Baseball AA Practice,,,No
 4/5/2024,Fri,17:45,20:00,lw3,Practice,17:45,20:00,Baseball AA Practice,,,No
 4/5/2024,Fri,17:45,20:00,lw4,Practice,17:45,20:00,Baseball AA Practice,,,No
-4/5/2024,Fri,17:45,20:30,lw5,Game,17:45,20:15,SB Juniors 56th Street Market,RUG,,No
+4/5/2024,Fri,17:45,20:30,lw5,Game,18:00,20:30,SB Juniors 56th Street Market,RUG,,No
 4/5/2024,Fri,17:00,19:00,ross,Practice,17:00,19:00,Baseball AA Practice,,,No
 4/6/2024,Sat,8:30,17:30,bfday,Practice,10:00,14:00,Baseball A / AA Practice,,,No
 4/6/2024,Sat,9:00,18:00,lw3,Game,9:30,12:00,BB Majors - Project 9 (Mike Bylsma),RUG2,,
@@ -436,10 +436,10 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/18/2024,Thu,18:00,21:00,lw6,Practice,19:30,21:00,SB AAA Valley Events,,,No
 4/18/2024,Thu,17:00,19:00,ross,Practice,17:00,19:00,Baseball A Practice,,,No
 4/18/2024,Thu,17:00,19:00,university,Practice,17:00,19:00,Baseball A Practice,,,No
-4/19/2024,Fri,17:45,20:00,lw3,Practice,17:45,20:00,Baseball AA Practice,,,No
+4/19/2024,Fri,17:45,20:00,lw3,Game,18:00,20:00,SB Juniors 56th Street Market,BLL,,No
 4/19/2024,Fri,17:45,20:00,lw4,Practice,17:45,20:00,Baseball AA Practice,,,No
 4/19/2024,Fri,17:45,20:00,lw5,Practice,17:45,20:00,Baseball AA Practice,,,No
-4/19/2024,Fri,17:00,19:30,lw6,Game,17:00,19:30,SB Juniors 56th Street Market,BLL,,No
+4/19/2024,Fri,17:00,19:30,lw6,Practice,17:00,19:30,Baseball AA Practice,,,No
 4/19/2024,Fri,17:00,19:00,bfday,Practice,17:00,19:00,Baseball AA Practice,,,No
 4/19/2024,Fri,17:00,19:00,ross,Practice,17:00,19:00,Baseball AA Practice,,,No
 4/20/2024,Sat,8:30,17:30,bfday,Game,9:00,10:45,Softball A Game,,,No
@@ -696,7 +696,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/17/2024,Fri,17:45,21:00,lw3,other,17:45,21:00,All-stars tryouts,,,No
 5/17/2024,Fri,17:45,21:00,lw4,Game,17:45,19:15,Baseball AA game,,,No
 5/17/2024,Fri,17:45,21:00,lw5,Game,17:45,19:15,Baseball AA Game,,,No
-5/17/2024,Fri,17:15,21:00,lw6,Game,17:45,20:15,SB Juniors 56th Street Market,WLL,,No
+5/17/2024,Fri,17:15,21:00,lw6,Game,18:00,20:30,SB Juniors 56th Street Market,WLL,,No
 5/17/2024,Fri,17:00,19:00,bfday,Game,17:30,19:00,Baseball AA Game,,,No
 5/17/2024,Fri,17:00,19:00,ross,Game,17:00,18:30,Baseball A Game,,,No
 5/17/2024,Fri,17:00,19:00,university,Game,17:00,18:30,Baseball AA game,,,No
