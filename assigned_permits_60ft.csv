@@ -88,7 +88,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/11/2024,Mon,17:00,19:00,ross,,,,,,,No
 3/11/2024,Mon,17:00,19:00,university,,,,,,,No
 3/12/2024,Tue,17:00,19:00,bfday,Practice,17:00,18:00,SB A Phinney Books,,,No
-3/12/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,No
+3/12/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Ridge Pizza,,,No
 3/12/2024,Tue,17:45,21:00,lw6,Practice,17:45,19:15,Softball AAA 1,Softball AAA 2,,No
 3/12/2024,Tue,17:45,21:00,lw6,Practice,19:15,20:45,Softball AAA 3,,,No
 3/12/2024,Tue,17:45,21:00,lw4,Practice,17:45,19:15,BB Majors - El Camion (Sam Glassburn),,,No
@@ -97,7 +97,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/12/2024,Tue,18:00,21:00,lw5,Practice,19:30,21:00,BB Majors - Branom Inst (Matt Berger),,,No
 3/12/2024,Tue,18:00,21:00,lw3,Practice,18:00,19:30,BB Majors - Project 9 (Mike Bylsma),,,No
 3/12/2024,Tue,18:00,21:00,lw3,Practice,19:30,21:00,BB Majors - Lincoln (Michael Kilbourne),,,No
-3/12/2024,Tue,17:30,19:00,ross,Practice,17:30,18:30,SB A Ridge Pizza,,,No
+3/12/2024,Tue,17:30,19:00,ross,Practice,17:30,18:30,SB A Green Lake Orthodontics,,,No
 3/12/2024,Tue,17:00,19:00,university,,,,,,,No
 3/13/2024,Wed,17:00,19:00,bfday,Practice,17:45,19:00,SB AA Harjo Construction,,,
 3/13/2024,Wed,17:45,21:00,lw6,Practice,17:45,19:15,Softball Majors 1,,,No
@@ -128,12 +128,12 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/15/2024,Fri,17:00,19:30,lw6,Practice,17:00,19:00,SB Juniors 56th Street Market,,,No
 3/15/2024,Fri,17:00,19:00,ross,,,,,,,No
 3/16/2024,Sat,8:30,17:30,bfday,Practice,9:00,11:00,Baseball A Practice,,,No
-3/16/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,SB A Phinney Books,,,No
-3/16/2024,Sat,8:30,17:30,bfday,Practice,12:00,13:00,SB A Green Lake Orthodontics,,,No
-3/16/2024,Sat,8:30,17:30,bfday,Practice,13:00,14:00,SB A Ridge Pizza,,,No
-3/16/2024,Sat,8:30,17:30,bfday,Practice,14:00,15:00,SB AA Harjo Construction,,,No
+3/16/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,SB A Green Lake Orthodontics,,,No
+3/16/2024,Sat,8:30,17:30,bfday,Practice,12:00,13:00,SB A Ridge Pizza,,,No
+3/16/2024,Sat,8:30,17:30,bfday,Practice,13:00,14:00,SB A Phinney Books,,,No
+3/16/2024,Sat,8:30,17:30,bfday,Practice,14:00,15:00,SB AA Harjo Construction,SB AA Puffin Pediatrics,,No
 3/16/2024,Sat,8:30,17:30,bfday,Practice,15:00,16:00,SB AA North Seattle Orthodontics,,,No
-3/16/2024,Sat,8:30,17:30,bfday,Practice,16:00,17:30,SB AA Puffin Pediatrics,SB AA Orca Analytics,,No
+3/16/2024,Sat,8:30,17:30,bfday,Practice,16:00,17:30,SB AA Orca Analytics,,,No
 3/16/2024,Sat,9:00,18:00,lw3,Practice,9:00,10:30,Softball Majors 1,,,No
 3/16/2024,Sat,9:00,18:00,lw3,Practice,10:30,12:00,Softball AAA 2,,,
 3/16/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:30,Softball AAA 1,,,No
@@ -211,9 +211,9 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/22/2024,Fri,17:00,20:00,lw6,Practice,17:30,19:30,SB Juniors 56th Street Market,,,No
 3/22/2024,Fri,17:00,19:00,ross,Practice,17:00,19:00,Baseball AA Practice,,,No
 3/23/2024,Sat,8:30,17:30,bfday,Practice,9:00,11:00,Baseball A Practice,,,No
-3/23/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,SB A Phinney Books,,,No
-3/23/2024,Sat,8:30,17:30,bfday,Practice,12:00,13:00,SB A Green Lake Orthodontics,,,
-3/23/2024,Sat,8:30,17:30,bfday,Practice,13:00,14:00,SB A Ridge Pizza,,,No
+3/23/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,SB A Green Lake Orthodontics,,,No
+3/23/2024,Sat,8:30,17:30,bfday,Practice,12:00,13:00,SB A Ridge Pizza,,,
+3/23/2024,Sat,8:30,17:30,bfday,Practice,13:00,14:00,SB A Phinney Books,,,No
 3/23/2024,Sat,8:30,17:30,bfday,Practice,14:00,15:00,SB AA Harjo Construction,,,
 3/23/2024,Sat,8:30,17:30,bfday,Practice,15:00,16:00,SB AA North Seattle Orthodontics,,,No
 3/23/2024,Sat,8:30,17:30,bfday,Practice,16:00,17:00,SB AA Puffin Pediatrics,,,
@@ -241,13 +241,13 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/25/2024,Mon,17:00,19:00,ross,Practice,17:00,18:00,Baseball A Practice,,,No
 3/25/2024,Mon,17:00,19:00,university,Practice,17:00,19:00,BB AAA - Donovan,BB AAA - Tufte,,No
 3/26/2024,Tue,17:00,19:00,bfday,Practice,17:00,18:00,SB A Phinney Books,,,No
-3/26/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,
+3/26/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Ridge Pizza,,,
 3/26/2024,Tue,17:45,21:00,lw6,Game,17:45,20:15,SB AAA Greenlake Kids Dentistry,SB AAA Valley Events,,No
 3/26/2024,Tue,17:45,20:15,lw4,Game,17:45,20:15,BB Majors - El Camion (Sam Glassburn),BB Majors - Project 9 (Mike Bylsma),,No
 3/26/2024,Tue,18:00,20:30,lw5,Practice,18:00,20:30,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Branom Inst (Matt Berger),,No
 3/26/2024,Tue,18:00,21:00,lw3,Game,18:00,20:30,SB AAA Dantini Pizza,RUG3,,No
 3/26/2024,Tue,17:45,20:15,bitter lake 1,Practice,17:45,19:15,SB Juniors Practice,,,No
-3/26/2024,Tue,17:00,19:00,ross,Practice,17:15,18:15,SB A Ridge Pizza,,,No
+3/26/2024,Tue,17:00,19:00,ross,Practice,17:30,18:30,SB A Green Lake Orthodontics,,,No
 3/26/2024,Tue,17:00,19:00,university,,,,,,,No
 3/27/2024,Wed,17:00,19:00,bfday,Practice,17:00,18:15,SB AA Puffin Pediatrics,,,No
 3/27/2024,Wed,17:00,19:00,bfday,Practice,17:45,19:00,SB AA Harjo Construction,,,
@@ -279,9 +279,9 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/29/2024,Fri,17:00,19:30,lw6,Practice,17:00,19:30,Baseball AA Practice,,,No
 3/29/2024,Fri,17:00,19:00,bfday,Practice,17:00,19:00,Baseball AA Practice,,,No
 3/29/2024,Fri,17:00,19:00,ross,Practice,17:00,19:00,Baseball AA Practice,,,No
-3/30/2024,Sat,8:30,17:30,bfday,Practice,9:00,10:00,SB A Phinney Books,,,No
-3/30/2024,Sat,8:30,17:30,bfday,Practice,10:00,11:00,SB A Green Lake Orthodontics,,,No
-3/30/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,SB A Ridge Pizza,,,
+3/30/2024,Sat,8:30,17:30,bfday,Practice,9:00,10:00,SB A Green Lake Orthodontics,,,No
+3/30/2024,Sat,8:30,17:30,bfday,Practice,10:00,11:00,SB A Ridge Pizza,,,No
+3/30/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,SB A Phinney Books,,,
 3/30/2024,Sat,8:30,17:30,bfday,Game,12:30,14:45,SB AA Puffin Pediatrics,SB AA Harjo Construction,,No
 3/30/2024,Sat,8:30,17:30,bfday,Game,14:45,17:00,SB AA Orca Analytics,SB AA North Seattle Orthodontics,,No
 3/30/2024,Sat,9:00,18:00,lw3,Game,9:00,11:30,SB Majors Tutta Bella,QA1,,No
@@ -316,13 +316,13 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/1/2024,Mon,17:00,19:00,ross,Practice,17:00,19:00,Baseball A Practice,,,No
 4/1/2024,Mon,17:00,19:00,university,Practice,17:00,19:00,Baseball A Practice,,,No
 4/2/2024,Tue,17:00,19:00,bfday,Practice,17:00,18:00,SB A Phinney Books,,,No
-4/2/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,
+4/2/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Ridge Pizza,,,
 4/2/2024,Tue,17:45,21:00,lw3,Game,17:45,20:15,SB AAA Valley Events,RUG3,,No
 4/2/2024,Tue,17:45,21:00,lw4,Game,17:45,20:15,BB Majors - Branom Inst (Matt Berger),RUG1,,No
 4/2/2024,Tue,17:45,21:00,lw5,Game,17:45,20:15,BB Majors - Lincoln (Michael Kilbourne),BB Majors - El Camion (Sam Glassburn),,No
 4/2/2024,Tue,17:45,21:00,lw6,Game,17:45,20:15,SB AAA Greenlake Kids Dentistry,SL1,,No
 4/2/2024,Tue,17:30,19:00,bitter lake 1,Practice,17:30,19:00,SB Juniors 56th Street Market,,,No
-4/2/2024,Tue,17:00,19:45,ross,Practice,17:45,18:45,SB A Ridge Pizza,,,No
+4/2/2024,Tue,17:00,19:45,ross,Practice,17:30,18:30,SB A Green Lake Orthodontics,,,No
 4/2/2024,Tue,17:45,19:45,northacres 1,Practice,17:45,19:45,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Project 9 (Mike Bylsma),,No
 4/3/2024,Wed,17:00,19:00,bfday,Game,17:00,19:00,SB AA North Seattle Orthodontics,SB AA Puffin Pediatrics,,No
 4/3/2024,Wed,18:00,21:00,lw3,Game,18:00,20:15,BB AAA - Christofferson,BB AAA - Tufte,,No
