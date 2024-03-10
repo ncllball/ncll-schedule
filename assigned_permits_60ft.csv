@@ -255,7 +255,6 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/27/2024,Wed,17:45,20:00,lw4,Practice,17:45,19:15,BB AAA - Anderson,,,No
 3/27/2024,Wed,17:45,20:00,lw4,Practice,18:30,20:00,BB AAA - Christofferson,,,No
 3/27/2024,Wed,17:45,20:15,lw5,Practice,17:45,19:15,SB Majors Anytime Fitness,,,No
-3/27/2024,Wed,17:45,20:15,lw5,Practice,18:45,20:15,BB AAA - Shikella,,,No
 3/27/2024,Wed,18:00,21:00,lw6,Practice,18:00,19:30,SB Majors Cube Smart,,,No
 3/27/2024,Wed,18:00,21:00,lw6,Practice,19:30,21:00,SB Majors Tutta Bella,,,No
 3/27/2024,Wed,17:00,19:30,ross,Practice,17:00,18:15,BB AAA - Vasilopoulos,,,No
@@ -583,7 +582,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/4/2024,Sat,8:30,17:30,bfday,Game,9:00,10:45,Softball A Game,,,No
 5/4/2024,Sat,8:30,17:30,bfday,Game,10:45,12:30,Softball A Game,,,No
 5/4/2024,Sat,8:30,17:30,bfday,Game,13:00,15:00,SB AA Puffin Pediatrics,RUG2,,No
-5/4/2024,Sat,8:30,17:30,bfday,Practice,15:00,16:15,Softball AA 2,,,No
+5/4/2024,Sat,8:30,17:30,bfday,Game,15:30,17:30,SB AA Harjo Construction,BLL1,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,9:30,12:00,SB AAA Valley Events,SB AAA Dantini Pizza,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,14:00,15:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,16:00,18:00,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
@@ -651,6 +650,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/11/2024,Sat,9:00,18:00,lw3,Game,11:45,13:45,SB AAA Valley Events,BLL,,No
 5/11/2024,Sat,9:00,18:00,lw3,Game,14:00,15:30,Baseball AA Game,,,No
 5/11/2024,Sat,9:00,18:00,lw3,Game,16:00,18:00,BB AAA - Tufte,BB AAA - Shikella,,No
+5/11/2024,Sat,9:00,18:00,lw4,Game,9:00,11:00,SB AA North Seattle Orthodontics,NE2,,
 5/11/2024,Sat,9:00,18:00,lw4,Game,11:30,14:00,SB Majors Tutta Bella,BAL2,,No
 5/11/2024,Sat,9:00,18:00,lw4,Game,14:30,17:00,SB AAA Dantini Pizza,QA2,,No
 5/11/2024,Sat,9:00,18:00,lw5,Game,9:00,10:30,Baseball AA game,,,No
