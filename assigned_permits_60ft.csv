@@ -223,7 +223,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/23/2024,Sat,9:00,18:00,lw4,Game,11:30,14:00,SB Majors Anytime Fitness,BAL2,,No
 3/23/2024,Sat,9:00,18:00,lw4,Game,14:30,17:00,BB Majors - Project 9 (Mike Bylsma),BB Majors - Branom Inst (Matt Berger),,No
 3/23/2024,Sat,9:00,18:00,lw5,Practice,9:00,12:45,Baseball AA Practice,,,No
-3/23/2024,Sat,9:00,18:00,lw5 ,Game,13:15,15:30,BB Majors - Lincoln (Michael Kilbourne),BB Majors - Zoka Coffee (Zach Korte),,No
+3/23/2024,Sat,9:00,18:00,lw5 ,,,,,,,No
 3/23/2024,Sat,9:00,18:00,lw5,Game,16:00,18:00,BB AAA - Donovan,BB AAA - Anderson,,No
 3/23/2024,Sat,9:00,18:00,lw6,Practice,9:00,10:15,Baseball AA Practice,,,No
 3/23/2024,Sat,9:00,18:00,lw6,Game,10:45,13:00,BB AAA - Shikella,BB AAA - Tufte,,No
@@ -419,10 +419,9 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/16/2024,Tue,17:00,20:30,bitter lake 1,Practice,18:00,19:30,SB Juniors 56th Street Market,,,No
 4/16/2024,Tue,17:45,21:00,lw3,Game,18:15,20:45,SB AAA Greenlake Kids Dentistry,RUG3,,No
 4/16/2024,Tue,17:45,21:00,lw4,Game,18:15,20:45,BB Majors - Project 9 (Mike Bylsma),SLL4,,No
-4/16/2024,Tue,18:00,21:00,lw5,Practice,18:00,19:30,BB Majors - Zoka Coffee (Zach Korte),,,No
-4/16/2024,Tue,18:00,21:00,lw5,Practice,19:30,21:00,BB Majors - Branom Inst (Matt Berger),,,
+4/16/2024,Tue,18:00,21:00,lw5,Game,18:30,21:00,BB Majors - Lincoln (Michael Kilbourne),BB Majors - Zoka Coffee (Zach Korte),,No
 4/16/2024,Tue,18:00,21:00,lw6,Practice,18:00,19:30,BB Majors - El Camion (Sam Glassburn),,,No
-4/16/2024,Tue,18:00,21:00,lw6,Practice,19:30,21:00,BB Majors - Lincoln (Michael Kilbourne),,,
+4/16/2024,Tue,18:00,21:00,lw6,Practice,19:30,21:00,BB Majors - Branom Inst (Matt Berger),,,
 4/16/2024,Tue,17:00,19:00,ross,Game,17:15,19:00,SB A Green Lake Orthodontics,SB A Phinney Books,,No
 4/17/2024,Wed,17:00,19:30,bfday,Game,17:30,19:30,SB AA North Seattle Orthodontics,SB AA Harjo Construction,,No
 4/17/2024,Wed,18:00,21:00,bitter lake 1,Practice,18:00,19:30,BB AAA - Tufte,,,No
