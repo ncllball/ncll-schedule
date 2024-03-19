@@ -220,6 +220,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/23/2024,Sat,9:00,18:00,lw3,Practice,9:00,11:00,Baseball A Practice,,,No
 3/23/2024,Sat,9:00,18:00,lw3,Game,11:30,14:00,SB AAA Greenlake Kids Dentistry,SL4,,No
 3/23/2024,Sat,9:00,18:00,lw3,Game,14:30,16:45,BB AAA - Christofferson,BB AAA - Vasilopoulos,,No
+3/23/2024,Sat,9:00,18:00,lw4,Practice,9:00,11:00,BB Majors Zoka Coffee,,,
 3/23/2024,Sat,9:00,18:00,lw4,Game,11:30,14:00,SB Majors Anytime Fitness,BAL2,,No
 3/23/2024,Sat,9:00,18:00,lw4,Game,14:30,17:00,BB Majors - Project 9 (Mike Bylsma),BB Majors - Branom Inst (Matt Berger),,No
 3/23/2024,Sat,9:00,18:00,lw5,Practice,9:00,12:45,Baseball AA Practice,,,No
@@ -488,7 +489,6 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/24/2024,Wed,17:45,20:15,lw4,Practice,17:45,19:15,BB AAA - Anderson,,,No
 4/24/2024,Wed,17:45,20:15,lw4,Practice,18:45,20:15,SB Majors Anytime Fitness,,,
 4/24/2024,Wed,18:00,20:30,lw5,Practice,18:00,19:30,SB Majors Cube Smart,,,No
-4/24/2024,Wed,18:00,20:30,lw5,Practice,19:00,20:30,SB Majors Tutta Bella,,,
 4/24/2024,Wed,18:00,20:00,bitter lake 1,Practice,18:00,19:15,SB AA Puffin Pediatrics,,,No
 4/24/2024,Wed,18:00,20:00,bitter lake 1,Practice,18:45,20:00,SB AA Harjo Construction,,,
 4/24/2024,Wed,17:00,19:00,bfday,Practice,17:00,18:15,SB AA Orca Analytics,,,No
@@ -590,6 +590,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/4/2024,Sat,9:00,18:00,lw3,Game,14:00,15:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,16:00,18:00,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
 5/4/2024,Sat,9:00,18:00,lw4,Game,9:30,12:00,BB Majors - Zoka Coffee (Zach Korte),RUG3,,No
+5/4/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,SB Majors Tutta Bella,,,
 5/4/2024,Sat,9:00,18:00,lw4,Game,14:00,16:30,SB AAA Greenlake Kids Dentistry,RUG2,,No
 5/4/2024,Sat,9:00,18:00,lw5,Game,9:00,10:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw5,Practice,10:30,12:00,Baseball AA Practice,,,No
