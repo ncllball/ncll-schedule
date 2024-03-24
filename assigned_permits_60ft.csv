@@ -221,7 +221,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/23/2024,Sat,9:00,18:00,lw3,Game,11:30,14:00,SB AAA Greenlake Kids Dentistry,SL4,,No
 3/23/2024,Sat,9:00,18:00,lw3,Game,14:30,16:45,BB AAA - Christofferson,BB AAA - Vasilopoulos,,No
 3/23/2024,Sat,9:00,18:00,lw4,Practice,9:00,11:00,BB Majors Zoka Coffee,,,
-3/23/2024,Sat,9:00,18:00,lw4,Game,11:30,14:00,SB Majors Anytime Fitness,BAL2,,No
+3/23/2024,Sat,9:00,18:00,lw4,,,,,,,No
 3/23/2024,Sat,9:00,18:00,lw4,Game,14:30,17:00,BB Majors - Project 9 (Mike Bylsma),BB Majors - Branom Inst (Matt Berger),,No
 3/23/2024,Sat,9:00,18:00,lw5,Practice,9:00,12:45,Baseball AA Practice,,,No
 3/23/2024,Sat,9:00,18:00,lw5 ,,,,,,,No
@@ -255,7 +255,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/27/2024,Wed,18:00,21:00,lw3,Game,18:30,21:00,BB AAA - Tufte,BB AAA - Donovan,,No
 3/27/2024,Wed,17:45,20:00,lw4,Practice,17:45,19:15,BB AAA - Anderson,,,No
 3/27/2024,Wed,17:45,20:00,lw4,Practice,18:30,20:00,BB AAA - Christofferson,,,No
-3/27/2024,Wed,17:45,20:15,lw5,Practice,17:45,19:15,SB Majors Anytime Fitness,,,No
+3/27/2024,Wed,17:45,20:15,lw5,Game,18:15,20:15,SB Majors Anytime Fitness,BAL2,,No
 3/27/2024,Wed,18:00,21:00,lw6,Practice,18:00,19:30,SB Majors Cube Smart,,,No
 3/27/2024,Wed,18:00,21:00,lw6,Practice,19:30,21:00,SB Majors Tutta Bella,,,No
 3/27/2024,Wed,17:00,19:30,ross,Practice,17:00,18:15,BB AAA - Vasilopoulos,,,No
@@ -327,7 +327,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/2/2024,Tue,17:30,19:00,bitter lake 1,Practice,17:30,19:00,SB Juniors 56th Street Market,,,No
 4/2/2024,Tue,17:00,19:45,ross,Practice,17:30,18:30,SB A Green Lake Orthodontics,,,No
 4/2/2024,Tue,17:45,19:45,northacres 1,Practice,17:45,19:45,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Project 9 (Mike Bylsma),,No
-4/3/2024,Wed,17:00,19:00,bfday,,,,,,,No
+4/3/2024,Wed,17:00,19:00,bfday,Game,17:00,19:00,SB AA North Seattle Orthodontics,TBD,,No
 4/3/2024,Wed,18:00,21:00,lw3,Game,18:30,20:45,BB AAA - Christofferson,BB AAA - Tufte,,No
 4/3/2024,Wed,17:45,21:00,lw4,Game,18:15,20:30,BB AAA - Zeller,BB AAA - Shikella,,No
 4/3/2024,Wed,17:45,21:00,lw5,Practice,17:45,19:15,BB AAA - Anderson,,,No
