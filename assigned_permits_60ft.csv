@@ -327,14 +327,14 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/2/2024,Tue,17:30,19:00,bitter lake 1,Practice,17:30,19:00,SB Juniors 56th Street Market,,,No
 4/2/2024,Tue,17:00,19:45,ross,Practice,17:30,18:30,SB A Green Lake Orthodontics,,,No
 4/2/2024,Tue,17:45,19:45,northacres 1,Practice,17:45,19:45,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Project 9 (Mike Bylsma),,No
-4/3/2024,Wed,17:00,19:00,bfday,Game,17:00,19:00,SB AA North Seattle Orthodontics,TBD,,No
+4/3/2024,Wed,17:00,19:00,bfday,Practice,17:00,19:00,SB AA Puffin Pediatrics,SB AA Orca Analytics,,No
 4/3/2024,Wed,18:00,21:00,lw3,Game,18:30,20:45,BB AAA - Christofferson,BB AAA - Tufte,,No
 4/3/2024,Wed,17:45,21:00,lw4,Game,18:15,20:30,BB AAA - Zeller,BB AAA - Shikella,,No
 4/3/2024,Wed,17:45,21:00,lw5,Practice,17:45,19:15,BB AAA - Anderson,,,No
 4/3/2024,Wed,17:45,21:00,lw5,Practice,19:15,20:45,SB Majors Tutta Bella,,,
 4/3/2024,Wed,17:45,21:00,lw6,Practice,17:45,19:15,BB AAA - Donovan,,,No
 4/3/2024,Wed,17:45,21:00,lw6,Practice,19:15,20:45,BB AAA - Vasilopoulos,,,
-4/3/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,SB AA Harjo Construction,SB AA Orca Analytics,,No
+4/3/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,SB AA North Seattle Orthodontics,SB AA Harjo Construction,,No
 4/3/2024,Wed,18:00,20:30,bitter lake 1,Practice,18:00,19:30,SB Majors Anytime Fitness,,,No
 4/3/2024,Wed,18:00,20:30,bitter lake 1,Practice,19:00,20:30,SB Majors Cube Smart,,,
 4/4/2024,Thu,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
@@ -365,6 +365,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/6/2024,Sat,9:00,18:00,lw5,Game,15:15,17:30,BB AAA - Tufte,BB AAA - Anderson,,No
 4/6/2024,Sat,9:00,18:00,lw6,Game,12:15,14:30,BB AAA - Zeller,BB AAA - Donovan,,No
 4/6/2024,Sat,9:00,18:00,lw6,Game,15:00,17:15,BB AAA - Christofferson,RUG5,,No
+4/7/2024,Sun,17:00,21:00,ingraham,,,,,,,
 4/8/2024,Mon,17:00,19:00,bfday,,,,,,,No
 4/8/2024,Mon,17:45,21:00,lw3,,,,,,,No
 4/8/2024,Mon,17:45,21:00,lw4,,,,,,,No
@@ -375,7 +376,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/9/2024,Tue,17:45,21:00,lw4,Game,18:15,20:45,BB Majors - Branom Inst (Matt Berger),BB Majors - Project 9 (Mike Bylsma),,No
 4/9/2024,Tue,17:45,21:00,lw5,,,,,,,No
 4/9/2024,Tue,17:45,21:00,lw6,,,,,,,No
-4/9/2024,Tue,17:00,19:00,ross,,,,,,,No
+4/9/2024,Tue,17:00,19:00,ross,Practice,18:00,19:00,SB A Ridge Pizza,,,No
 4/10/2024,Wed,17:00,19:00,bfday,,,,,,,No
 4/10/2024,Wed,17:45,20:00,lw3,,,,,,,No
 4/10/2024,Wed,17:45,21:00,lw4,,,,,,,No
@@ -395,7 +396,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/13/2024,Sat,8:30,17:30,bfday,Practice,10:00,14:00,Baseball A / AA Practice,,,No
 4/13/2024,Sat,9:00,18:00,lw3,Game,9:30,12:00,BB Majors - Lincoln (Michael Kilbourne),RUG2,,
 4/13/2024,Sat,9:00,18:00,lw3,Practice,12:00,14:00,Baseball Majors Combined,,,No
-4/13/2024,Sat,9:00,18:00,lw3,Practice,14:00,16:00,Softball AA Combined,,,No
+4/13/2024,Sat,9:00,18:00,lw3,Game,14:30,16:30,SB AA Puffin Pediatrics,SB AA Orca Analytics,,No
 4/13/2024,Sat,9:00,18:00,lw4,Game,9:30,12:00,BB Majors - Project 9 (Mike Bylsma),BB Majors - El Camion (Sam Glassburn),,
 4/13/2024,Sat,9:00,18:00,lw4,Practice,12:00,14:00,Softball Majors and Juniors Combined,,,No
 4/13/2024,Sat,9:00,18:00,lw4,Practice,14:00,16:00,Softball AAA Combined,,,No
@@ -404,7 +405,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/13/2024,Sat,9:00,18:00,lw5,Game,15:15,17:30,BB AAA - Shikella,BB AAA - Donovan,,No
 4/13/2024,Sat,9:00,18:00,lw6,Game,12:15,14:30,BB AAA - Anderson,BB AAA - Christofferson,,No
 4/13/2024,Sat,9:00,18:00,lw6,Game,15:00,17:15,BB AAA - Vasilopoulos,NW2,,No
-4/13/2024,Sat,12:00,16:00,ross,,,,,,,No
+4/13/2024,Sat,12:00,16:00,ross,Practice,14:00,16:00,SB AA Harjo Construction,SB AA North Seattle Orthodontics,,No
 4/14/2024,Sun,15:00,18:00,lw3,Game,15:30,18:00,SB Juniors 56th Street Market,NE1,,
 4/15/2024,Mon,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
 4/15/2024,Mon,18:00,20:00,green lake 1,Practice,18:00,19:15,BB AAA - Vasilopoulos,,,No
@@ -424,14 +425,14 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/16/2024,Tue,18:00,21:00,lw6,Practice,18:00,19:30,BB Majors - El Camion (Sam Glassburn),,,No
 4/16/2024,Tue,18:00,21:00,lw6,Practice,19:30,21:00,BB Majors - Branom Inst (Matt Berger),,,
 4/16/2024,Tue,17:00,19:00,ross,Game,17:15,19:00,SB A Green Lake Orthodontics,SB A Phinney Books,,No
-4/17/2024,Wed,17:00,19:30,bfday,Game,17:30,19:30,SB AA North Seattle Orthodontics,SB AA Harjo Construction,,No
+4/17/2024,Wed,17:00,19:30,bfday,Game,17:30,19:30,SB AA Harjo Construction,SB AA Orca Analytics,,No
 4/17/2024,Wed,18:00,21:00,bitter lake 1,Practice,18:00,19:30,BB AAA - Tufte,,,No
 4/17/2024,Wed,18:00,21:00,bitter lake 1,Practice,19:30,21:00,BB AAA - Donovan,,,
 4/17/2024,Wed,17:45,20:30,lw3,Game,18:15,20:30,BB AAA - Anderson,MLL4,,No
 4/17/2024,Wed,18:00,19:30,lw6,Practice,18:00,19:30,BB AAA - Shikella,,,No
 4/17/2024,Wed,17:45,20:15,lw5,Game,18:15,20:15,SB Majors Tutta Bella,SL2,,No
 4/17/2024,Wed,18:00,20:15,lw4,Game,18:15,20:15,SB Majors Anytime Fitness,NE2,,No
-4/17/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,SB AA Puffin Pediatrics,SB AA Orca Analytics,,No
+4/17/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,SB AA North Seattle Orthodontics,SB AA Puffin Pediatrics,,No
 4/18/2024,Thu,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
 4/18/2024,Thu,18:00,20:15,lw3,Game,18:15,20:15,BB AAA - Christofferson,BB AAA - Tufte,,No
 4/18/2024,Thu,17:45,20:00,lw4,Practice,17:45,18:45,SB AAA Greenlake Kids Dentistry,,,No
@@ -470,6 +471,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/20/2024,Sat,9:00,17:00,ross,Game,15:00,16:30,Baseball A Game,,,No
 4/21/2024,Sun,14:30,20:00,eagle staff 60,Game,15:00,17:30,SB Juniors 56th Street Market,MLL,,No
 4/21/2024,Sun,9:00,17:00,ross,,,,,,,No
+4/21/2024,Sun,18:30,21:30,ingraham,,,,,,,
 4/22/2024,Mon,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
 4/22/2024,Mon,18:00,20:15,lw3,Game,18:15,20:15,BB AAA - Christofferson,BB AAA - Shikella,,No
 4/22/2024,Mon,17:45,21:00,lw4,Game,18:15,20:45,SB Majors Cube Smart,NE1,,No
@@ -579,7 +581,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/3/2024,Fri,17:45,21:00,lw4,Game,18:15,19:45,Baseball AA Game,,,No
 5/3/2024,Fri,17:45,21:00,lw5,Game,18:15,19:45,Baseball AA Game,,,No
 5/3/2024,Fri,17:00,19:30,bfday,Game,17:30,19:00,Baseball AA Game,,,No
-5/3/2024,Fri,17:00,19:00,ross,Game,17:00,19:00,SB AA North Seattle Orthodontics,SB AA Puffin Pediatrics,,No
+5/3/2024,Fri,17:00,19:00,ross,,,,,,,No
 5/3/2024,Fri,17:00,19:00,university,,,,,,,No
 5/4/2024,Sat,8:30,17:30,bfday,,,,,,,No
 5/4/2024,Sat,8:30,17:30,bfday,Game,10:45,12:30,SB A Ridge Pizza,NE 1,,No
@@ -607,6 +609,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/4/2024,Sat,9:00,17:00,ross,Game,15:00,16:30,Baseball A Game,,,No
 5/4/2024,Sat,8:30,17:30,university,,,,,,,No
 5/5/2024,Sun,15:00,20:00,lw6,,,,,,,No
+5/5/2024,Sun,14:30,18:00,ingraham,,,,,,,
 5/6/2024,Mon,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
 5/6/2024,Mon,18:00,21:00,lw4,Game,18:30,20:45,BB AAA - Anderson,BB AAA - Tufte,,No
 5/6/2024,Mon,17:00,20:00,bitter lake 1,Practice,17:00,18:30,BB AAA - Donovan,,,No
@@ -736,6 +739,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/18/2024,Sat,10:00,15:00,bitter lake 1,Game,12:30,14:00,Baseball AA Game,,,
 5/18/2024,Sat,10:00,15:00,bitter lake 1,Practice,14:00,15:00,Baseball A Practice,,,
 5/19/2024,Sun,9:00,17:00,ross,,,,,,,No
+5/19/2024,Sun,18:00,21:00,ingraham,,,,,,,
 5/19/2024,Sun,15:00,21:00,lw6,Game,15:30,18:00,SB Juniors 56th Street Market,RUG,,No
 5/19/2024,Sun,15:00,21:00,lw6,Game,18:30,21:00,SB Juniors 56th Street Market,RUG,,
 5/20/2024,Mon,17:00,19:00,bfday,Game,17:00,18:30,Baseball A Game,,,No
