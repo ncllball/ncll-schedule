@@ -354,12 +354,12 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/5/2024,Fri,17:45,20:30,lw5,Game,18:15,20:30,SB Juniors 56th Street Market,RUG,,No
 4/5/2024,Fri,17:00,19:00,ross,Practice,17:00,19:00,Baseball AA Practice,,,No
 4/6/2024,Sat,8:30,17:30,bfday,Practice,12:00,13:00,Baseball A / AA Practice,,,No
-4/6/2024,Sat,8:30,17:30,bfday,Practice,10:00,11:00,Baseball A / AA Practice,,,No
+4/6/2024,Sat,8:30,17:30,bfday,Practice,10:00,11:00,Baseball A Practice hosted by Clinch,,,No
 4/6/2024,Sat,8:30,17:30,bfday,Practice,11:00,12:00,BB A Team Cutter and Buck,,,
 4/6/2024,Sat,8:30,17:30,bfday,Practice,13:00,14:00,BB A Team 2,,,
 4/6/2024,Sat,9:00,18:00,lw3,Game,9:30,12:00,BB Majors - Project 9 (Mike Bylsma),RUG2,,
 4/6/2024,Sat,9:00,18:00,lw3,Practice,12:00,14:00,Baseball Majors Combined,,,No
-4/6/2024,Sat,9:00,18:00,lw3,Practice,14:00,16:00,Softball AA Combined,,,No
+4/6/2024,Sat,9:00,18:00,lw3,Practice,14:00,16:00,Softball AA / A Combined,,,No
 4/6/2024,Sat,9:00,18:00,lw4,Game,9:30,12:00,BB Majors - Branom Inst (Matt Berger),BB Majors - Lincoln (Michael Kilbourne),,
 4/6/2024,Sat,9:00,18:00,lw4,Practice,12:00,14:00,Softball Majors and Juniors Combined,,,No
 4/6/2024,Sat,9:00,18:00,lw4,Practice,14:00,16:00,Softball AAA Combined,,,No
@@ -370,8 +370,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/6/2024,Sat,9:00,18:00,lw6,Game,15:00,17:15,BB AAA - Christofferson,RUG5,,No
 4/7/2024,Sun,17:00,21:00,ingraham,Practice,17:00,20:00,BB Majors - El Camion (Sam Glassburn),,,
 4/8/2024,Mon,17:00,19:00,bfday,Practice,18:00,19:00,BB A Team 2,,,No
-4/8/2024,Mon,17:45,21:00,lw3,,,,,,,No
-4/8/2024,Mon,17:45,21:00,lw4,,,,,,,No
+4/8/2024,Mon,17:45,21:00,lw3,Practice,17:45,19:45,BB AAA - Shikella,,,No
+4/8/2024,Mon,17:45,21:00,lw4,Practice,17:45,18:15,SB Majors Cube Smart,,,No
 4/8/2024,Mon,17:45,21:00,lw5,,,,,,,No
 4/8/2024,Mon,17:45,21:00,lw6,,,,,,,No
 4/9/2024,Tue,17:00,19:00,bfday,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,No
@@ -381,8 +381,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/9/2024,Tue,17:45,21:00,lw6,,,,,,,No
 4/9/2024,Tue,17:00,19:00,ross,Practice,18:00,19:00,SB A Ridge Pizza,,,No
 4/10/2024,Wed,17:00,19:00,bfday,,,,,,,No
-4/10/2024,Wed,17:45,20:00,lw3,,,,,,,No
-4/10/2024,Wed,17:45,21:00,lw4,,,,,,,No
+4/10/2024,Wed,17:45,20:00,lw3,Practice,17:45,19:45,BB AAA - Shikella,,,No
+4/10/2024,Wed,17:45,21:00,lw4,Practice,17:45,18:15,SB Majors Cube Smart,,,No
 4/10/2024,Wed,17:45,21:00,lw5,,,,,,,No
 4/10/2024,Wed,17:45,20:00,lw6,,,,,,,No
 4/10/2024,Wed,17:00,19:30,ross,,,,,,,No
@@ -393,7 +393,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/11/2024,Thu,17:45,21:00,lw6,,,,,,,No
 4/12/2024,Fri,17:00,19:00,bfday,,,,,,,No
 4/12/2024,Fri,17:45,21:00,lw3,,,,,,,No
-4/12/2024,Fri,17:45,20:00,lw4,,,,,,,No
+4/12/2024,Fri,17:45,20:00,lw4,Practice,17:45,18:15,SB Majors Cube Smart,,,No
 4/12/2024,Fri,17:45,20:00,lw5,,,,,,,No
 4/12/2024,Fri,17:00,19:30,lw6,,,,,,,No
 4/13/2024,Sat,8:30,17:30,bfday,Practice,10:00,13:00,Baseball A / AA Practice,,,No
