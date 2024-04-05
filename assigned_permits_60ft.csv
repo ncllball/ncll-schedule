@@ -571,8 +571,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/1/2024,Wed,18:00,19:30,lw6,Practice,18:30,19:30,SB AA North Seattle Orthodontics,,,
 5/1/2024,Wed,17:45,19:45,bitter lake 1,Practice,17:45,19:00,BB AAA - Shikella,,,No
 5/1/2024,Wed,17:45,19:45,bitter lake 1,Practice,18:30,19:45,SB Majors Cube Smart,,,
-5/1/2024,Wed,17:00,19:30,ross,Practice,17:00,18:15,BB AAA - Tufte,,,No
-5/1/2024,Wed,17:00,19:30,ross,Practice,18:15,19:30,BB AAA - Zeller,,,No
+5/1/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,BB AAA - Tufte,BB AAA - Zeller,,No
 5/2/2024,Thu,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
 5/2/2024,Thu,18:00,21:00,lw3,Practice,18:00,19:30,SB AAA Greenlake Kids Dentistry,SB AAA Dantini Pizza,,No
 5/2/2024,Thu,18:00,21:00,lw3,Practice,19:30,21:00,SB AAA Valley Events,,,
