@@ -385,7 +385,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/10/2024,Wed,17:45,21:00,lw4,Practice,17:45,19:15,SB Majors Cube Smart,,,No
 4/10/2024,Wed,17:45,21:00,lw5,Game,18:15,20:30,BB AAA - Anderson,BB AAA - Donovan,,No
 4/10/2024,Wed,17:45,20:00,lw6,,,,,,,No
-4/10/2024,Wed,17:00,19:30,ross,,,,,,,No
+4/10/2024,Wed,17:00,19:30,ross,Practice,17:00,18:00,SB AA Orca Analytics,,,
+4/10/2024,Wed,17:00,19:30,ross,Practice,18:00,19:00,SB AA Puffin Pediatrics,,,No
 4/11/2024,Thu,17:00,19:00,bfday,,,,,,,No
 4/11/2024,Thu,17:45,21:00,lw3,Game,18:15,20:45,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Lincoln (Michael Kilbourne),,No
 4/11/2024,Thu,17:45,20:00,lw4,Practice,17:45,20:00,BB Majors El Camion,,,No
@@ -805,10 +806,12 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/29/2024,Wed,15:00,20:30,lw5,other,,,NCLL Picnic,,,No
 5/29/2024,Wed,17:00,19:30,ross,Practice,17:00,18:15,SB AA Orca Analytics,,,No
 5/29/2024,Wed,17:00,19:30,ross,Practice,18:15,19:30,SB AA North Seattle Orthodontics,,,
+5/29/2024,Wed,17:00,19:30,university,,,,,,,
 5/30/2024,Thu,17:00,19:00,bfday,Game,17:30,19:00,Baseball A Game,,,No
 5/30/2024,Thu,17:45,20:15,lw4,Game,18:00,20:15,Baseball Majors Championship,,,No
 5/30/2024,Thu,17:45,20:30,lw5,Practice,17:45,20:15,Baseball Majors Practice,,,No
 5/30/2024,Thu,17:00,19:30,ross,Practice,17:00,19:00,Softball AAA Game,,,No
+5/30/2024,Thu,17:00,19:00,university,,,,,,,
 5/31/2024,Fri,17:45,19:00,lw3,Practice,17:45,19:00,Baseball All-Stars Practice,,,No
 5/31/2024,Fri,17:45,21:00,lw4,Game,17:45,19:15,Baseball AA Game,,,No
 5/31/2024,Fri,17:45,21:00,lw5,Game,17:45,20:15,Softball Juniors Game,,,No
