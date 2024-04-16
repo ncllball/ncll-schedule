@@ -266,7 +266,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 3/28/2024,Thu,18:00,21:00,lw6,Practice,18:00,19:15,BB Majors - Project 9 (Mike Bylsma),,,No
 3/28/2024,Thu,18:00,21:00,lw6,Practice,19:15,20:45,BB Majors - El Camion (Sam Glassburn),,,
 3/28/2024,Thu,17:45,20:15,lw5,Practice,18:00,19:30,SB AAA Greenlake Kids Dentistry,,,No
-3/28/2024,Thu,18:00,20:15,lw4,Game,18:15,20:15,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Branom Inst (Matt Berger),,No
+3/28/2024,Thu,18:00,20:15,lw4,,,,,,,No
 3/28/2024,Thu,17:45,21:00,lw3,Practice,18:00,19:30,SB AAA Valley Events,,,No
 3/28/2024,Thu,17:45,21:00,lw3,Practice,19:30,21:00,BB Majors - Lincoln (Michael Kilbourne),,,
 3/28/2024,Thu,17:45,20:15,northacres 2,Practice,17:45,19:15,SB AAA Dantini Pizza,,,No
@@ -704,10 +704,9 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/15/2024,Wed,17:45,19:45,bitter lake 1,Practice,17:45,19:45,BB AAA - Christofferson,BB AAA - Shikella,,No
 5/15/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,SB AA Orca Analytics,SB AA North Seattle Orthodontics,,No
 5/16/2024,Thu,17:00,19:00,bfday,Game,17:00,18:30,Baseball A Game,,,No
-5/16/2024,Thu,17:45,20:00,lw3,Practice,17:45,19:15,BB Majors - Zoka Coffee (Zach Korte),,,No
+5/16/2024,Thu,17:45,20:00,lw3,Practice,17:45,19:15,BB Majors - El Camion (Sam Glassburn),,,No
 5/16/2024,Thu,17:45,20:30,lw4,Game,18:15,20:30,BB Majors - Project 9 (Mike Bylsma),SLL1,,No
-5/16/2024,Thu,17:45,20:15,lw5,Practice,17:45,19:15,BB Majors - Branom Inst (Matt Berger),,,No
-5/16/2024,Thu,17:45,20:15,lw5,Practice,18:45,20:15,BB Majors - El Camion (Sam Glassburn),,,
+5/16/2024,Thu,17:45,20:15,lw5,Game,18:00,20:15,BB Majors - Zoka Coffee (Zach Korte),BB Majors - Branom Inst (Matt Berger),,No
 5/16/2024,Thu,17:00,19:00,bitter lake 1,Practice,17:00,18:15,SB AAA Greenlake Kids Dentistry,,,No
 5/16/2024,Thu,17:00,19:00,bitter lake 1,Practice,17:45,19:00,SB AAA Dantini Pizza,,,
 5/16/2024,Thu,17:00,18:15,lw6,Practice,17:00,18:15,SB AAA Valley Events,,,
@@ -743,7 +742,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/18/2024,Sat,10:00,15:00,bitter lake 1,Game,12:30,14:00,Baseball AA Game,,,
 5/18/2024,Sat,10:00,15:00,bitter lake 1,Practice,14:00,15:00,Baseball A Practice,,,
 5/19/2024,Sun,9:00,17:00,ross,,,,,,,No
-5/19/2024,Sun,18:00,21:00,ingraham,,,,,,,
+5/19/2024,Sun,18:00,21:00,ingraham,Practice,18:00,21:00,Baseball All-Stars Try-outs,,,
 5/19/2024,Sun,15:00,21:00,lw6,Game,15:30,18:00,SB Juniors 56th Street Market,RUG,,No
 5/19/2024,Sun,15:00,21:00,lw6,Game,18:30,21:00,SB Juniors 56th Street Market,RUG,,
 5/20/2024,Mon,17:00,19:00,bfday,Game,17:00,18:30,Baseball A Game,,,No
