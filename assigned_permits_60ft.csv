@@ -592,24 +592,23 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/4/2024,Sat,8:30,17:30,bfday,Game,13:00,15:00,SB AA Puffin Pediatrics,RUG2,,No
 5/4/2024,Sat,8:30,17:30,bfday,Game,15:30,17:30,SB AA Harjo Construction,BLL1,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,9:30,12:00,SB AAA Valley Events,SB AAA Dantini Pizza,,No
-5/4/2024,Sat,9:00,18:00,lw3,Practice,12:00,13:00,Baseball A Practice,,,
+5/4/2024,Sat,9:00,18:00,lw3,Game,12:15,13:45,Baseball A game,,,
 5/4/2024,Sat,9:00,18:00,lw3,Game,14:00,15:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,16:00,18:00,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
 5/4/2024,Sat,9:00,18:00,lw4,Game,9:30,12:00,BB Majors - Zoka Coffee (Zach Korte),RUG3,,No
 5/4/2024,Sat,9:00,18:00,lw4,Practice,12:00,13:30,SB Majors Tutta Bella,,,
 5/4/2024,Sat,9:00,18:00,lw4,Game,14:00,16:30,SB AAA Greenlake Kids Dentistry,RUG2,,No
 5/4/2024,Sat,9:00,18:00,lw5,Game,9:00,10:30,Baseball AA game,,,No
-5/4/2024,Sat,9:00,18:00,lw5,Practice,10:30,12:00,Baseball AA Practice,,,No
+5/4/2024,Sat,9:00,18:00,lw5,Game,10:45,12:15,Baseball A game,,,No
 5/4/2024,Sat,9:00,18:00,lw5,Game,12:30,14:45,BB AAA - Shikella,BB AAA - Zeller,,No
 5/4/2024,Sat,9:00,18:00,lw5,Game,15:15,17:30,BB AAA - Christofferson,BB AAA - Donovan,,No
 5/4/2024,Sat,9:00,18:00,lw6,Game,9:00,10:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw6,Game,11:00,13:00,BB AAA - Anderson,BLL1,,No
 5/4/2024,Sat,9:00,18:00,lw6,Game,13:30,15:30,BB Majors - El Camion (Sam Glassburn),BB Majors - Branom Inst (Matt Berger),,No
 5/4/2024,Sat,9:00,18:00,lw6,Game,16:00,18:00,BB Majors - Lincoln (Michael Kilbourne),BB Majors - Project 9 (Mike Bylsma),,No
-5/4/2024,Sat,9:00,17:00,ross,Game,9:00,10:30,Baseball A Game,,,No
-5/4/2024,Sat,9:00,17:00,ross,Game,10:30,12:00,Baseball A Game,,,No
-5/4/2024,Sat,9:00,17:00,ross,Game,12:00,13:30,Baseball A Game,,,No
-5/4/2024,Sat,9:00,17:00,ross,Game,13:30,15:00,Baseball A Game,,,No
+5/4/2024,Sat,9:00,17:00,ross,Practice,10:00,11:30,Baseball AA Practice,,,No
+5/4/2024,Sat,9:00,17:00,ross,Practice,11:30,12:30,Baseball A practice,,,No
+5/4/2024,Sat,9:00,17:00,ross,Game,13:00,14:30,Baseball A Game,,,No
 5/4/2024,Sat,9:00,17:00,ross,Game,15:00,16:30,Baseball A Game,,,No
 5/4/2024,Sat,8:30,17:30,university,,,,,,,No
 5/5/2024,Sun,15:00,20:00,lw6,Game,17:00,19:30,BB Majors - Branom Inst (Matt Berger),BB Majors - Lincoln (Michael Kilbourne),,No
