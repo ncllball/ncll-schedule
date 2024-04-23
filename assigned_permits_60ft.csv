@@ -528,7 +528,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 4/27/2024,Sat,9:00,18:00,lw3,Practice,11:30,13:00,SB AAA Dantini Pizza,,,No
 4/27/2024,Sat,9:00,18:00,lw3,Game,14:30,16:45,BB AAA - Tufte,BB AAA - Christofferson,,No
 4/27/2024,Sat,9:00,18:00,lw4,Game,9:30,12:00,BB Majors - Branom Inst (Matt Berger),NW1,,No
-4/27/2024,Sat,9:00,18:00,lw4,Game,12:30,15:00,SB Majors Cube Smart,SB Majors Anytime Fitness,,No
+4/27/2024,Sat,9:00,18:00,lw4,Practice,12:30,15:00,SB Majors Anytime Fitness,,,No
 4/27/2024,Sat,9:00,18:00,lw4,Game,15:30,18:00,SB AAA Greenlake Kids Dentistry,RUG1,,No
 4/27/2024,Sat,9:00,18:00,lw5,Game,9:00,10:30,Baseball AA game,,,No
 4/27/2024,Sat,9:00,18:00,lw5,,,,,,,No
@@ -649,7 +649,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/10/2024,Fri,17:45,21:00,lw3,Game,18:15,19:45,Baseball AA Game,,,No
 5/10/2024,Fri,17:45,21:00,lw4,Practice,17:45,19:15,Baseball AA Practice,,,No
 5/10/2024,Fri,17:45,21:00,lw5,Game,18:15,19:45,Baseball AA Game,,,No
-5/10/2024,Fri,17:45,21:00,lw6,,,,,,,
+5/10/2024,Fri,17:45,21:00,lw6,Game,18:15,20:45,SB Majors Cube Smart,SB Majors Anytime Fitness,,
 5/10/2024,Fri,17:00,19:00,bfday,Practice,17:30,19:00,Baseball AA Practice,,,No
 5/10/2024,Fri,17:00,19:00,ross,Practice,17:30,19:00,Baseball AA Practice,,,No
 5/10/2024,Fri,17:00,19:00,university,,,,,,,No
