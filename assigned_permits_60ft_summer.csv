@@ -3,32 +3,32 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 6/1/2024,Sat,9:00,18:00,dahl 3,Game,10:15,12:00,SB A Ridge Pizza,SB A Phinney Books,,Yes
 6/1/2024,Sat,9:00,18:00,dahl 3,Game,12:15,13:45,Baseball A Game,,,Yes
 6/1/2024,Sat,9:00,18:00,dahl 3,Game,14:00,16:00,SB AA Harjo Construction,SB AA Puffin Pediatrics,,Yes
-6/1/2024,Sat,9:00,15:00,lw3,Game,9:15,10:45,Baseball AA game,,,No
-6/1/2024,Sat,9:00,15:00,lw3,Game,11:00,13:15,Baseball AAA play-off,,,Yes
-6/1/2024,Sat,9:00,15:00,lw3,Practice,13:15,15:00,Softball All-Stars Practice,,,
+6/1/2024,Sat,9:00,15:00,lw3,Game,9:00,10:30,Baseball AA game,,,No
+6/1/2024,Sat,9:00,15:00,lw3,Game,10:45,12:45,Baseball AAA play-off,,,Yes
+6/1/2024,Sat,9:00,15:00,lw3,Practice,13:00,15:00,SB AAA Play-off,,,
 6/1/2024,Sat,9:00,15:00,lw4,Game,9:15,10:45,Baseball AA game,,,No
 6/1/2024,Sat,9:00,15:00,lw4,Game,11:00,13:15,Baseball AAA play-off,,,
 6/1/2024,Sat,9:00,15:00,lw4,Practice,13:15,15:00,Baseball All-Stars Practice,,,Yes
-6/1/2024,Sat,9:00,15:00,lw6,Game,9:15,10:45,Baseball AA game,,,No
-6/1/2024,Sat,9:00,15:00,lw6,Game,11:00,13:15,Baseball AAA play-off,,,No
-6/1/2024,Sat,9:00,15:00,lw6,Practice,13:15,15:00,Baseball All-Stars Practice,,,Yes
+6/1/2024,Sat,9:00,15:00,lw6,Game,9:00,10:30,Baseball AA game,,,No
+6/1/2024,Sat,9:00,15:00,lw6,Game,10:45,12:45,Baseball AAA play-off,,,No
+6/1/2024,Sat,9:00,15:00,lw6,Game,13:00,15:00,SB Majors Semi-Final,,,Yes
 6/1/2024,Sat,9:00,17:00,ross,Game,9:15,10:45,Baseball A Game,,,No
 6/1/2024,Sat,9:00,17:00,ross,Game,11:00,12:30,Baseball A Game,,,
 6/1/2024,Sat,9:00,17:00,ross,Game,13:00,14:30,Baseball AA game,,,
 6/1/2024,Sat,9:00,17:00,ross,Game,15:00,17:00,SB AA North Seattle Orthodontics,SB AA Orca Analytics,,Yes
 6/1/2024,Sat,9:00,12:00,university,Game,9:30,11:00,Baseball A Game,,,No
-6/2/2024,Sun,13:30,16:30,lw4,Practice,13:30,16:30,Baseball All-Stars Practice,,,No
-6/2/2024,Sun,9:00,16:15,ross,,,,,,,No
+6/2/2024,Sun,13:30,16:30,lw4,Game,14:00,16:30,SB Juniors Final,,,No
+6/2/2024,Sun,9:00,16:15,ross,Practice,13:15,16:15,Baseball All-Stars Practice,,,No
 6/3/2024,Mon,16:30,19:00,dahl 3,Game,16:45,19:00,Baseball AAA consolation,,,No
 6/3/2024,Mon,17:45,19:15,lw3,Practice,17:45,19:15,Baseball A Practice,,,Yes
 6/3/2024,Mon,17:45,20:45,lw4,Game,18:15,20:30,Baseball AAA play-off,,,No
 6/3/2024,Mon,17:45,20:30,lw5,Game,18:15,20:30,Baseball AAA play-off,,,No
-6/3/2024,Mon,17:30,20:00,lw6,Game,17:45,20:30,Softball tournament of champions,,,Yes
+6/3/2024,Mon,17:30,20:00,lw6,Game,18:00,20:30,SB Majors Final,,,Yes
 6/3/2024,Mon,17:30,19:30,ross,Practice,17:30,19:30,Baseball A Practice,,,Yes
 6/3/2024,Mon,17:30,20:30,magnuson 10,Practice,17:30,20:30,Baseball All-Stars Practice,,,
 6/3/2024,Mon,17:30,20:30,magnuson 11,Practice,17:30,20:30,Softball All-Stars Practice,,,
 6/4/2024,Tue,17:45,20:45,lw4,Practice,17:45,20:45,Baseball All-Stars Practice,,,No
-6/4/2024,Tue,17:45,20:30,lw5,Practice,17:45,20:30,Baseball All-Stars Practice,,,No
+6/4/2024,Tue,17:45,20:30,lw5,Game,18:00,20:30,SB AAA Play-off,,,No
 6/4/2024,Tue,18:00,20:00,magnuson 11,Practice,18:00,20:00,Softball All-Stars Practice,,,No
 6/4/2024,Tue,17:30,19:30,ross,Practice,17:30,18:30,SB A Phinney Books,,,No
 6/4/2024,Tue,17:30,19:30,ross,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,
@@ -43,7 +43,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 6/5/2024,Wed,17:00,18:30,eagle staff 90,Practice,17:00,18:30,Baseball All-Stars Practice,,,
 6/5/2024,Wed,17:00,18:45,ingraham 60,Practice,17:00,18:45,Softball All-Stars Practice,,,
 6/6/2024,Thu,17:00,19:00,loyal heights 90,Practice,17:00,19:00,Baseball All-Stars Practice,,,
-6/6/2024,Thu,17:45,20:00,lw5,Practice,17:45,20:00,Baseball All-Stars Practice,,,No
+6/6/2024,Thu,17:45,20:00,lw5,Game,17:45,20:00,SB AAA Finals,,,No
 6/6/2024,Thu,17:45,19:45,northacres 2,Practice,17:45,19:45,Softball All-Stars Practice,,,No
 6/6/2024,Thu,17:30,19:30,ross,Practice,17:30,19:30,Baseball A Practice,,,Yes
 6/6/2024,Thu,17:00,19:00,university,Practice,17:00,19:00,Baseball A Practice,,,No

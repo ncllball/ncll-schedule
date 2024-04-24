@@ -717,7 +717,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/17/2024,Fri,17:00,19:00,bfday,Game,17:30,19:00,Baseball AA Game,,,No
 5/17/2024,Fri,17:00,19:00,ross,Game,17:00,18:30,Baseball A Game,,,No
 5/17/2024,Fri,17:00,19:00,university,Game,17:00,18:30,Baseball AA game,,,No
-5/18/2024,Sat,8:30,17:30,bfday,,,,,,,No
+5/18/2024,Sat,8:30,17:30,bfday,Game,9:00,10:30,Baseball AA Game,,,No
 5/18/2024,Sat,8:30,17:30,bfday,Game,10:45,12:30,SB A Green Lake Orthodontics,SL 2,,No
 5/18/2024,Sat,8:30,17:30,bfday,Game,14:00,16:00,SB AA Puffin Pediatrics,RUG1,,No
 5/18/2024,Sat,9:00,18:00,lw3,Game,11:00,13:30,SB Majors Tutta Bella,NE1,,No
@@ -745,9 +745,9 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/19/2024,Sun,15:00,21:00,lw6,Game,15:30,18:00,SB Juniors 56th Street Market,RUG,,No
 5/19/2024,Sun,15:00,21:00,lw6,Game,18:30,21:00,SB Juniors 56th Street Market,RUG,,
 5/20/2024,Mon,17:00,19:00,bfday,Game,17:00,18:30,Baseball A Game,,,No
-5/20/2024,Mon,17:45,21:00,lw4,Game,17:45,20:15,Baseball AAA Game,,,No
-5/20/2024,Mon,17:00,19:00,bitter lake 1,Game,17:00,19:00,Softball Majors Game,,,No
-5/20/2024,Mon,17:45,21:00,lw5,Game,17:45,20:15,Softball Majors Game,,,No
+5/20/2024,Mon,17:45,21:00,lw4,Game,18:00,20:30,SB Juniors Playoffs,,,No
+5/20/2024,Mon,17:00,19:00,bitter lake 1,,,,,,,No
+5/20/2024,Mon,17:45,21:00,lw5,Game,18:00,20:30,SB Majors Playoffs,,,No
 5/20/2024,Mon,17:45,21:00,lw6,Game,17:45,20:15,Baseball AAA Game,,,No
 5/20/2024,Mon,17:30,19:30,ross,Game,17:30,19:00,Baseball A Game,,,No
 5/21/2024,Tue,17:00,19:00,bfday,Game,17:15,19:00,SB A Phinney Books,SB A Green Lake Orthodontics,,No
@@ -760,8 +760,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/21/2024,Tue,17:00,19:00,university,Practice,18:00,19:00,SB A Ridge Pizza,,,No
 5/22/2024,Wed,17:00,19:30,bfday,Game,17:30,19:30,SB AA Puffin Pediatrics,BLL1,,No
 5/22/2024,Wed,17:45,21:00,lw3,Game,17:45,20:15,Baseball AAA Game,,,No
-5/22/2024,Wed,17:45,20:15,lw4,Game,17:45,20:15,Softball Majors Game,,,No
-5/22/2024,Wed,17:45,20:30,lw5,Game,17:45,20:15,Baseball AAA Game,,,No
+5/22/2024,Wed,17:45,20:15,lw4,Game,18:00,20:15,Baseball AAA Game,,,No
+5/22/2024,Wed,17:45,20:30,lw5,Game,18:00,20:30,SB Majors Playoffs,,,No
 5/22/2024,Wed,17:45,21:00,lw6,Game,17:45,20:15,Baseball AAA Game,,,No
 5/22/2024,Wed,,,,Game,17:45,20:30,Softball Majors Game,,,Yes
 5/22/2024,Wed,17:30,20:00,ross,Game,18:00,20:00,SB AA North Seattle Orthodontics,NE1,,No
@@ -774,7 +774,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/23/2024,Thu,17:30,19:30,ross,Game,17:30,19:30,Softball AAA Game,,,No
 5/23/2024,Thu,17:00,19:00,university,Game,17:30,19:00,Baseball A Game,,,No
 5/24/2024,Fri,17:00,19:30,bfday,Game,17:30,19:00,Baseball AA game,,,No
-5/24/2024,Fri,17:00,19:30,bitter lake 1,Game,17:30,19:00,Baseball AA game,,,No
+5/24/2024,Fri,17:00,19:30,bitter lake 1,,,,,,,No
 5/24/2024,Fri,18:00,20:30,northacres 2,Game,18:00,19:30,Baseball AA game,,,No
 5/24/2024,Fri,15:45,18:00,lw6,Game,15:45,18:00,Softball Juniors Game,,,No
 5/24/2024,Fri,17:30,19:30,ross,Game,17:30,19:00,Baseball AA game,,,No
@@ -791,11 +791,10 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/28/2024,Tue,17:00,19:00,bitter lake 1,Practice,17:00,18:00,SB A Phinney Books,,,No
 5/28/2024,Tue,17:00,19:00,bitter lake 1,Practice,18:00,19:00,SB A Ridge Pizza,,,
 5/28/2024,Tue,17:00,18:30,bfday,Practice,17:30,18:30,SB A Green Lake Orthodontics,,,No
-5/28/2024,Tue,17:45,20:30,lw3,Game,17:45,20:15,Softball AAA Game,,,No
-5/28/2024,Tue,17:45,21:00,lw4,Practice,17:45,21:00,Baseball Majors Practice,,,No
+5/28/2024,Tue,17:45,20:30,lw3,Game,18:00,20:30,SB Juniors Playoffs,,,No
+5/28/2024,Tue,17:45,21:00,lw4,Game,18:00,20:30,SB AAA Playoffs,,,No
 5/28/2024,Tue,17:45,21:00,lw5,Practice,17:45,21:00,Baseball Majors Practice,,,No
 5/28/2024,Tue,17:45,21:00,lw6,Practice,17:45,21:00,Baseball Majors Practice,,,No
-5/28/2024,Tue,,,other,Practice,17:45,20:15,SB Juniors 56th Street Market,,,Yes
 5/28/2024,Tue,17:00,20:00,ross,Game,17:00,19:30,Softball AAA Game,,,No
 5/29/2024,Wed,17:00,19:30,bfday,Practice,17:00,18:15,SB AA Puffin Pediatrics,,,No
 5/29/2024,Wed,17:00,19:30,bfday,Practice,18:15,19:30,SB AA Harjo Construction,,,
@@ -807,12 +806,12 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/29/2024,Wed,17:00,19:30,university,,,,,,,
 5/30/2024,Thu,17:00,19:00,bfday,Game,17:30,19:00,Baseball A Game,,,No
 5/30/2024,Thu,17:45,20:15,lw4,Game,18:00,20:15,Baseball Majors Championship,,,No
-5/30/2024,Thu,17:45,20:30,lw5,Practice,17:45,20:15,Baseball Majors Practice,,,No
-5/30/2024,Thu,17:00,19:30,ross,Practice,17:00,19:00,Softball AAA Game,,,No
+5/30/2024,Thu,17:45,20:30,lw5,Game,18:00,20:30,SB Juniors Playoffs,,,No
+5/30/2024,Thu,17:00,19:30,ross,Game,17:00,19:30,SB AAA Playoffs,,,No
 5/30/2024,Thu,17:00,19:00,university,,,,,,,
 5/31/2024,Fri,17:45,19:00,lw3,Practice,17:45,19:00,Baseball All-Stars Practice,,,No
 5/31/2024,Fri,17:45,21:00,lw4,Game,17:45,19:15,Baseball AA Game,,,No
-5/31/2024,Fri,17:45,21:00,lw5,Game,17:45,20:15,Softball Juniors Game,,,No
+5/31/2024,Fri,17:45,21:00,lw5,Game,18:00,20:30,SB Juniors Playoffs,,,No
 5/31/2024,Fri,17:00,19:00,lw6,Game,17:00,18:30,Baseball AA Game,,,No
 5/31/2024,Fri,17:00,19:00,bfday,Game,17:00,18:30,Baseball AA game,,,No
 5/31/2024,Fri,17:00,19:30,ross,Game,17:45,19:15,Baseball AA Game,,,No
