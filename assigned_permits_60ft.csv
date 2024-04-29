@@ -759,11 +759,10 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/21/2024,Tue,17:45,20:15,northacres 2,Practice,17:45,19:15,SB Juniors 56th Street Market,,,No
 5/21/2024,Tue,17:00,19:00,university,Practice,18:00,19:00,SB A Ridge Pizza,,,No
 5/22/2024,Wed,17:00,19:30,bfday,Game,17:30,19:30,SB AA Puffin Pediatrics,BLL1,,No
-5/22/2024,Wed,17:45,21:00,lw3,Game,17:45,20:15,Baseball AAA Game,,,No
-5/22/2024,Wed,17:45,20:15,lw4,Game,18:00,20:15,Baseball AAA Game,,,No
+5/22/2024,Wed,17:45,21:00,lw3,Game,18:00,20:30,SB Majors Playoffs,,,No
+5/22/2024,Wed,17:45,20:15,lw4,Game,18:00,20:15,SB Majors Playoffs,,,No
 5/22/2024,Wed,17:45,20:30,lw5,Game,18:00,20:30,SB Majors Playoffs,,,No
 5/22/2024,Wed,17:45,21:00,lw6,Game,17:45,20:15,Baseball AAA Game,,,No
-5/22/2024,Wed,,,,Game,17:45,20:30,Softball Majors Game,,,Yes
 5/22/2024,Wed,17:30,20:00,ross,Game,18:00,20:00,SB AA North Seattle Orthodontics,NE1,,No
 5/22/2024,Wed,17:00,19:00,university,Game,,,,,,No
 5/23/2024,Thu,17:00,19:00,bfday,Game,17:00,18:30,Baseball A Game,,,No
@@ -794,8 +793,8 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/28/2024,Tue,17:45,20:30,lw3,Game,18:00,20:30,SB Juniors Playoffs,,,No
 5/28/2024,Tue,17:45,21:00,lw4,Game,18:00,20:30,SB AAA Playoffs,,,No
 5/28/2024,Tue,17:45,21:00,lw5,Practice,17:45,21:00,Baseball Majors Practice,,,No
-5/28/2024,Tue,17:45,21:00,lw6,Practice,17:45,21:00,Baseball Majors Practice,,,No
-5/28/2024,Tue,17:00,20:00,ross,Game,17:00,19:30,Softball AAA Game,,,No
+5/28/2024,Tue,17:45,21:00,lw6,Game,18:15,20:45,SB AAA Playoffs,,,No
+5/28/2024,Tue,17:00,20:00,ross,Practice,17:00,20:00,Baseball Majors Practice,,,No
 5/29/2024,Wed,17:00,19:30,bfday,Practice,17:00,18:15,SB AA Puffin Pediatrics,,,No
 5/29/2024,Wed,17:00,19:30,bfday,Practice,18:15,19:30,SB AA Harjo Construction,,,
 5/29/2024,Wed,17:45,20:00,lw3,other,,,NCLL Picnic,,,No
@@ -805,7 +804,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/29/2024,Wed,17:00,19:30,ross,Practice,18:15,19:30,SB AA North Seattle Orthodontics,,,
 5/29/2024,Wed,17:00,19:30,university,,,,,,,
 5/30/2024,Thu,17:00,19:00,bfday,Game,17:30,19:00,Baseball A Game,,,No
-5/30/2024,Thu,17:45,20:15,lw4,Game,18:00,20:15,Baseball Majors Championship,,,No
+5/30/2024,Thu,17:45,20:15,lw4,Game,17:45,20:15,Baseball Majors Championship,,,No
 5/30/2024,Thu,17:45,20:30,lw5,Game,18:00,20:30,SB Juniors Playoffs,,,No
 5/30/2024,Thu,17:00,19:30,ross,Game,17:00,19:30,SB AAA Playoffs,,,No
 5/30/2024,Thu,17:00,19:00,university,,,,,,,
