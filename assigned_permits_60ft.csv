@@ -604,7 +604,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/4/2024,Sat,9:00,18:00,lw6,Game,9:00,10:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw6,Game,11:00,13:00,BB AAA - Anderson,BLL1,,No
 5/4/2024,Sat,9:00,18:00,lw6,Game,13:30,15:30,BB Majors - El Camion (Sam Glassburn),BB Majors - Branom Inst (Matt Berger),,No
-5/4/2024,Sat,9:00,18:00,lw6,Game,16:00,18:00,BB Majors - Lincoln (Michael Kilbourne),BB Majors - Project 9 (Mike Bylsma),,No
+5/4/2024,Sat,9:00,18:00,lw6,,,,,,,No
 5/4/2024,Sat,9:00,17:00,ross,Practice,10:00,11:30,Baseball AA Practice,,,No
 5/4/2024,Sat,9:00,17:00,ross,Practice,11:30,12:30,Baseball A practice,,,No
 5/4/2024,Sat,9:00,17:00,ross,Game,13:00,14:30,Baseball A Game,,,No
@@ -691,8 +691,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/14/2024,Tue,17:45,21:00,lw3,Game,18:15,20:30,SB AAA Dantini Pizza,BLL,,No
 5/14/2024,Tue,17:45,21:00,lw4,Game,18:15,20:45,BB Majors - Branom Inst (Matt Berger),SLL5,,No
 5/14/2024,Tue,17:45,21:00,lw5,Game,18:15,20:45,SB AAA Valley Events,SB AAA Greenlake Kids Dentistry,,No
-5/14/2024,Tue,17:15,21:00,lw6,Practice,17:15,18:45,BB Majors - Project 9 (Mike Bylsma),,,No
-5/14/2024,Tue,17:15,21:00,lw6,Practice,18:45,20:15,BB Majors - Lincoln (Michael Kilbourne),,,
+5/14/2024,Tue,17:15,21:00,lw6,Game,17:45,20:15,BB Majors - Lincoln (Michael Kilbourne),BB Majors - Project 9 (Mike Bylsma),,No
 5/14/2024,Tue,17:00,19:00,bitter lake 1,Practice,17:30,19:00,SB Juniors 56th Street Market,,,No
 5/14/2024,Tue,17:00,19:00,ross,Game,17:15,19:00,SB A Green Lake Orthodontics,SL 1,,No
 5/15/2024,Wed,17:00,19:30,bfday,Game,17:30,19:30,SB AA Puffin Pediatrics,SB AA Harjo Construction,,No
