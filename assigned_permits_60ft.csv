@@ -573,11 +573,10 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/1/2024,Wed,17:45,19:45,bitter lake 1,Practice,18:30,19:45,SB Majors Cube Smart,,,
 5/1/2024,Wed,17:00,19:30,ross,Game,17:30,19:30,BB AAA - Tufte,BB AAA - Zeller,,No
 5/2/2024,Thu,17:00,19:00,bfday,Practice,17:00,19:00,Baseball A Practice,,,No
-5/2/2024,Thu,18:00,21:00,lw3,Practice,18:00,19:30,SB AAA Greenlake Kids Dentistry,SB AAA Dantini Pizza,,No
-5/2/2024,Thu,18:00,21:00,lw3,Practice,19:30,21:00,SB AAA Valley Events,,,
+5/2/2024,Thu,18:00,21:00,lw3,Game,18:30,21:00,SB AAA Valley Events,SB AAA Dantini Pizza,,No
 5/2/2024,Thu,17:45,21:00,lw4,Game,18:15,20:45,BB Majors - Zoka Coffee (Zach Korte),QA4,,No
 5/2/2024,Thu,17:45,21:00,lw5,Game,18:30,21:00,BB Majors - Project 9 (Mike Bylsma),MLL4,,No
-5/2/2024,Thu,17:45,20:15,bitter lake 1,Practice,17:45,19:00,BB Majors - Branom Inst (Matt Berger),,,No
+5/2/2024,Thu,17:45,20:15,bitter lake 1,,,,,,,No
 5/2/2024,Thu,17:45,20:15,bitter lake 1,Practice,19:00,20:15,BB Majors - Lincoln (Michael Kilbourne),,,
 5/2/2024,Thu,17:00,19:00,ross,Practice,17:00,19:00,Baseball A Practice,,,No
 5/3/2024,Fri,17:45,21:00,lw3,Game,18:15,19:45,Baseball AA Game,,,No
@@ -590,7 +589,7 @@ Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,
 5/4/2024,Sat,8:30,17:30,bfday,Game,10:45,12:30,SB A Ridge Pizza,NE 1,,No
 5/4/2024,Sat,8:30,17:30,bfday,Game,13:00,15:00,SB AA Puffin Pediatrics,RUG2,,No
 5/4/2024,Sat,8:30,17:30,bfday,Game,15:30,17:30,SB AA Harjo Construction,BLL1,,No
-5/4/2024,Sat,9:00,18:00,lw3,Game,9:30,12:00,SB AAA Valley Events,SB AAA Dantini Pizza,,No
+5/4/2024,Sat,9:00,18:00,lw3,,,,,,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,12:15,13:45,Baseball A game,,,
 5/4/2024,Sat,9:00,18:00,lw3,Game,14:00,15:30,Baseball AA game,,,No
 5/4/2024,Sat,9:00,18:00,lw3,Game,16:00,18:00,BB AAA - Tufte,BB AAA - Vasilopoulos,,No
