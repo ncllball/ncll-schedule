@@ -1,254 +1,259 @@
-Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,Away,Team ID3,Field Error
-6/1/2024,Sat,9:00,18:00,dahl 3,Practice,9:00,10:00,SB A Green Lake Orthodontics,,,Yes
-6/1/2024,Sat,9:00,18:00,dahl 3,Game,10:15,12:00,SB A Ridge Pizza,SB A Phinney Books,,Yes
-6/1/2024,Sat,9:00,18:00,dahl 3,Game,12:15,13:45,Baseball A Game,,,Yes
-6/1/2024,Sat,9:00,18:00,dahl 3,Game,14:00,16:00,SB AA Harjo Construction,SB AA Puffin Pediatrics,,Yes
-6/1/2024,Sat,9:00,21:00,lw3,Game,9:00,10:30,Baseball AA game,,,No
-6/1/2024,Sat,9:00,21:00,lw3,Game,11:00,13:15,Baseball AAA play-off,Game 1 - 4v5,,Yes
-6/1/2024,Sat,9:00,21:00,lw3,Practice,13:45,16:15,SB AAA Play-off,,,
-6/1/2024,Sat,9:00,21:00,lw4,Game,9:00,10:30,Baseball AA game,,,No
-6/1/2024,Sat,9:00,21:00,lw4,Game,11:00,13:15,Baseball AAA play-off,Game 2 - 3v6,,
-6/1/2024,Sat,9:00,21:00,lw4,Practice,13:15,16:15,Baseball All-Stars Practice,,,Yes
-6/1/2024,Sat,9:00,21:00,lw5,,,,,,,
-6/1/2024,Sat,9:00,21:00,lw6,Game,9:00,10:30,Baseball AA game,,,No
-6/1/2024,Sat,9:00,21:00,lw6,Game,11:00,13:15,Baseball AAA play-off,Game 3 - 2v7,,No
-6/1/2024,Sat,9:00,21:00,lw6,Game,13:45,16:15,SB Majors Semi-Final,,,Yes
-6/1/2024,Sat,9:00,17:00,ross,Game,9:15,10:45,Baseball A Game,,,No
-6/1/2024,Sat,9:00,17:00,ross,Game,11:00,12:30,Baseball A Game,,,
-6/1/2024,Sat,9:00,17:00,ross,Game,13:00,14:30,Baseball AA game,,,
-6/1/2024,Sat,9:00,17:00,ross,Game,15:00,17:00,SB AA North Seattle Orthodontics,SB AA Orca Analytics,,Yes
-6/1/2024,Sat,9:00,12:00,university,Game,9:30,11:00,Baseball A Game,,,No
-6/2/2024,Sun,13:30,16:30,lw4,Game,14:00,16:30,SB Juniors Final,,,No
-6/2/2024,Sun,9:00,16:15,ross,Practice,13:15,16:15,Baseball All-Stars Practice,,,No
-6/3/2024,Mon,16:30,19:00,dahl 3,Game,16:45,19:00,Baseball AAA consolation,Game 6 - G1 Loser v G2 Loser,,No
-6/3/2024,Mon,17:45,19:15,lw3,Practice,17:45,19:15,Baseball A Practice,,,Yes
-6/3/2024,Mon,17:45,20:45,lw4,Game,18:15,20:45,SB Majors Final,,,No
-6/3/2024,Mon,17:45,20:30,lw5,Game,18:15,20:30,Baseball AAA play-off,Game 5 - G2 Winner v G3 Winner,,No
-6/3/2024,Mon,17:30,20:00,lw6,Game,17:45,20:00,Baseball AAA play-off,Game 4 - 1vG1 Winner,,Yes
-6/3/2024,Mon,17:30,19:30,ross,Practice,17:30,19:30,Baseball A Practice,,,Yes
-6/3/2024,Mon,17:30,20:30,magnuson 10,Practice,17:30,20:30,Baseball All-Stars Practice,,,
-6/3/2024,Mon,17:30,20:30,magnuson 11,Practice,17:30,20:30,Softball All-Stars Practice,,,
-6/4/2024,Tue,17:45,20:45,lw4,Practice,17:45,20:45,Baseball All-Stars Practice,,,No
-6/4/2024,Tue,17:45,20:30,lw5,Game,18:00,20:30,SB AAA Play-off,,,No
-6/4/2024,Tue,18:00,20:00,magnuson 11,Practice,18:00,20:00,Softball All-Stars Practice,,,No
-6/4/2024,Tue,17:30,19:30,ross,Practice,17:30,18:30,SB A Phinney Books,,,No
-6/4/2024,Tue,17:30,19:30,ross,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,
-6/4/2024,Tue,17:30,19:30,ross,Practice,18:30,19:30,SB A Ridge Pizza,,,
-6/4/2024,Tue,17:00,19:00,university,,,,,,,No
-6/5/2024,Wed,17:45,20:30,lw4,Practice,18:15,20:30,Baseball AAA play-off,Game 7 - Top Seed Loser G4/G5 v G3 Loser,,No
-6/5/2024,Wed,17:45,19:15,lw6,Practice,17:45,19:15,Baseball AAA Practice,,,No
-6/5/2024,Wed,17:30,19:30,ross,Game,17:30,19:30,SB AA Puffin Pediatrics,SB AA North Seattle Orthodontics,,Yes
-6/5/2024,Wed,17:45,20:15,thornton 1,Game,18:15,20:15,SB AA Orca Analytics,SB AA Harjo Construction,,No
-6/5/2024,Wed,17:00,19:30,university,,,,,,,No
-6/5/2024,Wed,17:00,18:30,eagle staff 60,Practice,17:00,18:30,Baseball All-Stars Practice,,,
-6/5/2024,Wed,17:00,18:30,eagle staff 90,Practice,17:00,18:30,Baseball All-Stars Practice,,,
-6/5/2024,Wed,17:00,18:45,ingraham 60,Practice,17:00,18:45,Softball All-Stars Practice,,,
-6/6/2024,Thu,17:00,19:00,loyal heights 90,Practice,17:00,19:00,Baseball All-Stars Practice,,,
-6/6/2024,Thu,17:45,20:00,lw5,Game,17:45,20:00,SB AAA Finals,,,No
-6/6/2024,Thu,17:45,19:45,northacres 2,Practice,17:45,19:45,Softball All-Stars Practice,,,No
-6/6/2024,Thu,17:30,19:30,ross,Practice,17:30,19:30,Baseball A Practice,,,Yes
-6/6/2024,Thu,17:00,19:00,university,Practice,17:00,19:00,Baseball A Practice,,,No
-6/7/2024,Fri,17:00,19:00,dahl 3,Practice,17:00,19:00,Softball All-Stars Practice,,,No
-6/7/2024,Fri,18:15,21:00,eagle staff 60,Practice,18:15,21:00,Baseball All-Stars Practice,,,No
-6/7/2024,Fri,17:00,18:45,ingraham 60,Practice,17:00,18:45,Baseball All-Stars Practice,,,
-6/7/2024,Fri,18:00,20:00,lw4,Game,18:30,20:00,Baseball AA game,,,Yes
-6/7/2024,Fri,17:45,21:45,lw5,Game,18:15,19:45,Baseball AA game,,,No
-6/7/2024,Fri,17:00,20:00,lw6,Game,17:30,19:00,Baseball AA game,,,No
-6/7/2024,Fri,17:30,19:30,ross,Game,18:00,19:30,Baseball AA game,,,Yes
-6/8/2024,Sat,16:00,19:00,eagle staff 60,Game,16:30,18:45,Baseball AAA Championship,Game 9 - G4 Winner v G5 Winner (Championship),,No
-6/8/2024,Sat,17:00,19:00,eagle staff 90,Practice,17:00,19:00,Baseball All-Stars Practice,,,
-6/8/2024,Sat,9:00,15:00,lw4,Game,9:15,11:15,SB AA Orca Analytics,SB AA Puffin Pediatrics,,No
-6/8/2024,Sat,9:00,15:00,lw4,Game,11:30,13:30,SB AA Harjo Construction,SB AA North Seattle Orthodontics,,Yes
-6/8/2024,Sat,9:00,15:00,lw4,Practice,13:30,15:00,Softball All-Stars Practice,,,
-6/8/2024,Sat,11:30,19:00,lw5,Game,11:45,13:30,SB A Phinney Books,NE 2,,Yes
-6/8/2024,Sat,11:30,19:00,lw5,Game,13:45,15:30,SB A Green Lake Orthodontics,SB A Ridge Pizza,,Yes
-6/8/2024,Sat,11:30,19:00,lw5,Game,15:45,17:15,Baseball AA game,,,No
-6/8/2024,Sat,11:30,19:00,lw5,Game,17:30,19:00,Baseball AA game,,,
-6/8/2024,Sat,9:00,13:00,lw6,Game,9:00,10:30,Baseball AA game,,,No
-6/8/2024,Sat,9:00,13:00,lw6,Game,10:45,13:00,Baseball AAA Runner-up,Game 8 - G6 Winner v G7 Winner,,Yes
-6/8/2024,Sat,9:00,17:00,ross,Practice,9:00,10:00,Baseball A Practice,,,No
-6/8/2024,Sat,9:00,17:00,ross,Game,10:15,11:45,Baseball AA game,,,
-6/8/2024,Sat,9:00,17:00,ross,Game,12:00,13:30,Baseball A Game,,,No
-6/8/2024,Sat,9:00,17:00,ross,Game,13:45,15:15,Baseball A Game,,,No
-6/8/2024,Sat,9:00,17:00,ross,Game,15:30,17:00,Baseball A Game,,,No
-6/8/2024,Sat,9:00,17:00,university,Game,11:00,12:30,Baseball A Game,,,No
-6/8/2024,Sat,9:00,17:00,university,Practice,12:30,14:30,Softball All-Stars Practice,,,
-6/8/2024,Sat,9:00,17:00,university,Practice,14:30,17:00,Baseball All-Stars Practice,,,
-6/9/2024,Sun,16:00,18:00,lw3,Practice,16:00,18:00,Softball All-Stars Practice,,,No
-6/9/2024,Sun,16:00,20:00,lw6,Practice,16:00,20:00,Baseball All-Stars Practice,,,No
-6/10/2024,Mon,18:00,20:00,lw3,Practice,18:00,20:00,Softball All-Stars Practice,,,No
-6/10/2024,Mon,18:00,20:30,lw4,Practice,18:00,20:30,Softball Juniors Finals,,,No
-6/10/2024,Mon,18:00,21:00,lw5,Practice,18:00,21:00,Baseball All-Stars Practice,,,No
-6/10/2024,Mon,17:00,19:30,lw6,Game,17:15,19:30,Softball AAA Semi-Finals,,,No
-6/10/2024,Mon,17:30,19:30,ross,,,,,,,No
-6/11/2024,Tue,18:00,21:00,eagle staff 60,Practice,18:00,21:00,Baseball All-Stars Practice,,,
-6/11/2024,Tue,18:00,21:00,eagle staff 90,Practice,18:00,21:00,Baseball All-Stars Practice,,,
-6/11/2024,Tue,18:00,21:00,lw5,Practice,18:00,21:00,Softball All-Stars Practice,,,No
-6/11/2024,Tue,19:15,21:00,northacres 2,Practice,19:15,21:00,Softball All-Stars Practice,,,No
-6/11/2024,Tue,17:30,19:30,ross,Practice,17:30,19:30,Baseball All-Stars Practice,,,No
-6/12/2024,Wed,17:45,21:00,lw4,Practice,17:45,21:00,Softball All-Stars Practice,,,No
-6/12/2024,Wed,17:00,21:00,lw6,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/12/2024,Wed,17:30,21:30,magnuson 10,Practice,17:30,21:30,Baseball All-Stars Practice,,,No
-6/12/2024,Wed,17:00,19:30,ross,,,,,,,No
-6/13/2024,Thu,18:00,20:00,lw6,Practice,18:00,20:00,Softball All-Stars Practice,,,No
-6/13/2024,Thu,17:30,21:30,magnuson 10,Practice,17:30,21:30,Baseball All-Stars Practice,,,No
-6/13/2024,Thu,19:00,20:45,ingraham 60,Practice,19:00,20:45,Baseball All-Stars Practice,,,
-6/13/2024,Thu,19:00,20:45,ingraham 90,Practice,19:00,20:45,Baseball All-Stars Practice,,,
-6/13/2024,Thu,17:30,19:30,ross,,,,,,,No
-6/14/2024,Fri,18:00,21:00,eagle staff 60,Practice,18:00,21:00,Baseball All-Stars Practice,,,No
-6/14/2024,Fri,17:45,20:00,lw3,Practice,17:45,20:00,Softball All-Stars Practice,,,No
-6/14/2024,Fri,17:45,21:00,lw4,Practice,17:45,21:00,Baseball All-Stars Practice,,,No
-6/14/2024,Fri,17:45,20:45,lw5,,,,,,,No
-6/14/2024,Fri,17:00,18:30,lw6,,,,,,,No
-6/14/2024,Fri,17:30,19:30,ross,,,,,,,No
-6/15/2024,Sat,16:00,19:00,eagle staff 60,Practice,16:00,19:00,Baseball All-Stars Practice,,,No
-6/15/2024,Sat,9:00,16:00,lw3,Practice,9:00,11:00,Softball All-Stars Practice,,,No
-6/15/2024,Sat,9:00,16:00,lw4,,,,,,,No
-6/15/2024,Sat,9:00,16:00,lw6,,,,,,,No
-6/15/2024,Sat,10:00,16:00,ross,,,,,,,No
-6/16/2024,Sun,9:00,16:00,lw5,Practice,9:00,12:00,Baseball All-Stars Practice,,,No
-6/16/2024,Sun,9:00,16:00,lw5,Practice,12:00,15:00,Softball All-Stars Practice,,,
-6/16/2024,Sun,11:00,17:00,ross,,,,,,,No
-6/17/2024,Mon,17:00,21:00,lw3,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/17/2024,Mon,17:00,21:00,lw5,Practice,17:00,21:00,Softball All-Stars Practice,,,No
-6/17/2024,Mon,17:00,19:00,lw6,,,,,,,No
-6/17/2024,Mon,17:30,19:30,ross,,,,,,,No
-6/18/2024,Tue,16:45,18:15,lw6,Practice,16:45,18:15,Softball All-Stars Practice,,,No
-6/18/2024,Tue,17:30,19:30,ross,Practice,17:30,19:30,Baseball All-Stars Practice,,,No
-6/18/2024,Tue,17:45,20:00,lw1,Practice,17:45,20:00,Baseball All-Stars Practice,,,
-6/19/2024,Wed,17:00,19:00,loyal heights 90,Practice,17:00,19:00,Baseball All-Stars Practice,,,
-6/19/2024,Wed,17:00,18:30,eagle staff 90,Practice,17:00,18:30,Baseball All-Stars Practice,,,
-6/19/2024,Wed,17:00,19:00,lw3,Practice,17:00,19:00,Softball All-Stars Practice,,,No
-6/19/2024,Wed,18:00,20:00,magnuson 10,Practice,18:00,20:00,Softball All-Stars Practice,,,No
-6/19/2024,Wed,17:30,19:30,ross,,,,,,,No
-6/20/2024,Thu,16:00,18:45,ingraham 60,Practice,16:00,18:45,Baseball All-Stars Practice,,,No
-6/20/2024,Thu,16:00,18:45,ingraham 90,Practice,16:00,18:45,Baseball All-Stars Practice,,,
-6/20/2024,Thu,17:00,18:15,lw3,Practice,17:00,18:15,Softball All-Stars Practice,,,No
-6/20/2024,Thu,17:00,21:30,lw5,Practice,17:00,21:30,Softball All-Stars Practice,,,No
-6/20/2024,Thu,17:30,19:30,ross,,,,,,,No
-6/21/2024,Fri,16:00,19:00,ingraham 90,Practice,16:00,19:00,Baseball All-Stars Practice,,,
-6/21/2024,Fri,16:00,19:00,ingraham 60,Practice,16:00,19:00,Baseball All-Stars Practice,,,No
-6/21/2024,Fri,17:00,21:00,lw3,Practice,17:00,21:00,Softball All-Stars Practice,,,No
-6/22/2024,Sat,16:00,19:00,eagle staff 60,Practice,16:00,19:00,Baseball All-Stars Practice,,,No
-6/22/2024,Sat,10:00,14:00,lw5,Practice,10:00,12:00,Softball All-Stars Practice,,,No
-6/22/2024,Sat,10:00,14:00,lw6,,,,,,,No
-6/22/2024,Sat,9:00,17:00,ross,,,,,,,No
-6/23/2024,Sun,11:00,17:00,ross,Practice,11:00,13:00,Baseball All-Stars Practice,,,No
-6/23/2024,Sun,11:00,17:00,ross,Practice,13:00,16:00,Softball All-Stars Practice,,,
-6/24/2024,Mon,18:30,20:15,eagle staff 60,Practice,18:30,20:15,Baseball All-Stars Practice,,,No
-6/24/2024,Mon,17:15,19:15,lw3,,,,,,,No
-6/24/2024,Mon,17:45,21:00,lw4,Practice,17:45,21:00,Softball All-Stars Practice,,,No
-6/24/2024,Mon,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/25/2024,Tue,16:45,18:15,lw3,Practice,16:45,18:15,Softball All-Stars Practice,,,No
-6/25/2024,Tue,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/25/2024,Tue,17:00,20:00,ross,,,,,,,No
-6/26/2024,Wed,17:00,21:00,lw3,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/26/2024,Wed,17:45,21:45,lw4,Practice,17:45,21:45,Softball All-Stars Practice,,,No
-6/26/2024,Wed,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/26/2024,Wed,17:00,21:00,lw6,Practice,17:00,21:00,Softball All-Stars Practice,,,No
-6/26/2024,Wed,17:00,20:00,ross,,,,,,,No
-6/27/2024,Thu,17:45,21:00,lw4,Practice,17:45,21:00,Softball All-Stars Practice,,,No
-6/27/2024,Thu,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/27/2024,Thu,17:30,20:30,magnuson 10,Practice,17:30,20:30,Baseball All-Stars Practice,,,
-6/27/2024,Thu,17:30,20:30,magnuson 11,Practice,17:30,20:30,Softball All-Stars Practice,,,
-6/28/2024,Fri,17:00,21:00,ingraham 60,Practice,17:00,21:00,Baseball All-Stars Practice,,,
-6/28/2024,Fri,17:00,21:00,ingraham 90,Practice,17:00,21:00,Baseball All-Stars Practice,,,
-6/28/2024,Fri,17:00,21:00,lw5,Practice,17:00,21:00,Softball All-Stars Practice,,,No
-6/28/2024,Fri,17:00,21:00,lw6,Practice,17:00,21:00,Baseball All-Stars Practice,,,No
-6/29/2024,Sat,10:30,17:00,eagle staff 60,Practice,10:30,14:30,Baseball All-Stars Practice,,,No
-6/29/2024,Sat,10:00,14:00,lw5,Practice,10:00,12:00,Softball All-Stars Practice,,,No
-6/29/2024,Sat,10:00,12:00,ross,,,,,,,No
-6/30/2024,Sun,15:00,17:00,eagle staff 60,Practice,15:00,17:00,Baseball All-Stars Practice,,,No
-7/1/2024,Mon,16:30,18:30,eagle staff 90,Practice,16:30,18:30,Baseball All-Stars Practice,,,
-7/1/2024,Mon,16:30,18:30,eagle staff 60,Practice,16:30,18:30,Baseball All-Stars Practice,,,No
-7/1/2024,Mon,17:00,21:00,lw1,Practice,17:00,21:00,Baseball All-Stars Practice,,,
-7/2/2024,Tue,16:00,17:30,lw3,Practice,16:00,17:30,Baseball All-Stars Practice,,,No
-7/2/2024,Tue,17:00,20:00,lw4,Practice,17:00,20:00,Softball All-Stars Practice,,,No
-7/2/2024,Tue,9:00,17:00,lw5,,,,,,,No
-7/2/2024,Tue,16:00,17:30,lw6,Practice,16:00,17:30,Baseball All-Stars Practice,,,No
-7/2/2024,Tue,16:00,18:00,ross,,,,,,,No
-7/3/2024,Wed,14:00,16:00,lw3,,,,,,,No
-7/3/2024,Wed,17:00,20:00,lw4,Practice,17:00,20:00,Baseball All-Stars Practice,,,No
-7/3/2024,Wed,17:00,18:30,lw6,Practice,17:00,18:30,Softball All-Stars Practice,,,No
-7/3/2024,Wed,17:30,20:30,ross,,,,,,,No
-7/4/2024,Thu,18:00,20:00,dahl 2,,,,,,,No
-7/4/2024,Thu,17:30,20:00,ross,,,,,,,No
-7/5/2024,Fri,18:30,20:00,eagle staff 60,,,,,,,No
-7/6/2024,Sat,13:00,17:00,eagle staff 60,,,,,,,No
-7/7/2024,Sun,15:00,17:30,eagle staff 60,,,,,,,No
-7/8/2024,Mon,17:45,20:15,dahl 4,,,,,,,No
-7/8/2024,Mon,17:45,20:15,northacres 2,,,,,,,No
-7/8/2024,Mon,17:30,20:30,ross,,,,,,,No
-7/9/2024,Tue,15:00,18:00,lw3,,,,,,,No
-7/9/2024,Tue,17:00,20:00,lw4,,,,,,,No
-7/9/2024,Tue,16:00,17:30,lw6,,,,,,,No
-7/9/2024,Tue,17:00,19:00,northacres 2,,,,,,,No
-7/9/2024,Tue,16:00,18:00,ross,,,,,,,No
-7/10/2024,Wed,15:00,18:00,lw3,,,,,,,No
-7/10/2024,Wed,17:00,20:00,lw4,,,,,,,No
-7/10/2024,Wed,16:00,17:30,lw6,,,,,,,No
-7/10/2024,Wed,17:30,20:30,ross,,,,,,,No
-7/11/2024,Thu,17:45,20:15,dahl 4,,,,,,,No
-7/11/2024,Thu,16:00,21:00,lw4,,,,,,,No
-7/11/2024,Thu,17:30,20:00,ross,,,,,,,No
-7/12/2024,Fri,18:00,20:00,eagle staff 60,,,,,,,No
-7/12/2024,Fri,17:00,20:00,lw5,,,,,,,No
-7/13/2024,Sat,9:00,11:00,eagle staff 60,,,,,,,No
-7/14/2024,Sun,9:00,11:00,lw5,,,,,,,No
-7/15/2024,Mon,16:15,20:00,lw3,,,,,,,No
-7/15/2024,Mon,16:00,21:00,lw4,,,,,,,No
-7/15/2024,Mon,16:00,21:00,lw5,,,,,,,No
-7/15/2024,Mon,17:30,20:30,ross,,,,,,,No
-7/16/2024,Tue,16:15,18:30,lw3,,,,,,,No
-7/16/2024,Tue,16:00,21:00,lw4,,,,,,,No
-7/16/2024,Tue,16:00,18:00,ross,,,,,,,No
-7/17/2024,Wed,16:15,18:30,lw3,,,,,,,No
-7/17/2024,Wed,16:00,17:30,lw4,,,,,,,No
-7/17/2024,Wed,17:00,20:30,ross,,,,,,,No
-7/18/2024,Thu,16:15,18:30,lw3,,,,,,,No
-7/18/2024,Thu,16:00,21:00,lw4,,,,,,,No
-7/18/2024,Thu,17:00,19:00,lw5,,,,,,,No
-7/18/2024,Thu,17:30,20:00,ross,,,,,,,No
-7/22/2024,Mon,16:00,21:00,lw4,,,,,,,No
-7/22/2024,Mon,16:00,21:00,lw5,,,,,,,No
-7/22/2024,Mon,17:30,20:30,ross,,,,,,,No
-7/23/2024,Tue,17:00,20:00,lw3,,,,,,,No
-7/23/2024,Tue,17:30,20:00,ross,,,,,,,No
-7/24/2024,Wed,16:00,18:30,lw3,,,,,,,No
-7/24/2024,Wed,16:00,18:00,lw4,,,,,,,No
-7/24/2024,Wed,17:45,20:00,ross,,,,,,,No
-7/25/2024,Thu,17:00,20:00,lw3,,,,,,,No
-7/25/2024,Thu,17:30,20:00,ross,,,,,,,No
-7/29/2024,Mon,17:00,20:00,lw3,,,,,,,No
-7/29/2024,Mon,16:00,18:00,lw4,,,,,,,No
-7/29/2024,Mon,17:00,20:30,ross,,,,,,,No
-7/30/2024,Tue,17:00,20:00,lw3,,,,,,,No
-7/30/2024,Tue,17:30,20:00,ross,,,,,,,No
-7/31/2024,Wed,17:00,19:45,lw3,,,,,,,No
-7/31/2024,Wed,16:00,18:00,lw4,,,,,,,No
-8/1/2024,Thu,17:00,20:00,lw3,,,,,,,No
-8/1/2024,Thu,16:00,18:00,lw5,,,,,,,No
-8/1/2024,Thu,16:00,21:00,lw6,,,,,,,No
-8/1/2024,Thu,17:00,20:00,magnuson 10,,,,,,,No
-8/1/2024,Thu,17:45,20:00,ross,,,,,,,No
-8/5/2024,Mon,17:30,20:00,northacres 2,,,,,,,No
-8/5/2024,Mon,17:30,20:00,ross,,,,,,,No
-8/5/2024,Mon,17:30,20:00,university,,,,,,,No
-8/6/2024,Tue,17:30,20:00,lw6,,,,,,,No
-8/6/2024,Tue,17:30,20:00,ross,,,,,,,No
-8/6/2024,Tue,17:30,20:00,university,,,,,,,No
-8/7/2024,Wed,17:30,20:00,bitter lake 1,,,,,,,No
-8/7/2024,Wed,17:30,20:00,magnuson 11,,,,,,,No
-8/7/2024,Wed,17:30,20:00,university,,,,,,,No
-8/8/2024,Thu,17:30,20:00,lw6,,,,,,,No
-8/8/2024,Thu,17:30,20:00,magnuson 10,,,,,,,No
-8/8/2024,Thu,17:30,20:00,northacres 2,,,,,,,No
-8/8/2024,Thu,17:30,20:00,ross,,,,,,,No
-8/20/2024,Tue,16:00,18:30,lw4,,,,,,,No
-8/20/2024,Tue,17:30,20:00,ross,,,,,,,No
-8/21/2024,Wed,16:00,18:30,lw6,,,,,,,No
-8/22/2024,Thu,17:30,20:00,ross,,,,,,,No
-8/24/2024,Sat,9:00,14:30,lw3,,,,,,,No
-8/24/2024,Sat,9:00,18:30,lw4,,,,,,,No
-8/24/2024,Sat,16:30,18:30,lw6,,,,,,,No
-8/27/2024,Tue,18:00,20:00,ross,,,,,,,No
+Date,Day,Start Permit Time,End Permit Time,Field,Title,Start Time,End Time,Home,Away,Team ID3,Field Error,
+6/1/2024,Sat,9:00,18:00,dahl 3,Practice,9:00,10:00,SB A Green Lake Orthodontics,,,Yes,
+6/1/2024,Sat,9:00,18:00,dahl 3,Game,10:15,12:00,SB A Ridge Pizza,SB A Phinney Books,,Yes,
+6/1/2024,Sat,9:00,18:00,dahl 3,Game,12:15,13:45,Baseball A Game,,,Yes,
+6/1/2024,Sat,9:00,18:00,dahl 3,Game,14:00,16:00,SB AA Harjo Construction,SB AA Puffin Pediatrics,,Yes,
+6/1/2024,Sat,9:00,21:00,lw3,Game,9:00,10:30,Baseball AA game,,,No,
+6/1/2024,Sat,9:00,21:00,lw3,Game,11:00,13:15,Baseball AAA play-off,Game 1 - 4v5,,Yes,
+6/1/2024,Sat,9:00,21:00,lw3,Practice,13:30,15:00,SB AAA Dantini Pizza,,,,
+6/1/2024,Sat,9:00,21:00,lw3,Practice,15:00,16:30,SB AAA Greenlake Kids Dentistry,,,,
+6/1/2024,Sat,9:00,21:00,lw3,Practice,16:30,18:00,SB Majors Anytime Fitness,,,,
+6/1/2024,Sat,9:00,21:00,lw4,Game,9:00,10:30,Baseball AA game,,,No,
+6/1/2024,Sat,9:00,21:00,lw4,Game,11:00,13:15,Baseball AAA play-off,Game 2 - 3v6,,,
+6/1/2024,Sat,9:00,21:00,lw4,Practice,13:15,16:15,Baseball All-Stars Practice,,,Yes,
+6/1/2024,Sat,9:00,21:00,lw5,Practice,12:00,13:30,Baseball AAA Practice for non-playing team,,,,
+6/1/2024,Sat,9:00,21:00,lw5,Practice,13:30,15:00,SB AAA Valley Events,,,,
+6/1/2024,Sat,9:00,21:00,lw5,Practice,15:00,16:30,SB Majors Cube Smart,,,,
+6/1/2024,Sat,9:00,21:00,lw5,Practice,16:30,18:00,SB Majors Tutta Bella,,,,
+6/1/2024,Sat,9:00,21:00,lw6,Game,9:00,10:30,Baseball AA game,,,No,
+6/1/2024,Sat,9:00,21:00,lw6,Game,11:00,13:15,Baseball AAA play-off,Game 3 - 2v7,,No,
+6/1/2024,Sat,9:00,17:00,ross,Game,9:15,10:45,Baseball A Game,,,No,
+6/1/2024,Sat,9:00,17:00,ross,Game,11:00,12:30,Baseball A Game,,,,
+6/1/2024,Sat,9:00,17:00,ross,Game,13:00,14:30,Baseball AA game,,,,
+6/1/2024,Sat,9:00,17:00,ross,Game,15:00,17:00,SB AA North Seattle Orthodontics,SB AA Orca Analytics,,Yes,
+6/1/2024,Sat,9:00,12:00,university,Game,9:30,11:00,Baseball A Game,,,No,
+6/2/2024,Sun,13:30,16:30,lw4,Practice,13:30,16:30,SB Juniors,,,No,
+6/2/2024,Sun,9:00,16:15,ross,Practice,13:15,16:15,Baseball All-Stars Practice,,,No,
+6/3/2024,Mon,16:30,19:00,dahl 3,Game,16:45,19:00,Baseball AAA consolation,Game 6 - G1 Loser v G2 Loser,,No,
+6/3/2024,Mon,17:45,19:15,lw3,Practice,17:45,19:15,Baseball A Practice,,,Yes,SB Majors all teams (Away Game)
+6/3/2024,Mon,17:45,20:45,lw4,Game,18:00,20:30,SB Juniors,?,Confirmed,No,
+6/3/2024,Mon,17:45,20:30,lw5,Game,18:15,20:30,Baseball AAA play-off,Game 5 - G2 Winner v G3 Winner,,No,
+6/3/2024,Mon,17:30,20:00,lw6,Game,17:45,20:00,Baseball AAA play-off,Game 4 - 1vG1 Winner,,Yes,
+6/3/2024,Mon,17:30,19:30,ross,Practice,17:30,19:30,Baseball A Practice,,,Yes,
+6/3/2024,Mon,17:30,20:30,magnuson 10,Practice,17:30,20:30,Baseball All-Stars Practice,,,,
+6/3/2024,Mon,17:30,20:30,magnuson 11,Practice,17:30,20:30,Softball All-Stars Practice,,,,
+6/4/2024,Tue,17:45,20:45,lw4,Practice,17:45,20:45,Baseball All-Stars Practice,,,No,SB AAA Greenlake Kids Dentistry (Away Game)
+6/4/2024,Tue,17:45,20:30,lw5,Game,18:00,20:15,SB AAA Valley Events,RUG3,Confirmed,No,SB Majors all teams (Away Game)
+6/4/2024,Tue,18:00,20:00,magnuson 11,Practice,18:00,20:00,Softball All-Stars Practice,,,No,
+6/4/2024,Tue,17:30,19:30,ross,Practice,17:30,18:30,SB A Phinney Books,,,No,
+6/4/2024,Tue,17:30,19:30,ross,Practice,18:00,19:00,SB A Green Lake Orthodontics,,,,
+6/4/2024,Tue,17:30,19:30,ross,Practice,18:30,19:30,SB A Ridge Pizza,,,,
+6/4/2024,Tue,17:00,19:00,university,Practice,17:30,19:00,SB AAA Dantini Pizza,,,No,
+6/5/2024,Wed,17:45,20:30,lw4,Practice,18:15,20:30,Baseball AAA play-off,Game 7 - Top Seed Loser G4/G5 v G3 Loser,,No,SB AAA Valley Events (Away Game)
+6/5/2024,Wed,17:45,19:15,lw6,Practice,17:45,19:15,Baseball AAA Practice,,,No,SB Majors Cube Smart or Anytime Fitness (Away Game)
+6/5/2024,Wed,17:30,19:30,ross,Game,17:30,19:30,SB AA Puffin Pediatrics,SB AA North Seattle Orthodontics,,Yes,
+6/5/2024,Wed,17:45,20:15,thornton 1,Game,18:15,20:15,SB AA Orca Analytics,SB AA Harjo Construction,,No,
+6/5/2024,Wed,17:00,19:30,university,,,,,,,No,
+6/5/2024,Wed,17:00,18:30,eagle staff 60,Practice,17:00,18:30,Baseball All-Stars Practice,,,,
+6/5/2024,Wed,17:00,18:30,eagle staff 90,Practice,17:00,18:30,Baseball All-Stars Practice,,,,
+6/5/2024,Wed,17:00,18:45,ingraham 60,Practice,17:00,18:45,Softball All-Stars Practice,,,,
+6/6/2024,Thu,17:00,19:00,loyal heights 90,,,,Ouf of commission,,,,SB AAA Greenlake Kids Dentistry (Away Game)
+6/6/2024,Thu,17:45,20:00,lw5,Game,17:45,20:00,SB AAA Dantini Pizza,SL1,Confirmed,No,
+6/6/2024,Thu,17:45,19:45,northacres 2,Practice,17:45,19:45,Softball All-Stars Practice,,,No,
+6/6/2024,Thu,17:30,19:30,ross,Practice,17:30,19:30,Baseball A Practice,,,Yes,
+6/6/2024,Thu,17:00,19:00,university,Practice,17:00,19:00,Baseball A Practice,,,No,
+6/7/2024,Fri,17:00,19:00,dahl 3,Practice,17:00,19:00,Softball All-Stars Practice,,,No,
+6/7/2024,Fri,18:15,21:00,eagle staff 60,Practice,18:15,21:00,Baseball All-Stars Practice,,,No,
+6/7/2024,Fri,17:00,18:45,ingraham 60,Practice,17:00,18:45,Baseball All-Stars Practice,,,,
+6/7/2024,Fri,18:00,20:00,lw4,Game,18:30,20:00,Baseball AA game,,,Yes,
+6/7/2024,Fri,17:45,21:45,lw5,Game,18:15,19:45,Baseball AA game,,,No,
+6/7/2024,Fri,17:00,20:00,lw6,Game,17:30,19:00,Baseball AA game,,,No,
+6/7/2024,Fri,17:30,19:30,ross,Game,18:00,19:30,Baseball AA game,,,Yes,
+6/8/2024,Sat,16:00,19:00,eagle staff 60,Game,16:30,18:45,Baseball AAA Championship,Game 9 - G4 Winner v G5 Winner (Championship),,No,
+6/8/2024,Sat,17:00,19:00,eagle staff 90,Practice,17:00,19:00,Baseball All-Stars Practice,,,,
+6/8/2024,Sat,9:00,15:00,lw4,Game,9:15,11:15,SB AA Orca Analytics,SB AA Puffin Pediatrics,,No,
+6/8/2024,Sat,9:00,15:00,lw4,Game,11:30,13:30,SB AA Harjo Construction,SB AA North Seattle Orthodontics,,Yes,
+6/8/2024,Sat,9:00,15:00,lw4,Practice,13:30,15:00,Softball All-Stars Practice,,,,
+6/8/2024,Sat,11:30,19:00,lw5,Game,11:45,13:30,SB A Phinney Books,NE 2,,Yes,
+6/8/2024,Sat,11:30,19:00,lw5,Game,13:45,15:30,SB A Green Lake Orthodontics,SB A Ridge Pizza,,Yes,
+6/8/2024,Sat,11:30,19:00,lw5,Game,15:45,17:15,Baseball AA game,,,No,
+6/8/2024,Sat,11:30,19:00,lw5,Game,17:30,19:00,Baseball AA game,,,,
+6/8/2024,Sat,9:00,13:00,lw6,Game,9:00,10:30,Baseball AA game,,,No,
+6/8/2024,Sat,9:00,13:00,lw6,Game,10:45,13:00,Baseball AAA Runner-up,Game 8 - G6 Winner v G7 Winner,,Yes,
+6/8/2024,Sat,9:00,17:00,ross,Practice,9:00,10:00,Baseball A Practice,,,No,
+6/8/2024,Sat,9:00,17:00,ross,Game,10:15,11:45,Baseball AA game,,,,
+6/8/2024,Sat,9:00,17:00,ross,Game,12:00,13:30,Baseball A Game,,,No,
+6/8/2024,Sat,9:00,17:00,ross,Game,13:45,15:15,Baseball A Game,,,No,
+6/8/2024,Sat,9:00,17:00,ross,Game,15:30,17:00,Baseball A Game,,,No,
+6/8/2024,Sat,9:00,17:00,university,Practice,9:00,11:00,SB AAA Practice (if they're still in),,,,
+6/8/2024,Sat,9:00,17:00,university,Game,11:00,12:30,Baseball A Game,,,No,
+6/8/2024,Sat,9:00,17:00,university,Practice,12:30,14:30,Softball All-Stars Practice,,,,
+6/8/2024,Sat,9:00,17:00,university,Practice,14:30,17:00,Baseball All-Stars Practice,,,,
+6/9/2024,Sun,16:00,18:00,lw3,Practice,16:00,18:00,Softball All-Stars Practice,,,No,
+6/9/2024,Sun,16:00,20:00,lw6,Practice,16:00,20:00,Baseball All-Stars Practice,,,No,
+6/10/2024,Mon,18:00,20:00,lw3,Practice,18:00,20:00,Softball All-Stars Practice,,,No,SB AAA Teams (Potential Away Game)
+6/10/2024,Mon,18:00,20:30,lw4,Practice,18:00,20:30,Softball Juniors Playoffs,,Confirmed,No,
+6/10/2024,Mon,18:00,21:00,lw5,Practice,18:00,21:00,Baseball All-Stars Practice,,,No,
+6/10/2024,Mon,17:00,19:30,lw6,Game,17:15,19:30,Softball AAA Semi-Finals,,Confirmed,No,
+6/10/2024,Mon,17:30,19:30,ross,,,,,,,No,
+6/11/2024,Tue,18:00,21:00,eagle staff 60,Practice,18:00,21:00,Baseball All-Stars Practice,,,,SB AAA Teams (Potential Away Game)
+6/11/2024,Tue,18:00,21:00,eagle staff 90,Practice,18:00,21:00,Baseball All-Stars Practice,,,,
+6/11/2024,Tue,18:00,21:00,lw5,Practice,18:00,20:30,Softball AAA Championship,,Confirmed,No,
+6/11/2024,Tue,19:15,21:00,northacres 2,Practice,19:15,21:00,Softball All-Stars Practice,,,No,
+6/11/2024,Tue,17:30,19:30,ross,Practice,17:30,19:30,Baseball All-Stars Practice,,,No,
+6/12/2024,Wed,17:45,21:00,lw4,Practice,17:45,21:00,Softball All-Stars Practice,,,No,SB AAA Greenlake Kids Dentistry (Potential Away Game)
+6/12/2024,Wed,17:00,21:00,lw6,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/12/2024,Wed,17:30,21:30,magnuson 10,Practice,17:30,21:30,Baseball All-Stars Practice,,,No,
+6/12/2024,Wed,17:00,19:30,ross,,,,,,,No,
+6/13/2024,Thu,18:00,20:00,lw6,Practice,18:00,20:00,Softball All-Stars Practice,,,No,
+6/13/2024,Thu,17:30,21:30,magnuson 10,Practice,17:30,21:30,Baseball All-Stars Practice,,,No,
+6/13/2024,Thu,19:00,20:45,ingraham 60,Practice,19:00,20:45,Baseball All-Stars Practice,,,,
+6/13/2024,Thu,19:00,20:45,ingraham 90,Practice,19:00,20:45,Baseball All-Stars Practice,,,,
+6/13/2024,Thu,17:30,19:30,ross,,,,,,,No,
+6/14/2024,Fri,18:00,21:00,eagle staff 60,Practice,18:00,21:00,Baseball All-Stars Practice,,,No,
+6/14/2024,Fri,17:45,20:00,lw3,Practice,17:45,20:00,Softball All-Stars Practice,,,No,
+6/14/2024,Fri,17:45,21:00,lw4,Practice,17:45,21:00,Baseball All-Stars Practice,,,No,
+6/14/2024,Fri,17:45,20:45,lw5,,,,,,,No,
+6/14/2024,Fri,17:00,18:30,lw6,,,,,,,No,
+6/14/2024,Fri,17:30,19:30,ross,,,,,,,No,
+6/15/2024,Sat,16:00,19:00,eagle staff 60,Practice,16:00,19:00,Baseball All-Stars Practice,,,No,
+6/15/2024,Sat,9:00,16:00,lw3,Practice,9:00,11:00,Softball All-Stars Practice,,,No,
+6/15/2024,Sat,9:00,16:00,lw4,,,,,,,No,
+6/15/2024,Sat,9:00,16:00,lw6,,,,,,,No,
+6/15/2024,Sat,10:00,16:00,ross,,,,,,,No,
+6/16/2024,Sun,9:00,16:00,lw5,Practice,9:00,12:00,Baseball All-Stars Practice,,,No,
+6/16/2024,Sun,9:00,16:00,lw5,Practice,12:00,15:00,Softball All-Stars Practice,,,,
+6/16/2024,Sun,11:00,17:00,ross,,,,,,,No,
+6/17/2024,Mon,17:00,21:00,lw3,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/17/2024,Mon,17:00,21:00,lw5,Practice,17:00,21:00,Softball All-Stars Practice,,,No,
+6/17/2024,Mon,17:00,19:00,lw6,,,,,,,No,
+6/17/2024,Mon,17:30,19:30,ross,,,,,,,No,
+6/18/2024,Tue,16:45,18:15,lw6,Practice,16:45,18:15,Softball All-Stars Practice,,,No,
+6/18/2024,Tue,17:30,19:30,ross,Practice,17:30,19:30,Baseball All-Stars Practice,,,No,
+6/18/2024,Tue,17:45,20:00,lw1,Practice,17:45,20:00,Baseball All-Stars Practice,,,,
+6/19/2024,Wed,17:00,19:00,loyal heights 90,,,,Out of commission,,,,
+6/19/2024,Wed,17:00,18:30,eagle staff 90,Practice,17:00,18:30,Baseball All-Stars Practice,,,,
+6/19/2024,Wed,17:00,19:00,lw3,Practice,17:00,19:00,Softball All-Stars Practice,,,No,
+6/19/2024,Wed,18:00,20:00,magnuson 10,Practice,18:00,20:00,Softball All-Stars Practice,,,No,
+6/19/2024,Wed,17:30,19:30,ross,,,,,,,No,
+6/20/2024,Thu,16:00,18:45,ingraham 60,Practice,16:00,18:45,Baseball All-Stars Practice,,,No,
+6/20/2024,Thu,16:00,18:45,ingraham 90,Practice,16:00,18:45,Baseball All-Stars Practice,,,,
+6/20/2024,Thu,17:00,18:15,lw3,Practice,17:00,18:15,Softball All-Stars Practice,,,No,
+6/20/2024,Thu,17:00,21:30,lw5,Practice,17:00,21:30,Softball All-Stars Practice,,,No,
+6/20/2024,Thu,17:30,19:30,ross,,,,,,,No,
+6/21/2024,Fri,16:00,19:00,ingraham 90,Practice,16:00,19:00,Baseball All-Stars Practice,,,,
+6/21/2024,Fri,16:00,19:00,ingraham 60,Practice,16:00,19:00,Baseball All-Stars Practice,,,No,
+6/21/2024,Fri,17:00,21:00,lw3,Practice,17:00,21:00,Softball All-Stars Practice,,,No,
+6/22/2024,Sat,16:00,19:00,eagle staff 60,Practice,16:00,19:00,Baseball All-Stars Practice,,,No,
+6/22/2024,Sat,10:00,14:00,lw5,Practice,10:00,12:00,Softball All-Stars Practice,,,No,
+6/22/2024,Sat,10:00,14:00,lw6,,,,,,,No,
+6/22/2024,Sat,9:00,17:00,ross,,,,,,,No,
+6/23/2024,Sun,11:00,17:00,ross,Practice,11:00,13:00,Baseball All-Stars Practice,,,No,
+6/23/2024,Sun,11:00,17:00,ross,Practice,13:00,16:00,Softball All-Stars Practice,,,,
+6/24/2024,Mon,18:30,20:15,eagle staff 60,Practice,18:30,20:15,Baseball All-Stars Practice,,,No,
+6/24/2024,Mon,17:15,19:15,lw3,,,,,,,No,
+6/24/2024,Mon,17:45,21:00,lw4,Practice,17:45,21:00,Softball All-Stars Practice,,,No,
+6/24/2024,Mon,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/25/2024,Tue,16:45,18:15,lw3,Practice,16:45,18:15,Softball All-Stars Practice,,,No,
+6/25/2024,Tue,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/25/2024,Tue,17:00,20:00,ross,,,,,,,No,
+6/26/2024,Wed,17:00,21:00,lw3,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/26/2024,Wed,17:45,21:45,lw4,Practice,17:45,21:45,Softball All-Stars Practice,,,No,
+6/26/2024,Wed,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/26/2024,Wed,17:00,21:00,lw6,Practice,17:00,21:00,Softball All-Stars Practice,,,No,
+6/26/2024,Wed,17:00,20:00,ross,,,,,,,No,
+6/27/2024,Thu,17:45,21:00,lw4,Practice,17:45,21:00,Softball All-Stars Practice,,,No,
+6/27/2024,Thu,17:00,21:00,lw5,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/27/2024,Thu,17:30,20:30,magnuson 10,Practice,17:30,20:30,Baseball All-Stars Practice,,,,
+6/27/2024,Thu,17:30,20:30,magnuson 11,Practice,17:30,20:30,Softball All-Stars Practice,,,,
+6/28/2024,Fri,17:00,21:00,ingraham 60,Practice,17:00,21:00,Baseball All-Stars Practice,,,,
+6/28/2024,Fri,17:00,21:00,ingraham 90,Practice,17:00,21:00,Baseball All-Stars Practice,,,,
+6/28/2024,Fri,17:00,21:00,lw5,Practice,17:00,21:00,Softball All-Stars Practice,,,No,
+6/28/2024,Fri,17:00,21:00,lw6,Practice,17:00,21:00,Baseball All-Stars Practice,,,No,
+6/29/2024,Sat,10:30,17:00,eagle staff 60,Practice,10:30,14:30,Baseball All-Stars Practice,,,No,
+6/29/2024,Sat,10:00,14:00,lw5,Practice,10:00,12:00,Softball All-Stars Practice,,,No,
+6/29/2024,Sat,10:00,12:00,ross,,,,,,,No,
+6/30/2024,Sun,15:00,17:00,eagle staff 60,Practice,15:00,17:00,Baseball All-Stars Practice,,,No,
+7/1/2024,Mon,16:30,18:30,eagle staff 90,Practice,16:30,18:30,Baseball All-Stars Practice,,,,
+7/1/2024,Mon,16:30,18:30,eagle staff 60,Practice,16:30,18:30,Baseball All-Stars Practice,,,No,
+7/1/2024,Mon,17:00,21:00,lw1,Practice,17:00,21:00,Baseball All-Stars Practice,,,,
+7/2/2024,Tue,16:00,17:30,lw3,Practice,16:00,17:30,Baseball All-Stars Practice,,,No,
+7/2/2024,Tue,17:00,20:00,lw4,Practice,17:00,20:00,Softball All-Stars Practice,,,No,
+7/2/2024,Tue,9:00,17:00,lw5,,,,,,,No,
+7/2/2024,Tue,16:00,17:30,lw6,Practice,16:00,17:30,Baseball All-Stars Practice,,,No,
+7/2/2024,Tue,16:00,18:00,ross,,,,,,,No,
+7/3/2024,Wed,14:00,16:00,lw3,,,,,,,No,
+7/3/2024,Wed,17:00,20:00,lw4,Practice,17:00,20:00,Baseball All-Stars Practice,,,No,
+7/3/2024,Wed,17:00,18:30,lw6,Practice,17:00,18:30,Softball All-Stars Practice,,,No,
+7/3/2024,Wed,17:30,20:30,ross,,,,,,,No,
+7/4/2024,Thu,18:00,20:00,dahl 2,,,,,,,No,
+7/4/2024,Thu,17:30,20:00,ross,,,,,,,No,
+7/5/2024,Fri,18:30,20:00,eagle staff 60,,,,,,,No,
+7/6/2024,Sat,13:00,17:00,eagle staff 60,,,,,,,No,
+7/7/2024,Sun,15:00,17:30,eagle staff 60,,,,,,,No,
+7/8/2024,Mon,17:45,20:15,dahl 4,,,,,,,No,
+7/8/2024,Mon,17:45,20:15,northacres 2,,,,,,,No,
+7/8/2024,Mon,17:30,20:30,ross,,,,,,,No,
+7/9/2024,Tue,15:00,18:00,lw3,,,,,,,No,
+7/9/2024,Tue,17:00,20:00,lw4,,,,,,,No,
+7/9/2024,Tue,16:00,17:30,lw6,,,,,,,No,
+7/9/2024,Tue,17:00,19:00,northacres 2,,,,,,,No,
+7/9/2024,Tue,16:00,18:00,ross,,,,,,,No,
+7/10/2024,Wed,15:00,18:00,lw3,,,,,,,No,
+7/10/2024,Wed,17:00,20:00,lw4,,,,,,,No,
+7/10/2024,Wed,16:00,17:30,lw6,,,,,,,No,
+7/10/2024,Wed,17:30,20:30,ross,,,,,,,No,
+7/11/2024,Thu,17:45,20:15,dahl 4,,,,,,,No,
+7/11/2024,Thu,16:00,21:00,lw4,,,,,,,No,
+7/11/2024,Thu,17:30,20:00,ross,,,,,,,No,
+7/12/2024,Fri,18:00,20:00,eagle staff 60,,,,,,,No,
+7/12/2024,Fri,17:00,20:00,lw5,,,,,,,No,
+7/13/2024,Sat,9:00,11:00,eagle staff 60,,,,,,,No,
+7/14/2024,Sun,9:00,11:00,lw5,,,,,,,No,
+7/15/2024,Mon,16:15,20:00,lw3,,,,,,,No,
+7/15/2024,Mon,16:00,21:00,lw4,,,,,,,No,
+7/15/2024,Mon,16:00,21:00,lw5,,,,,,,No,
+7/15/2024,Mon,17:30,20:30,ross,,,,,,,No,
+7/16/2024,Tue,16:15,18:30,lw3,,,,,,,No,
+7/16/2024,Tue,16:00,21:00,lw4,,,,,,,No,
+7/16/2024,Tue,16:00,18:00,ross,,,,,,,No,
+7/17/2024,Wed,16:15,18:30,lw3,,,,,,,No,
+7/17/2024,Wed,16:00,17:30,lw4,,,,,,,No,
+7/17/2024,Wed,17:00,20:30,ross,,,,,,,No,
+7/18/2024,Thu,16:15,18:30,lw3,,,,,,,No,
+7/18/2024,Thu,16:00,21:00,lw4,,,,,,,No,
+7/18/2024,Thu,17:00,19:00,lw5,,,,,,,No,
+7/18/2024,Thu,17:30,20:00,ross,,,,,,,No,
+7/22/2024,Mon,16:00,21:00,lw4,,,,,,,No,
+7/22/2024,Mon,16:00,21:00,lw5,,,,,,,No,
+7/22/2024,Mon,17:30,20:30,ross,,,,,,,No,
+7/23/2024,Tue,17:00,20:00,lw3,,,,,,,No,
+7/23/2024,Tue,17:30,20:00,ross,,,,,,,No,
+7/24/2024,Wed,16:00,18:30,lw3,,,,,,,No,
+7/24/2024,Wed,16:00,18:00,lw4,,,,,,,No,
+7/24/2024,Wed,17:45,20:00,ross,,,,,,,No,
+7/25/2024,Thu,17:00,20:00,lw3,,,,,,,No,
+7/25/2024,Thu,17:30,20:00,ross,,,,,,,No,
+7/29/2024,Mon,17:00,20:00,lw3,,,,,,,No,
+7/29/2024,Mon,16:00,18:00,lw4,,,,,,,No,
+7/29/2024,Mon,17:00,20:30,ross,,,,,,,No,
+7/30/2024,Tue,17:00,20:00,lw3,,,,,,,No,
+7/30/2024,Tue,17:30,20:00,ross,,,,,,,No,
+7/31/2024,Wed,17:00,19:45,lw3,,,,,,,No,
+7/31/2024,Wed,16:00,18:00,lw4,,,,,,,No,
+8/1/2024,Thu,17:00,20:00,lw3,,,,,,,No,
+8/1/2024,Thu,16:00,18:00,lw5,,,,,,,No,
+8/1/2024,Thu,16:00,21:00,lw6,,,,,,,No,
+8/1/2024,Thu,17:00,20:00,magnuson 10,,,,,,,No,
+8/1/2024,Thu,17:45,20:00,ross,,,,,,,No,
+8/5/2024,Mon,17:30,20:00,northacres 2,,,,,,,No,
+8/5/2024,Mon,17:30,20:00,ross,,,,,,,No,
+8/5/2024,Mon,17:30,20:00,university,,,,,,,No,
+8/6/2024,Tue,17:30,20:00,lw6,,,,,,,No,
+8/6/2024,Tue,17:30,20:00,ross,,,,,,,No,
+8/6/2024,Tue,17:30,20:00,university,,,,,,,No,
+8/7/2024,Wed,17:30,20:00,bitter lake 1,,,,,,,No,
+8/7/2024,Wed,17:30,20:00,magnuson 11,,,,,,,No,
+8/7/2024,Wed,17:30,20:00,university,,,,,,,No,
+8/8/2024,Thu,17:30,20:00,lw6,,,,,,,No,
+8/8/2024,Thu,17:30,20:00,magnuson 10,,,,,,,No,
+8/8/2024,Thu,17:30,20:00,northacres 2,,,,,,,No,
+8/8/2024,Thu,17:30,20:00,ross,,,,,,,No,
+8/20/2024,Tue,16:00,18:30,lw4,,,,,,,No,
+8/20/2024,Tue,17:30,20:00,ross,,,,,,,No,
+8/21/2024,Wed,16:00,18:30,lw6,,,,,,,No,
+8/22/2024,Thu,17:30,20:00,ross,,,,,,,No,
+8/24/2024,Sat,9:00,14:30,lw3,,,,,,,No,
+8/24/2024,Sat,9:00,18:30,lw4,,,,,,,No,
+8/24/2024,Sat,16:30,18:30,lw6,,,,,,,No,
+8/27/2024,Tue,18:00,20:00,ross,,,,,,,No,
