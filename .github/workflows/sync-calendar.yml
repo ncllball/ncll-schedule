@@ -27,26 +27,27 @@ jobs:
     
     - name: Debug - List files
       run: |
-        echo "Current directory:"
-        pwd
-        echo "============================"
-        echo "All files in repo:"
+        echo "==========================="
+        echo "Current directory: $(pwd)"
+        echo "==========================="
+        echo "All files in root:"
         ls -la
-        echo "============================"
-        echo "Check if scripts directory exists:"
+        echo "==========================="
+        echo "Check for scripts directory:"
         if [ -d "scripts" ]; then
-          echo "scripts/ directory found!"
-          echo "Contents of scripts directory:"
+          echo "✓ scripts/ directory EXISTS"
+          echo "Contents of scripts/:"
           ls -la scripts/
         else
-          echo "scripts/ directory NOT found"
+          echo "✗ scripts/ directory NOT FOUND"
         fi
-        echo "============================"
-        echo "Find all .txt files:"
-        find . -name "*.txt" -type f
-        echo "============================"
-        echo "Find all .py files:"
-        find . -name "*.py" -type f
+        echo "==========================="
+        echo "Search for requirements.txt anywhere:"
+        find . -name "requirements.txt" -type f 2>/dev/null || echo "No requirements.txt found"
+        echo "==========================="
+        echo "Search for all .py files:"
+        find . -name "*.py" -type f 2>/dev/null || echo "No .py files found"
+        echo "==========================="
     
     - name: Install dependencies
       run: |
