@@ -57,9 +57,15 @@ def parse_datetime(date_str: str, time_str: str, timezone_str: str) -> tuple:
         # Parse date (e.g., "May 31, 2023")
         date = datetime.strptime(date_str.strip(), "%B %d, %Y")
         
+        # Update year to 2025 if the date is from 2023
+        if date.year == 2023:
+            date = date.replace(year=2025)
+            print(f"Updated year from 2023 to 2025 for {date_str}")
+        
         # Parse time range (e.g., "03:00 PM - 08:15 PM")
         times = time_str.split(' - ')
         if len(times) != 2:
+            print(f"Invalid time format: {time_str}")
             return None, None
         
         start_time_str = times[0].strip()
