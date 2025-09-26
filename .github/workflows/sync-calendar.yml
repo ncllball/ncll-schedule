@@ -5,6 +5,7 @@ on:
     paths:
       - 'permits_from_parks_summer.csv'
       - 'scripts/sync_calendar.py'
+      - '.github/workflows/sync-calendar.yml'
     branches:
       - main
       - master
@@ -33,20 +34,11 @@ jobs:
         echo "All files in root:"
         ls -la
         echo "==========================="
-        echo "Check for scripts directory:"
-        if [ -d "scripts" ]; then
-          echo "✓ scripts/ directory EXISTS"
-          echo "Contents of scripts/:"
-          ls -la scripts/
-        else
-          echo "✗ scripts/ directory NOT FOUND"
-        fi
+        echo "Contents of scripts directory:"
+        ls -la scripts/
         echo "==========================="
-        echo "Search for requirements.txt anywhere:"
-        find . -name "requirements.txt" -type f 2>/dev/null || echo "No requirements.txt found"
-        echo "==========================="
-        echo "Search for all .py files:"
-        find . -name "*.py" -type f 2>/dev/null || echo "No .py files found"
+        echo "Checking requirements.txt:"
+        cat scripts/requirements.txt
         echo "==========================="
     
     - name: Install dependencies
