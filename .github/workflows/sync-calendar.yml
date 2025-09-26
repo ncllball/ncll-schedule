@@ -29,11 +29,25 @@ jobs:
       run: |
         echo "Current directory:"
         pwd
+        echo "============================"
         echo "All files in repo:"
         ls -la
-        echo "Contents of scripts directory:"
-        ls -la scripts/ || echo "scripts directory not found"
-        
+        echo "============================"
+        echo "Check if scripts directory exists:"
+        if [ -d "scripts" ]; then
+          echo "scripts/ directory found!"
+          echo "Contents of scripts directory:"
+          ls -la scripts/
+        else
+          echo "scripts/ directory NOT found"
+        fi
+        echo "============================"
+        echo "Find all .txt files:"
+        find . -name "*.txt" -type f
+        echo "============================"
+        echo "Find all .py files:"
+        find . -name "*.py" -type f
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
