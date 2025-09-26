@@ -1,0 +1,16 @@
+# Generated CSV files from processing permits
+permits_60ft.csv
+permits_90ft.csv
+permits_60ft_summer.csv
+permits_90ft_summer.csv
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
