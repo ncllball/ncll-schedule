@@ -1,0 +1,60 @@
+name: Sync Schedule to Google Calendar
+
+on:
+  push:
+    paths:
+      - 'permits_from_parks_summer.csv'
+      - 'scripts/sync_calendar.py'
+      - '.github/workflows/sync-calendar.yml'
+    branches:
+      - main
+      - master
+  workflow_dispatch:  # Allows manual trigger
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC (11 PM PST)
+
+jobs:
+  sync-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Debug - List files
+      run: |
+        echo "==========================="
+        echo "Current directory: $(pwd)"
+        echo "==========================="
+        echo "All files in root:"
+        ls -la
+        echo "==========================="
+        echo "Contents of scripts directory:"
+        ls -la scripts/
+        echo "==========================="
+        echo "Checking requirements.txt:"
+        cat scripts/requirements.txt
+        echo "==========================="
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+
+    - name: Sync CSV to Google Calendar
+      env:
+        GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+        GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+        CALENDAR_TIME_ZONE: ${{ secrets.CALENDAR_TIME_ZONE || 'America/Los_Angeles' }}
+      run: python scripts/sync_calendar.py
+
+    - name: Log sync status
+      if: always()
+      run: |
+        echo "Sync completed at $(date)"
+        echo "CSV file: permits_from_parks_summer.csv"
